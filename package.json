@@ -23,6 +23,8 @@
     "android:bundle": "npm run android:sync && node scripts/android-build.cjs bundleRelease",
     "build": "npm run build:exe",
     "android:open": "npx cap open android",
+    "gh:login": "gh auth login --web --hostname github.com --git-protocol https",
+    "github:publish": "gh repo create squadspell --public --description \"Squad Spell word game\" --source=. --remote=origin --push",
     "package:portable": "node scripts/package-portable.cjs",
     "package:release": "npm run build:exe && node scripts/package-portable.cjs"
   },
