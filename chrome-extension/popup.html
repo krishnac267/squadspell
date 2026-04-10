@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SquadSpell</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; }
+    body {
+      width: 280px;
+      padding: 16px;
+      font-family: system-ui, Segoe UI, Roboto, sans-serif;
+      background: linear-gradient(165deg, #1a0a2e 0%, #0f0518 100%);
+      color: #f5f0ff;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+    .brand img {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+    .brand h1 {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+    .brand p {
+      font-size: 11px;
+      opacity: 0.75;
+      margin-top: 2px;
+    }
+    button {
+      width: 100%;
+      padding: 12px 16px;
+      border: none;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      background: linear-gradient(180deg, #e8c547 0%, #d4af37 45%, #a67c00 100%);
+      color: #1a0f08;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+    }
+    button:hover {
+      filter: brightness(1.05);
+    }
+    button:active {
+      transform: translateY(1px);
+    }
+    .hint {
+      margin-top: 12px;
+      font-size: 10px;
+      line-height: 1.45;
+      opacity: 0.65;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="brand">
+    <img src="assets/squadspell-logo.png" width="40" height="40" alt="">
+    <div>
+      <h1>SquadSpell</h1>
+      <p>Word game</p>
+    </div>
+  </div>
+  <button type="button" id="open-game">Start game</button>
+  <p class="hint">Same Wi‑Fi as friends: run <strong>SquadSpell.exe</strong> (or Launch.bat) on the host PC, then <strong>Create room</strong> or <strong>Join room</strong> in the game. Port 3331 — no Node install.</p>
+  <script src="popup.js"></script>
+</body>
+</html>

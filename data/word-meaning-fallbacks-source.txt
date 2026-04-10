@@ -1,0 +1,7622 @@
+# One entry per line: WORD – definition (en-dash or hyphen after word).
+# Lines starting with # are ignored. You can append more parts here later.
+
+AA – rough lava rock; also expression of surprise
+AB – a blood group
+AD – time period after the birth of Christ (Common Era)
+AE – vowel combination (like in "aesthetic")
+AG – chemical symbol for silver
+AH – expression (surprise/realization)
+AI – artificial intelligence
+AL – Arabic word meaning "the" (used in names)
+AM – morning time / "I am" verb
+AN – article used before vowel sounds (an apple)
+AP – advanced placement (education)
+AR – augmented reality / "are" (informal)
+AS – like / in the role of
+AT – showing place or time
+AW – expression (sympathy or disappointment)
+AX – tool for chopping wood
+AY – yes (old/poetic usage)
+BA – Bachelor of Arts degree
+BE – to exist
+BI – meaning "two"
+BO – friend (informal slang)
+BY – near / beside / done by
+DA – District Attorney
+DE – from (used in names/languages)
+DO – to perform / act
+ED – education / past tense ending
+EF – letter name (F)
+EH – expression (doubt/question, common in Canada)
+EL – elevated train
+EM – printing unit / letter "M"
+EN – printing unit / letter "N"
+ER – someone who does something / also "um" sound
+ES – plural of letter "S"
+ET – "and" in Latin
+EW – expression of disgust
+EX – former (ex-friend)
+FA – musical note
+FE – chemical symbol for iron
+GI – U.S. soldier
+GO – to move
+HA – expression (laughter/surprise)
+HE – male pronoun
+HI – greeting
+HM – thinking sound
+HO – expression or slang (context-based)
+ID – identity / part of mind (psychology)
+IF – condition
+IN – inside
+IS – form of "be"
+IT – thing/object
+JO – sweetheart/friend (Scottish slang)
+KA – spiritual self (Egyptian concept)
+KI – life energy (Japanese concept)
+LA – musical note
+LI – Chinese unit of distance
+LO – expression (look!)
+MA – mother
+ME – myself
+MI – musical note
+MM – expression (thinking/enjoyment)
+MO – short for moment
+MU – Greek letter
+MY – belonging to me
+NA – no / not
+NE – born (used in names)
+NO – negative
+NU – Greek letter
+OD – overdose
+OE – old spelling sound
+OF – belonging to
+OH – expression
+OI – call for attention
+OK – all correct
+OM – sacred sound (meditation)
+ON – position / active
+OP – original poster / operation
+OR – choice
+OS – operating system
+OW – pain expression
+OX – animal (bull-like)
+OY – expression of annoyance
+PA – father
+PE – physical education
+PI – mathematical constant (3.14…)
+PO – chamber pot / expression
+QI – life energy (Chinese philosophy)
+RE – about / again (in emails/music)
+SH – silence sound
+SI – musical note
+SO – therefore / very
+TA – thanks (British)
+TI – musical note
+TO – direction / purpose
+UH – hesitation sound
+UM – thinking sound
+UN – United Nations / prefix "not"
+UP – upward
+US – we / United States
+UT – musical note
+WE – us
+WO – expression / variant of "w"
+XI – Greek letter
+XU – Vietnamese currency unit
+YA – you (informal)
+YE – you (old form)
+YO – greeting
+ZA – slang for pizza
+
+AAH – expression (relief)
+AAL – Indian tree
+AAS – plural of "as"
+ABA – coarse fabric
+ABO – blood group system
+ABS – abdominal muscles
+ABY – pay for (old)
+ACE – top score / expert
+ACT – do / perform
+ADD – join / increase
+ADO – fuss
+ADS – advertisements
+ADZ – cutting tool
+AFF – yes (slang)
+AFT – back part
+AGA – type of stove
+AGE – years lived
+AGO – before now
+AGS – plural of ag
+AHA – realization
+AHI – tuna fish
+AHS – plural of "ah"
+AID – help
+AIM – goal
+AIN – own (Scottish)
+AIR – atmosphere
+AIS – plural of AI
+AIT – small island
+ALA – in the style of
+ALB – church robe
+ALE – beer
+ALL – everything
+ALP – mountain
+ALS – disease
+ALT – alternative
+AMA – mother (informal)
+AMI – friend (French)
+AMP – electric unit
+AMU – atomic mass unit
+ANA – collection (medical)
+AND – plus
+ANE – one (Scottish)
+ANI – bird
+ANT – insect
+ANY – some
+APE – monkey-like animal
+APO – military post office
+APP – application
+APT – suitable
+ARB – tree (Latin root)
+ARC – curve
+ARE – verb "be"
+ARF – dog sound
+ARK – boat
+ARM – limb
+ARS – art (Latin)
+ART – creative work
+ASH – burnt powder
+ASK – question
+ASP – snake
+ASS – donkey
+ATE – past of eat
+ATT – attention (short)
+AUK – seabird
+AVA – name
+AVE – greeting
+AVO – avocado (slang)
+AWA – away (Scottish)
+AWE – wonder
+AWL – sharp tool
+AWN – plant bristle
+AXE – cutting tool
+AYE – yes
+AYS – plural of ay
+AZO – nitrogen compound
+BAA – sheep sound
+BAD – not good
+BAG – container
+BAH – dislike sound
+BAM – sudden hit
+BAN – forbid
+BAP – bread roll
+BAR – rod / pub
+BAS – low voice
+BAT – flying mammal / sports bat
+BAY – sea inlet
+BED – sleeping place
+BEE – insect
+BEG – ask
+BEL – sound unit
+BEN – mountain (Scottish)
+BES – plural form (rare)
+BET – wager
+BEY – Turkish title
+BIB – baby cloth
+BID – offer
+BIG – large
+BIN – container
+BIS – again (music)
+BIT – small piece
+BIZ – business
+BOA – snake
+BOB – short movement
+BOD – body
+BOG – swamp
+BOP – hit song
+BOS – boss (short)
+BOT – robot
+BOW – bend
+BOX – container
+BOY – male child
+BRA – undergarment
+BRO – brother/friend
+BRR – cold sound
+BUB – friend/kid
+BUD – plant shoot
+BUG – insect
+BUM – idle person
+BUN – bread
+BUP – sound
+BUR – prickly seed
+BUS – vehicle
+BUT – however
+BUY – purchase
+BYE – goodbye
+BYS – plural of by
+CAB – taxi
+CAD – bad man
+CAM – camera
+CAN – able / container
+CAP – hat
+CAR – vehicle
+CAT – animal
+CAW – crow sound
+CEE – letter C
+CEL – animation sheet
+CEP – mushroom
+CHI – energy (Chinese)
+CIG – cigarette
+CIS – on same side
+COB – corn / lump
+COD – fish
+COG – gear tooth
+COL – mountain pass
+CON – trick
+COO – dove sound
+COP – police
+COR – exclamation
+COS – because (short)
+COT – small bed
+COW – animal
+COX – boat leader
+COY – shy
+COZ – because
+CRU – wine grade
+CRY – shout/weep
+CUB – baby animal
+CUD – chewed food
+CUE – signal
+CUP – small bowl
+CUR – stray dog
+CUT – divide
+CWM – valley (Welsh)
+DAB – light touch
+DAD – father
+DAG – pointed part
+DAH – dash (Morse)
+DAK – mail (India)
+DAL – lentils
+DAM – water barrier
+DAP – light tap
+DAW – bird (crow)
+DAY – 24 hours
+DEB – debutante
+DEE – letter D
+DEL – delete
+DEN – animal home
+DEV – developer / god
+DEW – morning moisture
+DEX – right side
+DEY – they (old)
+DIB – small share
+DID – past of do
+DIE – stop living
+DIF – difference
+DIG – dig / like
+DIM – not bright
+DIN – loud noise
+DIP – immerse
+DIS – insult
+DIT – dot (Morse)
+DOC – doctor
+DOE – female deer
+DOG – animal
+DOL – sorrow (old)
+DON – wear / teacher
+DOP – silly person
+DOR – beetle
+DOS – plural of do
+DOT – small mark
+DOW – tuft/down
+DRY – not wet
+DUB – name/give title
+DUD – useless thing
+DUE – owed
+DUG – past of dig
+DUH – obvious!
+DUI – drunk driving
+DUN – brown color
+DUO – pair
+DUP – duplicate
+DYE – color substance
+EAR – hearing organ
+EAT – consume
+EAU – water (French)
+EEL – fish
+EEK – fear sound
+EGG – food
+EGO – self
+EKE – make last
+ELF – tiny creature
+ELK – large deer
+ELL – measure
+ELM – tree
+EME – printing unit
+EMS – emergency service
+EMU – bird
+END – finish
+ENG – engine (short)
+ENS – beings (Latin)
+EON – long time
+ERA – time period
+ERE – before
+ERG – energy unit
+ERN – eagle (old)
+ERR – make mistake
+ERS – plural of er
+ESS – letter S
+ETA – Greek letter
+ETH – old "th"
+EVE – evening
+EWE – female sheep
+EYE – vision organ
+FAB – fabulous
+FAD – short trend
+FAN – admirer
+FAR – distant
+FAS – band (anatomy)
+FAT – oily / thick
+FAX – send document
+FAY – fairy
+FED – government agent
+FEE – payment
+FEH – dislike sound
+FEM – female
+FEN – marsh
+FER – for (dialect)
+FES – hat
+FET – celebration
+FEU – land grant
+FEW – small number
+FEY – magical
+FEZ – cap
+FIB – small lie
+FID – tool
+FIE – shame!
+FIG – fruit
+FIN – fish part
+FIR – tree
+FIS – musical note
+FIT – suitable
+FIX – repair
+FIZ – fizz sound
+FLU – illness
+FLY – insect / move
+FOB – pocket watch
+FOE – enemy
+FOG – mist
+FOH – expression
+FON – foolish person
+FOP – vain man
+FOR – because
+FOU – drunk (Scottish)
+FOX – animal
+FOY – feast
+FRO – back and forth
+FRY – cook
+FUB – mess up
+FUD – fear (slang)
+FUG – bad smell
+FUN – enjoyment
+FUR – animal hair
+GAB – talk
+GAD – wander
+GAE – go (Scottish)
+GAG – choke / joke
+GAL – girl
+GAM – leg
+GAN – go (dialect)
+GAP – space
+GAR – fish
+GAS – air
+GAT – gun (slang)
+GAY – happy
+GED – unit
+GEE – exclamation
+GEL – jelly
+GEM – precious stone
+GEN – information
+GET – receive
+GEY – very (Scottish)
+GHI – clarified butter
+GIB – cat
+GID – disease
+GIE – give (dialect)
+GIG – small job
+GIN – alcohol
+GIP – cheat
+GIT – foolish person
+GNU – animal
+GOA – Indian state
+GOB – mouth
+GOD – deity
+GOO – sticky stuff
+GOR – blood (old)
+GOS – small fish
+GOT – received
+GOX – ox (variant)
+GUL – flower
+GUM – sticky substance
+GUN – weapon
+GUP – gossip
+GUS – name
+GUT – stomach
+GUV – boss
+GUY – man
+GYM – exercise place
+GYP – cheat
+HAD – past of have
+HAE – have (Scottish)
+HAG – old woman
+HAH – laugh sound
+HAJ – pilgrimage
+HAM – meat
+HAO – hello (Chinese)
+HAP – luck
+HAS – verb
+HAT – headwear
+HAW – hesitate
+HAY – dry grass
+HEH – mild laugh
+HEM – edge
+HEN – female chicken
+HEP – trendy
+HER – female pronoun
+HES – plural of he
+HET – different
+HEW – cut
+HEX – spell
+HEY – call
+HIC – hiccup sound
+HID – past of hide
+HIE – hurry
+HIM – male object
+HIN – Indian measure
+HIP – body part
+HIS – belonging to him
+HIT – strike
+HOB – stove top
+HOD – brick carrier
+HOE – farming tool
+HOG – pig
+HOP – jump
+HOT – high heat
+HOW – in what way
+HOY – shout
+HUB – center
+HUE – color
+HUG – embrace
+HUH – confusion sound
+HUM – low sound
+HUN – barbarian / dear
+HUP – lift command
+HUT – small house
+HYP – hype (short)
+
+# Part 3 (I–P partial)
+ICE – frozen water
+ICH – skin itch
+ICK – disgust feeling
+ICY – very cold
+IDS – plural of id
+IFF – if and only if
+IFS – conditions
+IGG – annoy
+ILL – sick
+IMP – small devil
+INK – writing fluid
+INN – small hotel
+INS – plural of in
+ION – charged particle
+IRE – anger
+IRK – annoy
+ISM – belief system
+ITS – belonging to it
+IVY – climbing plant
+JAB – quick punch
+JAG – sharp edge
+JAM – fruit spread / stuck
+JAR – container
+JAW – mouth bone
+JAY – bird
+JEE – exclamation
+JET – fast plane
+JIB – sail
+JIG – dance
+JIN – liquor
+JOB – work
+JOE – man (slang)
+JOG – slow run
+JOT – write briefly
+JOW – strike
+JOY – happiness
+JUG – container
+JUN – month (June)
+JUS – law
+JUT – stick out
+KAB – taxi (slang)
+KAE – jackdaw bird
+KAF – Arabic letter
+KAS – money (old)
+KAT – shrub
+KAY – letter K
+KEA – parrot
+KED – sheep parasite
+KEF – pleasure
+KEG – beer container
+KEN – know / range
+KEP – cap
+KEX – hollow stem
+KEY – lock opener
+KHI – Greek letter
+KID – child
+KIN – family
+KIP – sleep
+KIR – drink
+KIS – kiss (short)
+KIT – set of tools
+LAB – laboratory
+LAC – resin
+LAD – boy
+LAG – delay
+LAM – escape
+LAP – sit on / round
+LAR – household god
+LAS – girl (old)
+LAT – latitude
+LAV – wash
+LAW – rule
+LAX – loose
+LAY – put down
+LEA – meadow
+LED – past of lead
+LEE – shelter side
+LEG – limb
+LEI – flower garland
+LEK – currency
+LES – plural of le
+LET – allow
+LEU – currency
+LEV – currency
+LEX – law
+LEY – meadow
+LIB – freedom
+LID – cover
+LIE – falsehood
+LIN – line
+LIP – mouth edge
+LIS – lily
+LIT – past of light
+LOG – record
+LOO – toilet
+LOP – cut off
+LOT – many
+LOW – not high
+LOX – smoked salmon
+LUG – carry
+LUV – love (slang)
+LUX – light unit
+LYE – strong alkali
+MAC – raincoat
+MAD – angry
+MAE – name
+MAG – magazine
+MAN – male
+MAP – diagram
+MAR – damage
+MAS – more (Spanish)
+MAT – floor cover
+MAW – mouth
+MAX – maximum
+MAY – month / permission
+MED – medical
+MEL – honey
+MEM – memory
+MEN – males
+MET – past of meet
+MEW – cat sound
+MID – middle
+MIG – aircraft
+MIL – thousandth
+MIM – mimic
+MIR – peace
+MIS – wrong
+MIX – combine
+MOA – extinct bird
+MOB – crowd
+MOC – shoe
+MOD – modern
+MOG – cat
+MOL – unit
+MOM – mother
+MON – man (slang)
+MOO – cow sound
+MOP – cleaning tool
+MOR – more (old)
+MOS – plural mo
+MOT – word
+MOW – cut grass
+MUD – wet soil
+MUG – cup
+MUM – mother / silent
+MUN – must (dialect)
+MUS – must
+MUT – dog
+MUX – mix up
+NAB – catch
+NAE – no (Scottish)
+NAG – annoy
+NAH – no
+NAM – Vietnam (short)
+NAN – grandmother
+NAP – short sleep
+NAW – no
+NAY – no vote
+NEE – born as
+NET – network / after deduction
+NEW – recent
+NIB – pen tip
+NIL – zero
+NIM – game
+NIP – bite
+NIT – egg
+NIX – cancel
+NOB – rich person
+NOD – move head
+NOG – drink
+NOM – eat (slang)
+NOO – now (dialect)
+NOR – neither
+NOS – plural no
+NOT – negative
+NOW – present
+NUB – small lump
+NUN – religious woman
+NUS – plural nu
+NUT – seed
+OAF – foolish person
+OAK – tree
+OAR – rowing tool
+OAT – grain
+OBE – obeisance
+OBI – sash belt
+OCA – plant
+ODD – strange
+ODE – poem
+ODS – plural od
+OES – plural oe
+OFF – not on
+OFT – often
+OHM – unit of resistance
+OHO – aha!
+OHS – plural oh
+OIL – liquid fat
+OKA – weight unit
+OKE – okay
+OLD – aged
+OLE – cheer
+OMS – plural om
+ONE – number 1
+ONO – oh no!
+ONS – plural on
+OOH – admiration sound
+OOT – out (dialect)
+OPE – open (short)
+OPS – operations
+OPT – choose
+ORA – pray
+ORB – sphere
+ORC – monster
+ORE – metal rock
+ORS – plural or
+ORT – scrap
+OSE – sugar ending
+OUD – instrument
+OUR – belonging to us
+OUT – outside
+OVA – eggs
+OWE – be in debt
+OWL – bird
+OWN – possess
+OXO – brand
+OXY – oxygen
+PAC – pack
+PAD – cushion
+PAH – disgust sound
+PAL – friend
+PAM – name
+PAN – cooking utensil
+PAP – soft food
+PAR – standard
+PAS – steps (dance)
+PAT – light tap
+PAW – animal foot
+PAX – peace
+PAY – give money
+
+# Part 4 – P (revised/extended), Q–Z, then 4–5 letter A–F
+PAC – a political action committee
+PAD – soft material / writing paper
+PAL – friend
+PAN – cooking utensil
+PAR – standard level (golf)
+PAT – gentle tap
+PAW – animal foot
+PAY – to give money
+PEA – small green vegetable
+PEG – small pin
+PEN – writing tool / enclosure
+PER – for each
+PET – animal kept for companionship
+PEW – church bench
+PHI – Greek letter
+PIE – baked dish
+PIG – farm animal
+PIN – small fastener
+PIT – hole / fruit seed
+PLY – layer
+POD – seed container
+POP – sound / soda
+POT – cooking vessel
+PRO – professional / in favor
+PRY – to force open
+PUB – bar
+PUN – wordplay joke
+PUP – young dog
+PUT – to place
+QAT – a plant with stimulant leaves
+QIS – plural of qi (life energy)
+QUA – in the role of
+RAG – cloth / tease
+RAM – male sheep / forcefully hit
+RAN – past of run
+RAP – knock / music style
+RAT – rodent
+RAW – uncooked
+RAY – beam of light
+RED – color
+RID – to remove
+RIG – equipment setup
+RIM – edge
+RIP – tear
+ROB – steal from
+ROD – stick
+ROW – line / argument
+RUB – to press/massage
+RUG – carpet
+RUN – move quickly
+SAD – unhappy
+SAG – droop
+SAP – plant fluid
+SAT – past of sit
+SAW – cutting tool / past of see
+SAY – to speak
+SEA – ocean
+SEE – to view
+SET – to place
+SEW – stitch
+SHE – female pronoun
+SHY – timid
+SIN – wrongdoing
+SIP – small drink
+SIR – respectful title
+SIT – be seated
+SIX – number
+SKI – snow sport
+SKY – atmosphere above
+SLY – cunning
+SON – male child
+SOP – soak / concession
+SOW – plant seeds
+SOY – bean plant
+SPA – wellness center
+SPY – secret agent
+SUN – star of Earth
+TAB – small flap / bill
+TAN – brown color / skin darken
+TAP – light hit / faucet
+TAR – sticky substance
+TAX – government charge
+TEA – beverage
+TEE – golf stand / letter T
+TEN – number
+THE – article
+TIE – knot / draw
+TIN – metal
+TIP – point / advice
+TOE – foot part
+TON – unit of weight
+TOO – also
+TOP – highest part
+TOR – rocky hill
+TOT – small child
+TOY – plaything
+TRY – attempt
+TUB – container
+TUG – pull
+TWO – number
+UGH – expression of disgust
+UMP – umpire
+UNI – one / university (informal)
+UPS – postal company / upward
+URN – container (often for ashes)
+USE – to employ
+UTA – Native American group
+UTE – utility vehicle (informal)
+VAN – vehicle
+VAT – large container
+VET – animal doctor / examine
+VEX – annoy
+VIA – by way of
+VOW – promise
+VOX – voice
+WAD – lump
+WAG – shake
+WAR – conflict
+WAS – past of be
+WAY – path
+WEB – network / spider structure
+WED – marry
+WET – not dry
+WHO – question word
+WHY – reason
+WIN – victory
+WIT – intelligence
+WOE – sorrow
+WON – past of win
+WOW – surprise
+WOK – cooking pan
+XIS – plural of xi (Greek letter)
+YAK – long-haired animal / talk a lot
+YAM – sweet potato
+YAP – bark / chatter
+YAW – turn side-to-side
+YEA – yes
+YEN – desire / Japanese currency
+YES – affirmation
+YET – still / however
+YOU – pronoun
+YUM – expression of taste
+ZAG – sharp turn
+ZAP – strike suddenly
+ZED – letter Z
+ZEN – meditation school
+ZIP – fast / zipper
+ZOO – animal park
+
+# Four- and five-letter A–F (extended)
+ABLE – having the skill or power to do something
+ABET – to encourage wrongdoing
+ACHE – continuous pain
+ACID – sour substance / chemical
+ACME – highest point
+ACNE – skin condition (pimples)
+ACRE – land measure
+AGED – old
+AGOG – very eager
+AIDE – assistant
+AIDS – disease affecting immune system
+AILS – troubles / problems
+AIMS – goals
+AIRS – affected manners
+AIRY – light and spacious
+AJAR – slightly open
+AKIN – related
+ALAS – expression of sorrow
+ALEE – sheltered side (away from wind)
+ALLY – partner/friend
+ALMS – charity
+ALOE – medicinal plant
+ALSO – in addition
+ALTO – low female voice
+ALUM – former student
+AMID – in the middle of
+AMOK – out of control
+AMPS – units of electric current
+ANKH – ancient Egyptian symbol of life
+ANTS – small insects
+ANTE – stake before a game
+ANTI – against
+ANUS – body opening
+APED – imitated
+APES – primates
+APEX – top point
+ARCH – curved structure
+AREA – region
+ARIA – solo song (opera)
+ARID – very dry
+ARMY – military force
+ARTS – creative skills
+ARTY – artistic
+ARUM – type of plant
+ASHY – pale/grayish
+ASKS – inquires
+AUTO – car
+AVER – state/assert
+AVID – very eager
+AVOW – declare openly
+AWAY – at a distance
+AWED – filled with wonder
+AWES – inspires awe
+AXED – cut off / removed
+AXES – tools or plural of axis
+AXIS – central line
+AXLE – rod for wheels
+AYES – votes in favor
+BABE – baby
+BABY – infant
+BACK – rear side
+BAIL – release on payment
+BAIT – lure
+BAKE – cook in oven
+BALD – no hair
+BALE – bundle
+BALL – round object
+BALM – soothing substance
+BAND – group / strip
+BANE – cause of harm
+BANG – loud noise
+BANK – financial institution
+BANS – prohibits
+BARB – sharp point
+BARD – poet
+BARE – uncovered
+BARK – tree covering / dog sound
+BARN – farm building
+BARS – rods / places serving drinks
+BASE – bottom / foundation
+BASH – hit hard
+BASK – lie in warmth
+BASS – low sound / fish
+BAST – fiber from plants
+BATH – washing
+BATS – flying mammals
+BAWL – cry loudly
+BAYS – coastal inlets
+BEAD – small decorative ball
+BEAK – bird mouth
+BEAM – ray of light
+BEAN – seed
+BEAR – animal / endure
+BEAT – strike
+BEDS – sleeping places
+BEEF – meat
+BEEN – past of be
+BEER – alcoholic drink
+BEES – insects
+BELL – ringing object
+BELT – waist strap
+BEND – curve
+BENT – curved
+BERG – iceberg
+BERM – raised strip of land
+BEST – highest quality
+BETA – second letter (Greek)
+BIAS – prejudice
+BIDE – wait
+BIDS – offers
+BIKE – bicycle
+BILE – digestive fluid
+BILL – invoice / bird beak
+BIND – tie
+BINS – containers
+BIRD – feathered animal
+BITE – cut with teeth
+BITS – small pieces
+BLAH – dull talk
+BLAM – sudden sound
+BLED – past of bleed
+BLEW – past of blow
+BLIP – small signal
+BLOB – shapeless mass
+BLOC – group with shared purpose
+BLOG – online journal
+BLOT – stain
+BLOW – gust / hit
+BLUE – color / sad
+BLUR – unclear
+BOAR – wild pig
+BOAT – water vessel
+BOBS – moves up/down
+BOCK – strong beer
+BODE – indicate
+BODY – physical form
+BOGS – swamps
+BOIL – heat liquid
+BOLD – brave
+BOLT – fastener / sudden move
+BOMB – explosive
+BOND – connection
+BONE – skeleton part
+BONY – full of bones
+BOOK – written work
+BOOM – loud sound
+BOON – benefit
+BOOT – footwear
+BORE – make hole / annoy
+BORN – brought into life
+BOSS – leader
+BOTH – two together
+BOUT – short period
+BOWL – container
+BOWS – bends / weapons
+BOYS – male children
+BRAG – boast
+BRAN – grain outer layer
+BRAT – badly behaved child
+BRAY – donkey sound
+BRED – past of breed
+BREW – make drink
+BRIG – small ship
+BRIM – edge
+BRIT – British person
+BROW – forehead
+BUCK – male deer / dollar
+BUFF – polish / enthusiast
+BUGS – insects
+BULB – plant root / light
+BULK – large size
+BULL – male cow
+BUMP – hit lightly
+BUMS – lazy people
+BUNG – stopper
+BUNK – bed / nonsense
+BUNS – bread rolls
+BUOY – floating marker
+BURN – fire damage
+BURP – release gas
+BURR – rough edge
+BURY – put underground
+BUSH – shrub
+BUST – break / arrest
+BUSY – occupied
+BUTS – objections
+BUTT – hit / backside
+BUZZ – humming sound
+BYES – automatic advance
+BYTE – unit of digital data
+CAFE – small restaurant serving drinks/food
+CAGE – enclosure for animals
+CAKE – baked sweet food
+CALF – young cow / lower leg
+CALL – to shout / phone
+CALM – peaceful
+CAME – past of come
+CAMP – place for tents
+CAMS – rotating machine parts
+CANE – walking stick / plant
+CAPE – sleeveless cloak / land projection
+CAPS – hats / covers
+CARD – stiff paper / playing card
+CARE – concern
+CARP – fish / complain
+CARS – vehicles
+CART – wheeled vehicle
+CASE – instance / container
+CASH – money
+CASK – barrel
+CAST – throw / actors group
+CATS – animals
+CAVE – underground hollow
+CELL – small room / unit
+CENT – currency unit
+CHAD – small paper piece (from punching)
+CHAP – man / split skin
+CHAR – burn slightly
+CHAT – talk
+CHEF – cook
+CHEW – bite food
+CHIN – part of face
+CHIP – small piece
+CHIT – note / young person
+CHOP – cut
+CHOW – food
+CHUB – type of fish
+CHUG – drink heavily
+CHUM – friend
+CITE – quote
+CITY – large town
+CLAD – covered
+CLAM – shellfish
+CLAN – family group
+CLAP – strike hands
+CLAW – animal nail
+CLAY – soil
+CLEF – music symbol
+CLIP – cut / fasten
+CLOD – lump of earth
+CLOG – block / shoe
+CLOP – hoof sound
+CLOT – thick mass
+CLUB – group / stick
+CLUE – hint
+COAL – fuel
+COAT – outer garment
+CODE – system of symbols
+CODS – fish
+COGS – gear teeth
+COIL – spiral
+COIN – money piece
+COKE – fuel / soft drink
+COLD – low temperature
+COLE – cabbage-like plant
+COLT – young horse
+COMA – unconscious state
+COMB – grooming tool
+COME – move toward
+CONE – shape
+COOK – prepare food
+COOL – slightly cold
+COOP – enclosure (chickens)
+COPE – manage
+COPS – police
+COPY – duplicate
+CORD – rope
+CORE – center
+CORK – bottle stopper
+CORN – grain
+COST – price
+COSY – comfortable
+COUP – sudden takeover
+COVE – small bay
+COWL – hood
+COWS – animals
+COZY – comfortable
+CRAB – sea animal
+CRAM – fill tightly
+CREW – team
+CRIB – baby bed
+CROP – harvest
+CROW – bird
+CRUD – dirt
+CRUX – main point
+CUBE – 3D square
+CUBS – young animals
+CUDS – partly digested food
+CUED – signaled
+CUES – signals
+CUFF – sleeve edge
+CULT – group with beliefs
+CUPS – containers
+CURB – edge / restrain
+CURD – coagulated milk
+CURE – heal
+CURL – twist
+CURT – brief/rude
+CUSP – point
+CUTE – attractive
+CUTS – slices
+CYST – fluid-filled sac
+DACE – a small freshwater fish
+DAFT – silly
+DALE – valley
+DAME – woman (formal/old use)
+DAMN – curse / criticize strongly
+DAMP – slightly wet
+DAMS – barriers for water
+DANE – person from Denmark
+DARE – have courage
+DARK – little light
+DARN – mend / mild curse
+DART – small pointed missile / quick move
+DASH – run quickly
+DATA – information
+DATE – calendar day / meeting
+DAWN – sunrise
+DAYS – periods of 24 hours
+DAZE – confusion
+DEAD – not alive
+DEAF – unable to hear
+DEAL – agreement
+DEAR – beloved / expensive
+DEBT – money owed
+DECK – floor / cards set
+DEED – action / legal document
+DEEM – consider
+DEEP – far down
+DEER – animal
+DEMO – demonstration
+DENT – small hollow
+DENY – refuse
+DESK – table for work
+DEUS – Latin for "god"
+DEVI – Hindu goddess
+DIAL – clock face / phone input
+DICE – small cubes used in games
+DIED – past of die
+DIES – plural of die / ends
+DIET – food plan
+DIGS – digs / accommodation (slang)
+DILL – herb
+DIME – small coin
+DIMS – becomes faint
+DINE – eat dinner
+DING – ringing sound
+DINK – soft hit
+DINT – force / dent
+DIPS – lowers
+DIRE – very serious
+DIRK – dagger
+DIRT – soil
+DISC – flat round object
+DISH – plate / food
+DISK – storage device
+DIVA – famous female singer
+DIVE – plunge
+DOCK – platform by water
+DOES – performs / female deer
+DOFF – remove (hat/clothes)
+DOGE – old title / meme term
+DOGS – animals
+DOJO – martial arts hall
+DOLE – give out / unemployment benefit
+DOLL – toy
+DOLT – foolish person
+DOME – rounded roof
+DONE – finished
+DOOM – fate (usually bad)
+DOOR – entrance
+DOPE – drug / stupid (slang)
+DORK – silly person
+DORM – student residence
+DOSE – amount of medicine
+DOTE – show excessive love
+DOTH – archaic "does"
+DOTS – small spots
+DOUR – gloomy
+DOVE – bird / past of dive
+DOWN – lower direction
+DOZE – sleep lightly
+DOZY – sleepy
+DRAB – dull
+DRAG – pull
+DRAM – small amount / play
+DRAW – pull / sketch
+DRAY – cart
+DREW – past of draw
+DRIP – fall in drops
+DROP – fall
+DRUM – instrument
+DRUB – beat
+DRUG – medicine/substance
+DUAL – twofold
+DUBS – names / adds sound
+DUCK – bird / lower head
+DUCT – tube
+DUDE – man (informal)
+DUDS – clothes
+DUEL – fight between two
+DUES – payments
+DUET – song for two
+DUFF – pudding / useless
+DUKE – noble title
+DULL – not sharp / boring
+DULY – properly
+DUMB – unable to speak / stupid
+DUMP – throw away
+DUNE – sand hill
+DUNG – animal waste
+DUNK – dip / basketball move
+DUPE – trick
+DUSK – evening
+DUST – fine particles
+DUTY – responsibility
+DYED – colored
+DYER – one who dyes
+DYES – coloring substances
+DYKE – embankment
+EACH – every one individually
+EARL – British noble title
+EARN – receive by work
+EARS – organs for hearing
+EASE – lack of difficulty
+EAST – direction of sunrise
+EASY – not difficult
+EATS – food (informal)
+EAVE – roof edge
+EBBS – flows back (tide)
+ECHO – repeated sound
+EDGE – border / sharp side
+EDGY – tense / nervous
+EDIT – revise text
+EELS – long fish
+EGGS – reproductive bodies / food
+EGOS – self-importance
+ELAN – enthusiasm
+ELKS – large deer
+ELLS – old unit of measure
+ELMS – trees
+ELSE – otherwise
+EMIT – give off
+EMUS – large birds
+ENDS – final parts
+ENVY – desire what others have
+EONS – very long time
+EPIC – long heroic story
+ERGO – therefore
+ERRS – makes mistakes
+EVEN – equal / level
+EVER – at any time
+EVIL – morally bad
+EWER – water pitcher
+EWES – female sheep
+EXAM – test
+EXES – former partners
+EXIT – way out
+EXPO – exhibition
+EYED – looked at
+EYEN – poetic plural of eye
+EYES – organs of sight
+EYRE – legal circuit / journey
+FACE – front of head / surface
+FACT – something true
+FADE – gradually disappear
+FADS – short-lived trends
+FAIL – not succeed
+FAIR – just / light-colored / event
+FAKE – not real
+FALL – drop / autumn
+FAME – being well-known
+FANG – sharp tooth
+FANS – supporters / air movers
+FARE – price of travel / food
+FARM – land for agriculture
+FAST – quick / go without food
+FATE – destiny
+FAWN – young deer / flatter
+FAZE – disturb
+FEAR – feeling of danger
+FEAT – impressive achievement
+FEED – give food
+FEEL – sense by touch/emotion
+FEET – plural of foot
+FELL – cut down / past of fall
+FELT – type of fabric / past of feel
+FEND – defend / manage
+FERN – plant
+FEST – festival
+FEUD – long conflict
+FIAT – official order / car brand
+FIBS – small lies
+FIGS – fruits
+FILE – organize / tool
+FINE – good / penalty
+FIRE – flames / dismiss from job
+FIRM – strong / company
+FISH – aquatic animal
+FIST – closed hand
+FIVE – number
+FLAG – signal cloth
+FLAT – level / apartment
+FLAW – defect
+FLEA – small jumping insect
+FLEE – run away
+FLEW – past of fly
+FLEX – bend / show off strength
+FLIP – turn over
+FLIT – move quickly
+FLOG – beat severely
+FLOP – fail badly / fall loosely
+FLOW – move smoothly
+FLUB – mess up
+FLUE – chimney passage
+FOAM – bubbly liquid
+FOES – enemies
+FOGS – thick mist
+FOIL – defeat / thin sheet
+FOLD – bend over
+FOLK – people
+FOND – affectionate
+FOOD – edible substance
+FOOL – silly person
+FOOT – lower limb / unit
+FORD – shallow river crossing
+FORE – front / warning shout
+FORK – eating tool
+FORM – shape / document
+FORT – strong building
+FOUL – dirty / unfair
+FOUR – number
+FOWL – bird (domestic)
+FOXY – clever / attractive
+FRAY – fight / unravel
+FREE – not restricted
+FRET – worry / wear away
+FROG – amphibian
+FROM – starting point
+FUEL – energy source
+FULL – complete
+FUME – smoke / anger
+FUND – money pool
+FUNK – fear / music style
+FURL – roll up
+FURY – extreme anger
+FUSE – join / safety device
+FUSS – unnecessary worry
+FUZZ – soft hair / static noise
+
+# Part 5 – H–K and extended G
+HACK – cut roughly; also computer intrusion
+HADE – slanted or inclined (geology)
+HAIL – frozen rain; also greet enthusiastically
+HAIR – threadlike growth on skin
+HAKE – type of fish
+HALF – one of two equal parts
+HALL – large room or corridor
+HALO – ring of light around something
+HAND – body part; also control or assist
+HANG – suspend; stay or remain
+HARD – firm; difficult
+HARE – wild rabbit
+HARM – injury or damage
+HARP – string instrument; dwell on something
+HART – male deer
+HASH – chopped food; mix up; cannabis slang
+HATE – strong dislike
+HAUL – pull or drag
+HAVE – possess
+HAWK – bird of prey; sell aggressively
+HAYS – dried grass (plural form used in texts)
+HAZY – foggy or unclear
+HEAD – top part; leader
+HEAL – recover from injury
+HEAP – pile
+HEAR – perceive sound
+HEAT – high temperature
+HEED – pay attention
+HEEL – back of foot
+HEIR – person who inherits
+HELL – place of suffering; extreme situation
+HELP – assist
+HEMP – fiber plant
+HENS – female chickens
+HERO – brave person
+HERS – belonging to her
+HESS – surname; also chemical law context
+HIDE – conceal
+HIGH – tall; elevated
+HIKE – walk long distance; price increase
+HILL – raised land
+HILT – handle of a sword
+HINT – slight suggestion
+HIRE – employ
+HISS – sharp sound
+HITS – successful strikes
+HIVE – bee home
+HOLD – grasp; keep
+HOLE – opening
+HOLY – sacred
+HOME – place of residence
+HONE – sharpen
+HONK – goose or horn sound
+HOOD – covering; neighborhood slang
+HOOK – curved tool
+HOPE – desire for outcome
+HORN – animal or instrument
+HOST – organizer; group carrier
+HUGE – very large
+HULL – outer shell
+HUMS – low continuous sounds
+HUNG – suspended
+HUNT – search for game
+HURL – throw violently
+HURT – cause pain
+HUSH – silence
+HYMN – religious song
+HYPO – short for hypodermic; also slang for hypothesis
+ICON – symbol or famous figure
+IDEA – thought or concept
+IDLE – inactive
+IDOL – admired person
+IDYL – peaceful scene
+IFFY – uncertain
+IKAT – fabric dyeing style
+IKON – variant of icon
+ILLS – sicknesses
+IMAM – Islamic prayer leader
+IMPS – mischievous beings
+INCH – small unit of length
+INNS – lodging houses
+INTO – moving inside
+IRON – metal; also press clothes
+ITEM – individual object
+JABS – quick punches
+JACK – tool or device; name
+JAIL – prison
+JAMS – fruit spreads; traffic blocks
+JANE – female name
+JARS – containers
+JAWN – slang for thing/person (regional US slang)
+JAZZ – music style
+JEER – mock or taunt
+JEST – joke
+JETS – fast aircraft
+JINX – bring bad luck
+JOBS – work positions
+JOIN – connect
+JOKE – funny remark
+JOLT – sudden shake
+JUMP – leap upward
+JUNE – month
+JURY – legal panel
+JUST – fair; only
+KALE – leafy vegetable
+KANE – surname; sugarcane context
+KARL – male name
+KEEN – eager; sharp
+KEEP – retain
+KELP – seaweed
+KENO – lottery game
+KEPT – past of keep
+KEYS – objects for locks; islands
+KICK – strike with foot
+KILL – cause death
+KIND – type; caring
+KING – male ruler
+KISS – touch with lips
+KITE – flying object
+KNEE – joint
+KNEW – past of know
+KNIT – weave yarn
+KNOT – tied loop
+KNOW – understand
+GALE – strong wind
+GAME – activity with rules; also willing or ready
+GANG – group of people
+GAPE – stare with mouth open
+GARB – clothing; dress
+GASH – deep cut
+GASP – sudden breath in surprise/pain
+GATE – entrance barrier
+GAVE – past of give
+GAWK – stare foolishly
+GAZE – long steady look
+GEAR – equipment; mechanism
+GEEK – tech enthusiast (often slang)
+GELD – castrate; also remove strength (figurative)
+GELS – sets solid (like jelly)
+GEMS – precious stones
+GENE – unit of heredity
+GENT – gentleman
+GERM – microorganism; seed idea
+GETS – receives; understands
+GIFT – present; talent
+GIGS – music performances; jobs
+GILD – cover with gold
+GILL – fish organ / liquid measure
+GILT – gold-covered
+GIMP – limp; also craft cord
+GINS – spirits; traps
+GIRD – surround; prepare
+GIRL – female child
+GIST – main point
+GIVE – provide
+GLAD – happy
+GLAM – glamorous style
+GLEN – narrow valley
+GLIB – smoothly fluent but insincere
+GLIM – faint light
+GLOB – lump of soft matter
+GLOM – grab quickly
+GLOW – steady light
+GLUE – sticky substance
+GLUG – swallowing sound
+GLUM – sad
+GLUT – excessive supply
+GNAW – bite repeatedly
+GOAD – provoke
+GOAL – aim; scoring point
+GOAT – animal
+GOBS – large amounts
+GODS – deities
+GOER – one who attends
+GOES – moves; travels
+GOLD – precious metal
+GOLF – sport
+GONE – left; disappeared
+GONG – metal bell
+GOOD – positive; kind
+GOOF – mistake; fool around
+GORE – blood; pierce
+GORY – bloody
+GOSH – mild exclamation
+GOWN – long dress or robe
+GRAB – seize quickly
+GRAM – unit of weight
+GRAY – color
+GREW – past of grow
+GREY – alternate spelling of gray
+GRID – network of lines
+GRIM – harsh; serious
+GRIN – smile broadly
+GRIP – hold tightly
+GRIT – courage; sand
+GROG – alcoholic drink (diluted rum)
+GROOM – prepare; male wedding partner
+GRUB – food; insect larva
+GRUE – shiver (fear or cold)
+GUAR – tropical plant (gum source)
+GULF – large sea inlet; divide
+GULL – seabird; trick
+GULP – swallow quickly
+GUMS – mouth tissue; sticky substances
+GUNK – sticky dirt
+GUNG – enthusiasm (slang "gung-ho")
+GUNS – firearms; muscles (slang)
+GUPPY – small aquarium fish
+GUSH – flow out forcefully
+GUST – sudden burst of wind
+GUTS – courage; intestines
+GUTZ – variant slang spelling of guts
+GUYS – people
+GYBE – sailing maneuver
+GYMS – fitness centers
+GYPS – cheats or swindles (informal, now dated/derogatory in some uses)
+
+# Part 6 – L through Z
+LACE – decorative threadwork; tie with laces
+LACK – absence
+LADS – boys; young men
+LADY – woman
+LAID – placed (past of lay)
+LAIN – past participle of lie
+LAKE – large body of water
+LAMB – young sheep
+LAMP – lighting device
+LAND – ground; territory
+LANE – narrow road
+LANG – long (archaic/variant spelling in dialect)
+LARD – animal fat used in cooking
+LARK – bird; prank
+LASH – whip; tie firmly
+LAST – final; endure
+LATE – not on time
+LAUD – praise
+LAVA – molten rock
+LAWN – grassy area
+LAZY – unwilling to work
+LEAD – guide; metal
+LEAF – plant part
+LEAK – unintended escape (liquid/gas/info)
+LEAN – incline; thin
+LEAP – jump
+LEND – give temporarily
+LENS – optical glass
+LENT – past of lend; religious period
+LESS – smaller amount
+LEST – for fear that
+LETS – allows
+LIAR – person who lies
+LICE – parasitic insects
+LICK – touch with tongue
+LIED – past of lie (to recline or to deceive depending usage)
+LIEN – legal claim
+LIFE – existence
+LIFT – raise
+LIKE – similar; enjoy
+LIME – citrus fruit/mineral
+LINE – straight mark; queue
+LINK – connection
+LION – big cat
+LIPS – mouth edges
+LIST – ordered set
+LIVE – exist; broadcast
+LOAD – burden; cargo
+LOAF – bread; idle person
+LOAN – borrowed money
+LOCK – fastening device
+LOFT – upper room; height
+LOGS – records; timber pieces
+LONE – solitary
+LONG – great length
+LOOK – see
+LOOM – weaving machine; appear threateningly
+LOOP – circular shape
+LORD – noble; master
+LOSE – misplace; fail to win
+LOSS – defeat
+LOST – not found
+LOUD – noisy
+LOVE – strong affection
+LOWE – flame or fire (archaic)
+LUCK – chance success
+LUGS – carries heavily
+LUMP – mass; clump
+LUNG – breathing organ
+LURE – attract
+LUSH – rich; abundant; alcohol-heavy slang
+LUST – strong desire
+MADE – created
+MAID – female servant
+MAIL – post
+MAIN – chief
+MAKE – create
+MALE – masculine sex
+MALL – shopping area
+MALT – grain product
+MAMA – mother (informal)
+MANE – horse hair
+MANO – hand (Spanish root usage)
+MANY – numerous
+MARC – residue of pressed fruit/grapes
+MARD – spoiled child (dialect)
+MARE – female horse
+MARK – sign; grade
+MARS – planet; Roman god
+MART – marketplace
+MASH – crush
+MASK – face covering
+MASS – large amount; religious service
+MAST – ship pole
+MATE – companion
+MAUL – heavy hammer; maul (attack)
+MAYO – mayonnaise
+MEAL – food
+MEAN – average; unkind; signify
+MEAT – animal flesh
+MEET – come together
+MELD – combine
+MELT – become liquid
+MEMO – note
+MEND – repair
+MENU – food list
+MERE – only; just
+MESH – interlocking material
+MESS – disorder
+MICE – plural mouse
+MICK – (slang; also surname usage)
+MIKE – microphone
+MILD – gentle
+MILE – distance unit
+MILK – dairy drink
+MILL – grinding machine
+MIME – imitate; silent performer
+MIND – intellect; care
+MINE – possessive; explosive device
+MINT – fresh; herb; coin factory
+MISS – fail to hit; unmarried woman
+MIST – fine fog
+MITE – tiny creature
+MOAN – low sound of pain
+MOAT – defensive ditch
+MOCK – imitate cruelly
+MODE – method
+MOLE – burrowing animal; spy
+MOLT – shed skin
+MONK – religious ascetic
+MOOD – emotional state
+MOON – Earth's satellite
+MOOR – open land; tie up boat
+MOPE – be gloomy
+MORE – additional
+MORN – morning
+MORT – death (archaic/literary)
+MOST – greatest amount
+MOTH – night insect
+MOVE – change position
+MUCH – large amount
+MULE – animal; stubborn person
+MUMS – silent; mothers
+MUSE – think deeply; inspiration
+MUSH – soft food; sentimentality
+MUST – required
+MYTH – traditional story
+NABS – grabs quickly
+NAGG – annoy persistently
+NAIL – metal pin; fingernail
+NAME – label
+NAPE – back of neck
+NAPS – short sleeps
+NARK – informant; annoy
+NARY – not any (archaic)
+NASH – type of car brand historically; also surname
+NAVE – central part of church
+NAVY – sea military force
+NEAR – close
+NEAT – tidy
+NECK – part of body
+NEED – require
+NEON – gas element
+NERD – studious person (slang)
+NEST – bird home
+NEWS – information
+NEXT – following
+NICE – pleasant
+NICK – cut; prison slang
+NIGH – near (archaic)
+NINE – number 9
+NIPS – small drinks/sips; pinch
+NODE – connection point
+NOIR – dark style/genre
+NONE – not any
+NOON – midday
+NOSE – facial feature
+NOSY – overly curious
+NOTE – written message; musical tone
+NOUN – grammar word type
+NOVA – exploding star
+NUDE – unclothed
+NULL – void; nothing
+NUMB – lacking sensation
+NUNS – female religious members
+NURD – variant spelling of nerd (slang)
+NUTS – crazy; seeds; obsessed
+OAKS – trees
+OARS – rowing tools
+OATH – solemn promise
+OATS – grain
+OBEY – follow rules
+OBIT – obituary
+ODDS – probability; difference
+ODEA – (rare plural of ode in poetic use)
+ODOR – smell
+OGLE – stare at
+OILY – greasy
+OINT – anoint (archaic root)
+OKAY – acceptable
+OLDS – old things; surname usage
+OMEN – sign of future event
+OMIT – leave out
+ONCE – one time
+ONES – units
+ONLY – sole
+ONTO – moving to surface
+OOZE – slowly flow
+OPAL – gemstone
+OPEN – not closed
+OPUS – musical work
+ORAL – spoken
+ORBS – spheres
+ORCA – killer whale
+ORES – raw metals
+ORGY – wild gathering
+OSAR – (rare/variant spelling in names; not common modern usage)
+OTER – variant of otter (archaic spelling)
+OUCH – expression of pain
+OURS – belonging to us
+OUTS – exits; exclusions
+OVAL – egg-shaped
+OVEN – cooking appliance
+OVER – above; finished
+OWES – is indebted
+OWLS – night birds
+OXEN – plural ox
+OYST – (rare archaic verb root in some dialects; not common modern word)
+PACE – speed; step
+PACK – bundle
+PADS – cushions; pads for feet
+PAGE – sheet; assistant
+PAID – received money
+PAIL – bucket
+PAIN – suffering
+PAIR – two
+PALM – hand; tree
+PANE – glass sheet
+PANG – sudden pain
+PANS – cooking vessels
+PANT – breathe heavily
+PAPA – father
+PARE – trim off
+PARK – green area; stop vehicle
+PART – section
+PASS – go by; succeed
+PAST – earlier time
+PATH – route
+PAWL – ratchet tooth
+PAWN – chess piece; pledge
+PEAK – top point
+PEAR – fruit
+PECK – bird bite
+PEEL – outer skin
+PEEP – look quickly
+PEER – equal; look closely
+PENS – writing tools
+PENT – confined
+PERK – benefit; become lively
+PESO – currency
+PETS – domestic animals
+PEWS – church benches
+PICK – choose
+PIES – baked dishes
+PIGS – animals
+PILE – stack
+PILL – tablet medicine
+PINE – tree; long for
+PINK – color
+PINS – sharp fasteners
+PINT – liquid measure
+PIPE – tube
+PITS – holes
+PITY – compassion
+PLAN – scheme
+PLAY – act; game
+PLEA – request
+PLOD – walk heavily
+PLOT – scheme; story
+PLUG – stopper
+PLUM – fruit
+PLUS – addition
+POEM – verse
+POET – writer
+POKE – jab
+POLE – rod
+POLL – vote
+POLO – sport
+POND – small lake
+PONY – small horse
+POOL – water basin; shared resources
+POOP – feces; tired slang
+PORE – tiny opening
+PORK – meat
+PORT – harbor
+POSE – position
+POST – mail; pillar
+POUR – flow
+PRAY – worship
+PREY – hunted animal
+PROD – poke
+PROP – support
+PUBS – bars
+PUCK – hockey disk; fairy sprite
+PULL – draw
+PULP – soft mass
+PUMP – air/water device
+PUNS – wordplay jokes
+PUNT – kick; boat
+PURE – clean; unmixed
+PURL – knitted stitch; swirl
+PURR – cat sound
+PUSH – force
+PUTS – places; options (finance slang)
+QADI – Islamic judge
+QAID – leader (Arabic term)
+QUAD – fourfold area
+QUAG – marshy area (quagmire short form)
+QUAY – dock
+QUEY – young cow (Scottish dialect)
+QUIB – small objection (archaic)
+QUIP – witty remark
+QUIT – stop
+QUIZ – test
+RACE – competition
+RACK – framework; torture device (historical)
+RADS – radiation units; radicals (slang)
+RAFT – flat boat
+RAGE – anger
+RAID – sudden attack
+RAIL – track; complain
+RAIN – water from sky
+RAKE – garden tool
+RAMP – slope
+RANK – position
+RANT – angry speech
+RAPE – (word exists as verb/noun but often sensitive; skipping definition detail due to harm content)
+RARE – uncommon
+RASH – skin irritation; impulsive
+RATE – measure; value
+RAVE – wild party; praise enthusiastically
+RAWS – uncooked; rough
+RAYS – beams of light
+RAZE – destroy
+READ – interpret text
+REAL – actual
+REAP – harvest
+REAR – back side; raise children
+REDS – plural of red; political group context
+REED – tall grass
+REEF – coral ridge
+REEL – spool; stagger
+REIN – strap; control
+RELY – depend
+RENT – payment; lease
+REST – relaxation
+RICE – grain
+RICH – wealthy
+RIDE – travel on
+RIFT – split
+RIGS – equipment setups
+RILE – irritate
+RING – circular object; phone sound
+RINK – ice arena
+RIOT – violent disturbance
+RIPE – fully grown
+RIPS – tears
+RISK – danger
+RITE – ritual
+ROAD – path
+ROAM – wander
+ROAR – loud sound
+ROBE – gown
+ROCK – stone; music genre
+RODE – past of ride
+RODS – sticks
+ROLE – part
+ROLL – turn over; list
+ROMP – playful run
+ROOF – top covering
+ROOM – space
+ROOT – plant base; origin
+ROPE – cord
+ROSE – flower; past of rise
+ROTA – schedule
+ROTE – memorization by repetition
+ROTS – decays
+ROUE – debauched man (archaic)
+ROUT – defeat; crowd scattering
+ROVE – wander
+ROWS – lines; quarrels
+RUBS – friction
+RUBY – red gem
+RUDE – impolite
+RUIN – destroy; decay
+RULE – guideline
+RUMP – rear end
+RUNG – ladder step
+RUNS – moves quickly; scores
+RUNT – small animal
+RUSE – trick
+RUSH – hurry
+RUST – oxidation
+RUTH – compassion (biblical name also)
+SACK – bag; dismiss
+SAFE – secure
+SAGE – wise; herb
+SAID – past of say
+SAIL – boat cloth; travel
+SALE – transaction
+SALT – seasoning
+SAME – identical
+SAND – tiny rock particles
+SANE – mentally stable
+SANG – past of sing
+SAPS – weakens; tree fluids
+SARI – Indian garment
+SASH – decorative band
+SATI – (historical practice; sensitive cultural context)
+SAVE – rescue; store
+SCAB – crust over wound
+SCAN – examine
+SCAR – mark
+SCOT – person from Scotland
+SEAL – marine animal; close tightly
+SEAT – place to sit
+SECT – group
+SEED – plant start
+SEEK – search
+SEEM – appear
+SEEN – observed
+SEEP – leak slowly
+SELF – identity
+SELL – exchange for money
+SEND – transmit
+SENT – dispatched
+SEWN – stitched
+SHAG – rough fabric; dance style
+SHAM – fake
+SHED – small building; lose
+SHIN – front leg bone
+SHIP – vessel
+SHOD – wearing shoes
+SHOE – footwear
+SHOP – store
+SHOT – fired projectile; photograph
+SHOW – display
+SHUN – avoid
+SHUT – close
+SICK – ill
+SIDE – edge
+SIGH – soft breath
+SIGN – symbol; signal
+SILK – fabric
+SILL – window base
+SILO – storage tower
+SILT – sediment
+SINE – math curve
+SING – vocalize
+SINK – go down
+SIRE – father; male parent
+SITE – location
+SIZE – magnitude
+SKIN – outer layer
+SKIP – jump over
+SKIS – snow equipment
+SLAB – thick piece
+SLAM – hit hard
+SLAP – strike
+SLAT – thin strip
+SLAY – kill; impress greatly
+SLED – snow vehicle
+SLEW – large number; past of slay
+SLID – past of slide
+SLIM – thin
+SLIP – slide unintentionally
+SLOT – narrow opening
+SLOW – not fast
+SLUG – snail; punch
+SLUM – poor area
+SLUR – insult
+SMOG – polluted fog
+SNAP – break sharply
+SNIP – cut
+SNOB – elitist
+SNOW – frozen precipitation
+SNUB – insult by ignoring
+SNUG – cozy
+SOAK – absorb liquid
+SOAP – cleaning substance
+SOAR – fly high
+SOCK – foot covering; hit
+SODA – fizzy drink
+SOFA – couch
+SOFT – not hard
+SOIL – dirt
+SOLD – past of sell
+SOLE – only; fish
+SOME – a few
+SONG – music
+SOON – shortly
+SOOT – black residue
+SORE – painful
+SORT – type; arrange
+SOUL – spirit
+SOUR – acidic; bitter
+SOWN – planted seeds
+SPAR – fight; support beam
+SPAT – argument; past of spit
+SPAY – sterilize animal
+SPEC – specification
+SPED – past of speed
+SPIN – rotate
+SPIT – saliva; roast meat
+SPOT – mark; place
+SPUN – past of spin
+SPUR – encourage; heel tool
+STAB – pierce
+STAG – male deer
+STAR – celestial object; celebrity
+STAY – remain
+STEM – plant stalk
+STEP – move foot
+STIR – mix; provoke
+STOP – cease
+STOW – pack away
+STUB – short remaining piece
+STUD – decorative nail; male animal
+STUN – shock
+SUCH – like this
+SUDS – soap bubbles
+SUEY – Chinese-American dish (sweet and sour pork, abbreviated slang usage)
+SUIT – clothing set; legal case
+SULK – be silent and moody
+SUMS – totals
+SUNG – past of sing
+SUNS – stars; plural sun usage
+SURF – waves
+SWAB – mop; sample
+SWAG – style; loot (slang)
+SWAM – past of swim
+SWAP – exchange
+SWAT – strike; elite police unit acronym
+SWAY – sway movement
+SWIM – move in water
+SWUM – past participle of swim
+TABU – taboo (alternate spelling)
+TACK – nail; approach
+TACT – sensitivity
+TAIL – rear end; follow
+TAKE – grasp
+TALK – speak
+TALL – high
+TAME – domesticated
+TANK – container; armored vehicle
+TAPE – adhesive strip; record
+TARE – weed; weight deduction
+TARN – mountain lake
+TARO – root vegetable
+TART – sharp taste; pastry
+TASK – job
+TAXI – cab
+TEAK – wood
+TEAL – blue-green color
+TEAM – group
+TEAR – rip; drop of liquid
+TEAS – drinks; taunts
+TEEN – teenager
+TELL – inform
+TEND – care for; incline
+TENT – temporary shelter
+TERM – word; duration
+TEST – exam
+TEXT – written words
+THAN – comparison word
+THAT – demonstrative
+THAW – melt
+THEM – those people
+THEN – at that time
+THEY – plural pronoun
+THIN – not thick
+THIS – near object
+THUD – heavy sound
+THUG – violent person
+TICK – small insect; sound
+TIDE – ocean movement
+TIDY – neat
+TIER – level
+TILE – flat surface piece
+TIME – duration
+TINE – prong
+TINT – shade of color
+TINY – very small
+TIRE – wheel ring; fatigue
+TOAD – amphibian
+TOIL – hard work
+TOLD – past of tell
+TOLL – fee; death count
+TONE – sound quality
+TONG – chopstick
+TONS – large amounts
+TOOK – past of take
+TOOL – instrument
+TOOT – horn sound
+TOPS – highest points
+TORN – ripped
+TORY – conservative (UK political term)
+TOSS – throw lightly
+TOUR – trip
+TOWN – settlement
+TOYS – play items
+TRAM – streetcar
+TRAP – snare
+TRAY – flat container
+TREE – plant
+TREK – long journey
+TRIM – neat; cut
+TRIO – group of three
+TRIP – journey; stumble
+TROT – jog (horse gait)
+TRUE – correct
+TUBA – brass instrument
+TUBE – hollow cylinder
+TUCK – fold in
+TUFT – bunch of fibers
+TUGS – pulls
+TUNA – fish
+TUNE – melody
+TURF – grass; territory
+TURN – rotate
+TUSH – buttocks (slang)
+TUSK – long tooth
+TWIN – pair of siblings
+TWIT – foolish person (mild insult)
+TYPE – category; write
+TYRE – tire (British spelling)
+UDON – Japanese noodle
+UGLY – unpleasant appearance
+ULAN – cavalry soldier (historical term)
+ULNA – forearm bone
+ULUS – traditional knife (Inuit)
+UMPS – umpires
+UNAI – sloth genus
+UNCI – old Roman unit (rare usage)
+UNDO – reverse action
+UNIT – single thing
+UNTO – archaic "to"
+UPON – on top of
+URGE – strong desire
+URNS – containers for ashes
+URSA – bear constellation reference
+USED – previously utilized
+USER – person who uses
+USES – employs
+UTAH – US state
+UTOP – (rare prefix usage in utopian context root; not standalone common word)
+UTUS – (rare/obsolete variant forms in historical texts; not standard modern usage)
+VAIL – lower (archaic); valley slope
+VAIN – overly proud
+VALE – valley
+VAMP – seductive woman; musical variation
+VANE – wind direction indicator
+VARY – change
+VASE – container
+VAST – huge
+VEAL – calf meat
+VEER – change direction
+VEIL – face covering
+VEIN – blood vessel
+VELD – open grassland
+VEND – sell
+VENT – opening; express feelings
+VERB – action word
+VERY – extremely
+VETO – reject
+VIAL – small bottle
+VIBE – atmosphere
+VICE – immoral habit; clamp tool
+VIDS – videos (slang)
+VIED – competed
+VIEW – sight
+VILE – disgusting
+VILL – village
+VINE – climbing plant
+VIOL – string instrument
+VISA – travel authorization
+VISE – clamp tool (US spelling)
+VITA – life story; résumé
+VIVA – live examination; cheers
+VOID – empty space
+VOTE – choose
+VOWS – promises
+VYING – competing (present participle root; 4-letter base "VY" used earlier, but included contextually)
+WADE – walk through water
+WAGE – payment for work
+WAIL – cry loudly
+WAIT – pause
+WAKE – rise from sleep
+WALK – move on foot
+WALL – vertical barrier
+WAND – magic stick
+WANE – decrease
+WANT – desire
+WARD – protected area
+WARE – goods
+WARM – slightly hot
+WARN – alert
+WARP – twist
+WARS – conflicts
+WART – skin growth
+WASH – clean
+WASP – stinging insect
+WAST – archaic past of waste
+WATT – power unit
+WAVE – motion of water
+WAVY – not straight
+WAYS – methods
+WEAK – not strong
+WEAL – prosperity; mark on skin
+WEAN – stop dependency
+WEAR – put on clothing
+WEED – unwanted plant
+WEEK – 7 days
+WEIR – dam structure
+WELD – join metal
+WELL – healthy; deep hole
+WENT – past of go
+WERE – past of are
+WEST – direction
+WHAM – loud impact
+WHAT – question word
+WHEE – exclamation
+WHEN – time question
+WHET – sharpen
+WHIP – beat; dessert topping
+WHIR – spin sound
+WHIT – small amount
+WHOA – stop signal
+WHOM – object pronoun
+WICK – candle part
+WIDE – broad
+WIFE – married woman
+WILD – untamed
+WILL – future auxiliary; desire
+WIND – air movement
+WINE – alcoholic drink
+WING – bird limb
+WINK – blink
+WINO – alcoholic (slang)
+WIRE – metal thread
+WISE – intelligent
+WISH – desire
+WITH – accompanied by
+WOKE – awakened (also slang context)
+WOLF – wild canine
+WOMB – uterus
+WONK – studious person (slang)
+WONT – habit (archaic spelling)
+WOOD – tree material
+WOOL – sheep fiber
+WORD – unit of language
+WORE – past of wear
+WORK – labor
+WORM – small crawling animal
+WORN – used up
+WOVE – past of weave
+WRAP – cover
+WREN – small bird
+WRIT – written order (legal)
+XENO – foreign; alien
+XERO – dry; prefix (xerography)
+XMAS – Christmas abbreviation
+XRAY – imaging technique
+XYLA – wood-related prefix (as in xylophone root)
+XYLO – wood (root form)
+YACK – talk endlessly
+YALE – university name
+YANG – active principle (Chinese philosophy)
+YANK – pull suddenly
+YARD – enclosed ground; 3 feet
+YARN – thread; story
+YAWL – boat
+YAWN – open mouth tiredly
+YEAH – yes (informal)
+YEAR – 12 months
+YELL – shout
+YERN – eager (archaic dialect form)
+YEST – yeast sediment (archaic)
+YETI – mythical snow creature
+YOGA – exercise discipline
+YOKE – connecting frame
+YOLK – egg center
+YORE – long ago
+YOUR – belonging to you
+YUAN – Chinese currency
+YUCK – disgust expression
+YULE – Christmas season
+ZANY – clownish
+ZAPS – strikes with energy
+ZEAL – enthusiasm
+ZERO – number 0
+ZEST – enthusiasm; citrus peel
+ZIGS – sharp turns
+ZINC – metal
+ZIPS – fasteners; moves quickly
+ZITS – pimples
+ZONE – area or region
+ZOOS – animal parks
+
+# Part 7 – extended P–Z, A–F (mixed formats)
+PADDY – wet rice field; informal angry fit
+PAGAN – non-religious / polytheist
+PAINT – colored liquid for coating surfaces
+PAIRS – sets of two
+PALER – less colored / lighter
+PALMS – inner hands / tropical trees
+PANDA – black-and-white bear
+PANEL – flat section / group discussion board
+PANIC – sudden fear
+PANTS – trousers / underwear (US usage varies)
+PAPER – writing material
+PARCH – become very dry
+PARIS – capital of France
+PARKS – recreational green areas / stops vehicles
+PARTY – social gathering / political group
+PASTE – soft adhesive or mixture
+PATCH – piece used to repair
+PATIO – outdoor sitting area
+PAUSE – temporary stop
+PEACE – absence of conflict
+PEACH – sweet fruit
+PEARL – hard lustrous gem
+PECAN – edible nut
+PEDAL – foot-operated lever
+PENNY – small coin
+PERCH – sit/roost; type of fish
+PERIL – danger
+PERKY – cheerful
+PETAL – flower part
+PHOTO – photograph
+PIANO – musical instrument
+PIECE – part of something
+PILOT – aircraft operator
+PINCH – squeeze; small amount
+PITCH – throw; musical tone
+PIXEL – smallest screen unit
+PIZZA – baked flat food
+PLANE – aircraft / flat surface
+PLANT – living organism / install
+PLATE – flat dish
+PLAZA – public square
+PRIDE – self-respect / group of lions
+PRIME – first / most important
+PRINT – reproduce text/image
+PRIZE – reward
+PROBE – investigate / space device
+PROOF – evidence
+PROUD – feeling satisfied
+PROVE – demonstrate truth
+PUNCH – strike; mixed drink
+PUPPY – young dog
+PURSE – small bag; money pouch
+QUACK – duck sound; fake doctor
+QUAIL – small bird; to shrink in fear
+QUAKE – shake violently
+QUART – liquid measure
+QUEEN – female monarch
+QUERY – question
+QUEST – search
+QUEUE – line/waiting list
+QUICK – fast
+QUIET – silent
+QUILT – padded blanket
+QUOTA – fixed share/limit
+QUOTE – repeat words; citation
+RADAR – object detection system
+RADIO – wireless broadcast device
+RAINY – wet with rain
+RAISE – lift/increase
+RALLY – gathering; recover strength
+RANCH – large farm
+RANGE – extent/series
+RAPID – very fast
+RATIO – proportional relationship
+RAVEN – black bird
+RAZOR – cutting blade
+REACH – extend toward
+READY – prepared
+REALM – kingdom/area
+REBEL – resister of authority
+REPLY – answer
+RIVER – flowing water body
+ROBOT – automated machine
+ROCKET – space vehicle
+ROUGH – not smooth
+ROUND – circular
+ROUTE – path/direction
+ROYAL – related to monarchy
+SAFETY – condition of being safe
+SALAD – mixed cold dish
+SALTY – containing salt
+SCALE – measuring device / outer skin of fish
+SCENE – location of action
+SCORE – points; musical sheet
+SCOUT – search/explore
+SCRAP – small piece / discard
+SEASON – part of year
+SENSE – ability to perceive
+SHARP – pointed / intelligent
+SHEET – flat piece (paper, cloth)
+SHIFT – move/change
+SHINE – give light
+SHOCK – sudden surprise
+SHORT – not long
+SILLY – foolish
+SLEEP – rest state
+SMILE – happy facial expression
+SNAKE – legless reptile
+SOLAR – related to sun
+SOUND – noise
+SPACE – area/universe
+SPEED – rate of movement
+SPICE – flavoring
+SPORT – game/activity
+STONE – rock
+STORM – violent weather
+STORY – narrative
+SUGAR – sweet substance
+SUPER – excellent
+SWEET – sugary; pleasant
+TABLE – furniture / chart
+TANGO – dance style
+TASTE – flavor; try
+TAXES – government charges
+TEACH – instruct
+TEETH – chewing structures
+TEMPO – speed of music
+TENSE – tight; grammar form
+THIEF – robber
+THINK – use mind
+THREE – number 3
+TIGER – big striped cat
+TIMER – device measuring time
+TITLE – name/headline
+TODAY – current day
+TOPIC – subject
+TOUCH – contact
+TOUGH – strong/difficult
+TRACE – follow marks
+TRAIN – rail vehicle
+TRICK – clever act
+TRUTH – fact/reality
+TULIP – flower
+TURBO – high-speed boost
+TWIST – turn sharply
+UNCLE – parent’s brother
+UNDER – beneath
+UNION – joining together
+UNITE – come together
+UPSET – disturbed
+URBAN – city-related
+USAGE – how something is used
+USHER – guide/escort
+USUAL – normal
+UTTER – speak; complete
+VALUE – worth
+VALVE – flow control device
+VAPOR – gas form of liquid
+VAULT – secure room / jump
+VENOM – poisonous fluid
+VIDEO – visual recording
+VIGOR – energy
+VIRUS – infectious agent
+VISIT – go to see
+VITAL – essential
+VOICE – sound of speaking
+VOWEL – A E I O U letter
+VOTER – person who votes
+VENUE – event place
+WAIST – middle body part
+WATER – H₂O liquid
+WEARY – tired
+WEAVE – interlace threads
+WHEEL – circular rotating object
+WHILE – during time
+WHITE – color
+WHOLE – complete
+WIDEN – make wider
+WOMEN – adult females
+WORLD – planet Earth / society
+WORRY – anxiety
+WRITE – produce text
+WRONG – incorrect
+YACHT – luxury boat
+YEARN – strongly desire
+YIELD – produce / give way
+YOUNG – not old
+YOUTH – young people
+ZEBRA – striped African animal
+ZIPPY – lively/fast
+ZONAL – divided into zones
+ZONES – areas/regions
+ABLE – capable
+ABUSE – misuse / harm
+ACUTE – sharp / severe
+ADOPT – take in / accept
+ADULT – grown person
+AGENT – representative
+AGREE – consent
+ALERT – watchful
+ALIVE – living
+AMAZE – surprise greatly
+ANGRY – mad
+ANGLE – corner / perspective
+APPLY – use / submit
+ARROW – pointed projectile
+ASSET – valuable thing
+AWARD – prize
+BASIC – simple
+BEACH – sandy shore
+BEARD – facial hair
+BEAST – animal
+BEGIN – start
+BERRY – small fruit
+BIRTH – coming into life
+BLACK – dark color
+BLAZE – bright fire
+BLIND – cannot see
+BLOCK – solid piece
+BLOOD – body fluid
+BOARD – flat surface
+BRAIN – thinking organ
+BRAVE – courageous
+BREAD – baked food
+BRIGHT – shining
+BROWN – color
+BUILD – construct
+BURST – explode
+CABIN – small house
+CABLE – thick rope/wire
+CANDY – sweet food
+CARRY – take along
+CATCH – capture
+CHAIR – seat
+CHANCE – opportunity
+CHANGE – make different
+CHEER – shout joyfully
+CHILD – young person
+CLEAN – not dirty
+CLEAR – obvious / transparent
+CLOCK – time device
+CLOUD – sky vapor
+COAST – sea edge
+COLOR – hue
+COVER – hide/protect
+CRASH – collision
+CROWD – group of people
+CYCLE – repeat / bicycle
+DAILY – every day
+DANCE – rhythmic movement
+DEATH – end of life
+DELAY – postpone
+DELTA – river mouth shape
+DEVIL – evil being
+DIARY – personal journal
+DIRTY – unclean
+DOCTOR – medical expert
+DOUBT – uncertainty
+DRAMA – staged story
+DREAM – sleep vision
+DRIVE – operate vehicle
+DRYER – drying machine
+EAGER – very willing
+EARTH – planet / soil
+EATEN – consumed
+ELECT – choose by vote
+ELITE – best group
+EMPTY – nothing inside
+ENTER – go in
+ENEMY – opponent
+ENJOY – take pleasure
+EQUAL – same value
+ERROR – mistake
+EVENT – happening
+EVERY – all members
+EXACT – precise
+EXTRA – additional
+FAITH – belief
+FANCY – elaborate
+FAULT – mistake
+FAVOR – kindness
+FEVER – high temperature
+FIELD – open land
+FIGHT – battle
+FINAL – last
+FIRE – burn
+FIRST – number one
+FLAME – fire tongue
+FLASH – quick light
+FLOAT – stay on water
+FOCUS – concentrate
+FORCE – strength
+FRAME – border structure
+FRESH – new
+FRONT – forward side
+FRUIT – edible plant product
+FUNNY – humorous
+GAINT – very large
+GHOST – spirit
+GIANT – huge being
+GIFT – present
+GLASS – transparent material
+GLOVE – hand cover
+GOAL – aim
+GRAIN – seed
+GRAND – large/impressive
+GRASS – green plant
+GREAT – excellent
+GREEN – color
+GRIND – crush
+GROUP – collection
+GUARD – protector
+GUEST – visitor
+HABIT – routine
+HAPPY – joyful
+HARDY – strong
+HASTE – speed
+HEART – organ / emotion
+HEAVY – weighty
+HEDGE – bush fence
+HERO – brave person
+HONEY – sweet substance
+HONOR – respect
+HOUSE – building
+HUMAN – person
+HUMOR – comedy
+HUNGRY – needing food
+ICING – cake topping
+IDEAL – perfect
+IMAGE – picture
+IMPACT – effect
+INDEX – list/guide
+INNER – inside
+INPUT – information given
+ISSUE – problem
+IVORY – elephant tusk material
+IRONY – opposite meaning effect
+JAZZY – lively
+JEWEL – precious stone
+JOLLY – cheerful
+JUDGE – legal decision maker
+JUICE – fruit liquid
+JUMBO – very large
+JUMPY – nervous
+JUST – fair / only
+JOKER – funny person
+KARMA – action consequence
+KHAKI – brown-green color
+KIND – gentle
+KING – male ruler
+KNIFE – cutting tool
+KNOCK – hit
+KNOWN – recognized
+KNEEL – go on knees
+LABEL – tag
+LARGE – big
+LAUGH – show amusement
+LEARN – gain knowledge
+LEAVE – depart
+LEVEL – stage/flat surface
+LIGHT – brightness
+LIMIT – boundary
+LOOSE – not tight
+LUCKY – fortunate
+MAGIC – supernatural power
+MAJOR – important
+MARCH – walk / month
+MELT – turn liquid
+MIGHT – power
+MODEL – example/figure
+MONEY – currency
+MOTOR – engine
+MUSIC – sound art
+MYSTIC – spiritual
+NARROW – thin
+NASTY – unpleasant
+NATURE – environment
+NEED – require
+NERVE – sensitivity
+NIGHT – dark time
+NOBLE – honorable
+NOISE – sound
+NORTH – direction
+NOVEL – book
+OCEAN – large sea
+OFFER – propose
+OFTEN – many times
+OLDER – more aged
+ORDER – command / arrangement
+ORGAN – body part / instrument
+OTHER – different
+OUTER – external
+OWNER – possessor
+OZONE – atmospheric gas
+ABACK – taken by surprise
+ABASE – lower in rank or dignity
+ABASH – embarrass or shame
+ABATE – reduce or lessen
+ABBEY – monastery / convent
+ABBOT – head of monastery
+ABHOR – hate strongly
+ABIDE – tolerate / live with
+ABLED – capable
+ABODE – home / residence
+ABORT – stop prematurely
+ABOUT – concerning / around
+ABOVE – higher than
+ABUSE – misuse / harm
+ABYSS – deep void
+ACORN – oak tree seed
+ACTED – performed / behaved
+ACUTE – sharp / severe
+ADAGE – old saying
+ADAPT – adjust
+ADDED – included
+ADDER – venomous snake
+ADEPT – skilled
+ADMIN – administrator
+ADMIT – accept / confess
+ADOBE – sun-dried brick / software name
+ADOPT – take in
+ADORE – love deeply
+ADORN – decorate
+ADULT – grown person
+AFFIX – attach
+AFOOT – happening / on foot
+AFTER – later than
+AGAIN – once more
+AGENT – representative
+AGILE – quick and flexible
+AGING – growing old
+AGLOW – shining
+AGONY – extreme pain
+AGREE – consent
+AHEAD – in front
+AIDER – helper
+AIMED – directed
+AISLE – passage between seats
+ALARM – warning signal
+ALBUM – collection book
+ALDER – type of tree
+ALERT – watchful
+ALGAE – water plant-like organisms
+ALIEN – foreign / space being
+ALIGN – line up
+ALIKE – similar
+ALIVE – living
+ALLAY – calm
+ALLEY – narrow street
+ALLOT – assign
+ALLOW – permit
+ALLOY – metal mixture
+ALOFT – up in the air
+ALONE – by oneself
+ALONG – together with
+ALOOF – distant
+ALOUD – out loud
+ALTER – change
+AMASS – gather
+AMAZE – astonish
+AMBER – yellow-brown resin/color
+AMBLE – walk slowly
+AMEND – improve
+AMINE – chemical compound
+AMINO – related to amino acid
+AMISS – wrong
+AMONG – in the middle of
+AMPLE – enough
+AMUSE – entertain
+ANGEL – spiritual being / kind person
+ANGER – strong emotion
+ANGLE – corner / viewpoint
+ANGRY – mad
+ANGST – anxiety
+ANIME – Japanese animation
+ANKLE – joint between leg and foot
+ANNEX – attach/add
+ANNOY – irritate
+ANTIC – playful behavior
+ANVIL – metal block for hammering
+APART – separated
+APING – copying
+APPLE – fruit
+APPLY – use / submit
+APRON – protective clothing
+APTLY – suitably
+ARBOR – tree-covered area
+ARENA – stadium
+ARGUE – dispute
+ARISE – emerge
+ARMOR – protective covering
+AROMA – smell
+AROSE – rose up
+ARRAY – arrangement
+ARROW – pointed projectile
+ARSON – fire-setting crime
+ASCOT – neck scarf
+ASIDE – to the side
+ASSET – valuable thing
+ATLAS – map book
+ATONE – make up for
+ATTIC – top room
+AUDIO – sound
+AUDIT – official check
+AUGUR – predict
+AUNTS – family relatives
+AURAL – related to hearing
+AVAIL – help / benefit
+AVERT – avoid
+VIDEO – visual recording
+AVOID – stay away from
+AWAIT – wait for
+AWAKE – not asleep
+AWARD – prize
+AWARE – conscious
+AWFUL – very bad
+AXIAL – related to axis
+AXIOM – accepted truth
+AZURE – sky-blue color
+BACON – cured pork
+BADGE – emblem
+BADLY – poorly
+BAGEL – bread ring
+BAGGY – loose-fitting
+BAKER – bread maker
+BAKED – cooked in oven
+BALLS – round objects
+BALMY – mild/warm
+BANAL – boring/ordinary
+BANDS – groups / strips
+BANGS – loud noise / hair fringe
+BANJO – string instrument
+BANKS – financial institutions / river edges
+BARGE – large boat / push roughly
+BARON – noble rank
+BASIC – simple
+BASIL – herb
+BASIN – bowl-shaped container
+BASIS – foundation
+BATCH – group
+BATON – stick
+BEACH – sandy shore
+BEADS – small decorative objects
+BEADY – small round (eyes)
+BEAKS – bird mouths
+BEAMS – long supports / smiles
+BEANS – edible seeds
+BEARD – facial hair
+BEARS – animals / carry
+BEAST – animal
+BEGAN – started
+BEGIN – start
+BEING – existence
+BELLE – beautiful woman
+BELLS – ringing objects
+BELLY – stomach
+BELOW – underneath
+BENCH – seat
+BENDS – curves
+BERRY – small fruit
+BERTH – sleeping space / dock
+BESET – surround
+BIBLE – holy book
+BIGOT – intolerant person
+BIKER – motorcycle rider
+BILLS – payments / notes
+BINGO – game / exclamation
+BIRCH – tree
+BIRDS – feathered animals
+BIRTH – coming into life
+BLACK – dark color
+BLADE – sharp edge
+BLAME – fault
+BLAND – dull
+BLANK – empty
+BLARE – loud sound
+BLAST – explosion
+BLAZE – fire
+BLEAK – gloomy
+BLEAT – sheep sound
+BLEED – lose blood
+BLEND – mix
+BLESS – give blessing
+BLIMP – airship
+BLIND – cannot see
+BLINK – close/open eyes quickly
+BLISS – happiness
+BLITZ – sudden attack
+BLOAT – swell
+BLOCK – solid piece
+BLOKE – man (UK slang)
+BLOND – light-haired
+BLOOD – body fluid
+BLOOM – flower / flourish
+BLOWN – carried by wind
+BLUES – sadness / music style
+BLUFF – deceive / cliff
+BLUNT – not sharp
+BLURB – short description
+BLURT – say suddenly
+BLUSH – redden
+BOARD – flat surface
+BOAST – brag
+BOATS – water vehicles
+BOGGY – wet ground
+BOLTS – fasteners / run away
+BOMBS – explosives
+BONDS – connections
+BONES – skeleton parts
+BONUS – extra reward
+BOOKS – written works
+BOOST – increase
+BOOTS – footwear
+BOOTH – small stall
+BOOTY – loot
+BOOZE – alcohol
+BOOZY – drunk
+BORAX – mineral
+BORED – uninterested
+BORNE – carried
+BOSOM – chest
+BOSSY – domineering
+BOTCH – ruin a job
+BOUND – tied / destined
+BOXER – fighter
+BRACE – support / prepare
+BRAID – plait
+BRAIN – thinking organ
+BRAKE – stopping device
+BRAND – mark / label
+BRAVE – courageous
+BRAVO – praise
+BRAWN – physical strength
+BREAD – food
+BREAK – separate
+BREED – reproduce
+BRICK – building block
+BRIDE – married woman
+BRIEF – short
+BRINE – salt water
+BRING – carry
+BRINK – edge
+BRISK – quick
+BROAD – wide
+BROIL – grill
+BROKE – damaged / poor
+BROOK – stream
+BROOD – think deeply / group of birds
+BROTH – soup
+BROWN – color
+BRUSH – grooming tool
+BRUNT – main impact
+BRUTE – rough person/animal
+BUILD – construct
+BUILT – constructed
+BULGE – swelling
+BULKY – large
+BULLY – intimidate
+BUMPS – small rises
+BUMPY – uneven
+BUNCH – group
+BUNNY – rabbit
+BURST – explode
+BUSHY – thick with hair/plants
+BUYER – purchaser
+CABIN – small house
+CABLE – rope/wire
+CADET – trainee officer
+CAMEL – desert animal
+CANDY – sweet food
+CANOE – small boat
+CAPER – playful act
+CARGO – transported goods
+CARRY – hold/move
+CARVE – cut into shape
+CATCH – capture
+CATER – provide food/service
+CAUSE – reason/trigger
+CAVES – underground hollows
+CEDAR – type of tree
+CHAIN – linked rings
+CHAIR – seat
+CHALK – soft writing stone
+CHAMP – champion
+CHANT – rhythmic singing
+CHAOS – complete disorder
+CHARM – attraction/spell
+CHART – diagram/map
+CHASE – pursue
+CHEAP – low cost
+CHEAT – deceive
+CHECK – inspect
+CHEEK – side of face
+CHEER – shout praise
+CHESS – board game
+CHEST – body trunk/storage box
+CHICK – young bird
+CHIEF – leader
+CHILD – young human
+CHILL – coldness
+CHINA – porcelain/country
+CHIPS – small pieces/snack
+CHOIR – singing group
+CHORD – musical notes together
+CHOSE – selected
+CHUNK – large piece
+CHURN – stir/agitate
+CIDER – apple drink
+CIGAR – tobacco roll
+CINCH – easy task
+CIVIC – city-related
+CIVIL – polite/legal
+CLAIM – state as true
+CLAMP – fasten tightly
+CLANG – loud metallic sound
+CLASH – conflict
+CLASP – grip fast
+CLASS – group/category
+CLAWS – sharp nails
+CLEAN – not dirty
+CLEAR – transparent
+CLERK – office worker
+CLICK – short sound/press
+CLIFF – steep rock
+CLIMB – go up
+CLING – stick to
+CLIPS – fasteners
+CLOAK – covering garment
+CLOCK – time device
+CLONE – identical copy
+CLOSE – shut/near
+CLOTH – fabric
+CLOUD – sky vapor mass
+CLOUT – influence/power
+CLOWN – comic performer
+CLUBS – groups/weapons
+CLUCK – chicken sound
+CLUED – hinted
+CLUES – hints
+CLUMP – lump/group
+CLUNG – held tightly
+COACH – trainer/vehicle
+COAST – shoreline
+COBRA – venomous snake
+COCOA – chocolate drink/bean
+COILS – spirals
+COINS – currency
+COMET – space object
+COMIC – humorous book
+CORAL – sea organism
+CORPS – body/group
+COSTS – prices
+COUNT – calculate/rule
+COUCH – sofa
+COULD – able to
+COUPE – car style
+COURT – legal/tennis area
+COVER – shield/blanket
+CRACK – break/split
+CRAFT – skill/vehicle
+CRAMP – muscle pain
+CRANE – lifting machine/bird
+CRASH – collision
+CRATE – box
+CRAVE – strongly want
+CRAWL – move slowly
+CRAZE – trend
+CRAZY – insane
+CREAK – squeaking sound
+CREAM – dairy/soft mix
+CREEK – small stream
+CREEP – move stealthily
+CREST – top/summit
+CRICK – neck pain
+CRIED – past of cry
+CRIME – illegal act
+CRISP – firm/fresh
+CROSS – intersect
+CROWD – group of people
+CROWN – royal headpiece
+CRUDE – rough/unrefined
+CRUEL – harsh
+CRUSH – press hard/love
+CUBIC – cube-shaped
+CURRY – spiced dish
+CURSE – bad wish
+CURVE – bend
+CYCLE – repeating process/bike
+DAILY – every day
+DAIRY – milk products
+DANCE – rhythmic movement
+DARED – challenged risk
+DATED – old/dated
+DEALS – agreements
+DEATH – end of life
+DEBUT – first appearance
+DECAL – sticker
+DECAY – rot/decline
+DECOY – lure/trap
+DECOR – decoration
+DECRY – criticize
+DEFER – delay
+DEITY – god
+DELAY – postpone
+DELTA – river mouth/triangle
+DELVE – dig into
+DEMON – evil spirit
+DEMUR – object/refuse
+DENIM – fabric (jeans)
+DENSE – thick
+DEPOT – storage/terminal
+DEPTH – deepness
+DERBY – competition
+DESKS – work tables
+DETOX – cleansing
+DEVIL – evil being
+DIARY – journal
+DICED – cut into cubes
+DINER – small restaurant
+DINGY – dull/dirty
+DIRTY – unclean
+DISCO – dance music/event
+DITCH – trench/abandon
+DITTO – same again
+DITTY – short song
+DIVER – swimmer
+DIZZY – lightheaded
+DODGE – avoid
+DOING – action
+DOLLY – small cart/camera rig
+DONOR – giver
+DONUT – sweet ring pastry
+DOPEY – silly
+DOUBT – uncertainty
+DOUGH – bread mix/money
+DRAFT – early version/air flow
+DRAIN – remove liquid
+DRAKE – male duck
+DRAMA – play/conflict
+DRANK – past of drink
+DRAPE – hang cloth
+DRAWN – pulled/sketched
+DRAWS – pulls/sketches
+DREAD – fear
+DREAM – sleep vision/goal
+DRESS – clothing
+DRIED – removed moisture
+DRIER – more dry
+DRIFT – move slowly
+DRILL – practice/tool
+DRINK – consume liquid
+DRIVE – operate vehicle/force
+DROIT – law/right
+DROLL – amusing
+DRONE – unmanned aircraft/buzz sound
+DROOL – saliva flow
+DROOP – sag
+DROPS – small falls
+DROSS – waste
+DROVE – drove group/past of drive
+DROWN – suffocate in water
+DRUMS – percussion instruments
+DRUNK – intoxicated
+DRYER – drying machine
+DRYLY – without emotion
+DUNCE – foolish person
+DUSTY – covered in dust
+DWARF – very small person/creature
+DWELL – live/stay
+DYING – nearing death
+EAGER – keen
+EAGLE – large bird
+EARLY – before time
+EARTH – planet/soil
+EATEN – consumed
+EATER – one who eats
+EAVES – roof edges
+EBBED – receded
+EBONY – dark wood
+EDICT – official order
+EIGHT – number 8
+ELBOW – arm joint
+ELDER – older person
+ELECT – choose/vote
+ELFIN – small/elf-like
+ELITE – best group
+ELOPE – run away to marry
+ELUDE – escape
+EMAIL – electronic message
+EMBER – glowing coal
+EMCEE – host
+EMERY – abrasive mineral
+EMOTE – express emotion
+EMPTY – hollow
+ENDED – finished
+ENDOW – give funds
+ENEMY – opponent
+ENJOY – take pleasure
+ENTER – go in
+ENTRY – entry/door/record
+ENVOY – diplomat
+EPOCH – era
+EQUAL – same value
+EQUIP – provide tools
+ERASE – remove
+ERODE – wear away
+ERROR – mistake
+ESSAY – written piece
+EVENT – occurrence
+EVERY – all
+EVICT – force out
+EVOKE – bring out
+EXACT – precise
+EXALT – praise highly
+EXCEL – be outstanding
+EXILE – forced removal
+EXIST – be real
+EXPAT – expatriate
+EXPEL – force out
+EXTRA – additional
+EXUDE – ooze out
+EYING – watching closely
+FABLE – short story
+FACED – confronted
+FACET – side/aspect
+FAILS – does not succeed
+FAINT – weak/dizzy
+FAIRY – magical being
+FAITH – belief
+FALSE – not true
+FAMED – famous
+FANCY – elaborate
+FATAL – deadly
+FAULT – defect/blame
+FAUNA – animal life
+FAVOR – preference/kind act
+FEAST – large meal
+FEIGN – pretend
+FEINT – fake move
+FEMUR – thigh bone
+FENCE – barrier
+FERRY – boat transport
+FETCH – go get
+FEVER – high temperature
+FEWER – smaller number
+FIBER – thread material
+FIELD – open land/area
+FIEND – evil person
+FIFTH – number 5
+FIFTY – number 50
+FIGHT – combat
+FILCH – steal
+FILTH – dirt
+FINAL – last
+FINCH – small bird
+FINDS – discovers
+FINED – penalized
+FINER – more refined
+FIRES – burns/plural of fire
+FIRST – number one
+FISHY – suspicious
+FIXED – repaired
+FIXER – repairer
+FIZZY – bubbly
+FLACK – criticism
+FLAGS – signals
+FLAIR – talent/style
+FLAKE – small piece
+FLAKY – fragile
+FLAME – fire
+FLANK – side
+FLAPS – folds
+FLARE – burst of light
+FLASH – quick light
+FLASK – container
+FLATS – apartments/level areas
+FLEET – group of ships
+FLESH – body tissue
+FLICK – quick movement
+FLIER – flyer
+FLIES – insects/past of fly
+FLING – throw
+FLINT – hard stone
+FLIPS – turns over
+FLIRT – playful attraction
+FLOAT – stay on surface
+FLOCK – group
+FLOOD – overflow
+FLOOR – ground level
+FLORA – plant life
+FLOSS – thin thread
+FLOUR – ground grain
+FLOWN – past of fly
+FLOWS – moves continuously
+FLUID – liquid
+FLUKE – lucky accident
+FLUNG – thrown
+FLUNK – fail
+FLUSH – flush/redden
+FLUTE – wind instrument
+FOCAL – central
+FOCUS – concentration
+FOGGY – misty
+FOILS – blocks
+FOLKS – people
+FOLLY – foolishness
+FONTS – typefaces
+FORCE – strength
+FORGE – create/workshop
+FORGO – give up
+FORMS – shapes/types
+FORTH – forward
+FORTY – number 40
+FORUM – discussion group
+FOSSIL – preserved remains
+FOUND – established/located
+FRAIL – weak
+FRAME – structure
+FRANK – honest
+FRAUD – deception
+FRAYS – wears out
+FREAK – odd person/event
+FREED – released
+FRESH – new
+FRIAR – monk
+FRIED – cooked
+FRILL – decorative edge
+FRISK – search/playfully move
+FRITZ – broken (slang)
+FROCK – dress
+FROGS – amphibians
+FRONT – forward side
+FROST – ice layer
+FROZE – became frozen
+FRUIT – edible plant product
+FRYER – frying pan/chicken
+FULLY – completely
+FUMED – angry/smoked
+FUMES – vapors
+FUNDS – money
+FUNK – fear/groove music
+FUROR – uproar
+FURRY – covered in fur
+FUSSY – overly picky
+FUTILE – useless
+FUZZY – soft/unclear
+
+# Part 8 – longer words A–Z (space-separated batch)
+ABSORB – take in/soak up
+ABSENT – not present
+ACCESS – entry/means of reaching
+ACCENT – pronunciation emphasis
+ACCEPT – receive/agree to
+ACCORD – agreement/harmony
+ACCRUE – build up over time
+ACCUSE – charge/blame
+ACROSS – from one side to another
+ACTING – performing/temporary role
+ACTION – doing/deed
+ACTIVE – energetic/in operation
+ACTUAL – real/factual
+ADHERE – stick to/follow
+ADJUST – change slightly
+ADMIRE – respect greatly
+ADVENT – arrival/beginning
+ADVICE – guidance
+ADVISE – give guidance
+AFFAIR – matter/event
+AFFECT – influence
+AFFIRM – confirm
+AFFORD – be able to pay
+AGENDA – plan/list of items
+AGREED – accepted/decided
+ALMOST – nearly
+ALWAYS – at all times
+AMOUNT – quantity
+ANCHOR – heavy object/secure
+ANIMAL – living creature
+ANNUAL – yearly
+ANSWER – reply
+ANYONE – any person
+ANYWAY – regardless
+APPEAL – request/attraction
+APPEAR – become visible
+ARABLE – suitable for farming
+ARCTIC – very cold region
+AROUND – surrounding/about
+AROUSE – awaken/stimulate
+ARREST – take into custody
+ARRIVE – reach a place
+ARTIST – creative person
+ASSERT – state firmly
+ASSIGN – allocate
+ASSIST – help
+ASSUME – suppose/take on
+ATTACH – fasten
+ATTACK – strike
+ATTAIN – achieve
+ATTEND – be present
+AUTHOR – writer
+AWAKEN – wake up
+BACKED – supported
+BADGER – small animal / annoy persistently
+BAKERY – bread shop
+BALLET – dance performance
+BANANA – fruit
+BANKER – bank worker
+BANNER – flag/sign
+BARELY – hardly
+BARREN – infertile/empty
+BARREL – cylindrical container
+BASKET – container
+BATTLE – fight
+BAUBLE – trinket
+BEACON – signal light
+BEAUTY – attractiveness
+BECAME – became
+BECOME – come to be
+BEFORE – earlier than
+BEHALF – representation
+BEHIND – at the back
+BELIEF – faith
+BELONG – be owned by
+BESIDE – next to
+BETTER – improved
+BEYOND – further than
+BISHOP – religious leader/chess piece
+BITTEN – past of bite
+BITTER – sharp taste
+BLANKS – empty spaces
+BLAZER – jacket
+BLIGHT – plant disease/destruction
+BLOUSE – women's top
+BODILY – physical
+BOLTED – fastened quickly
+BONNET – hat/engine cover
+BORDER – edge
+BORROW – take temporarily
+BOTANY – plant science
+BOTTLE – container
+BOTTOM – lowest part
+BOUNCE – rebound
+BRANCH – tree limb/division
+BREACH – break/violation
+BREATH – air taken in
+BREEZE – light wind
+BRIDGE – crossing structure
+BRIGHT – shining/intelligent
+BROKEN – damaged
+BRONZE – metal
+BROKER – intermediary
+BROWSE – look through
+BRUTAL – harsh
+BUBBLE – air sphere
+BUCKET – container
+BUDGET – financial plan
+BUFFET – self-service meal
+BUMBLE – stumble
+BUNDLE – group tied together
+BURDEN – load
+BUREAU – office/desk
+BURNER – heating device
+BURROW – hole/dig
+BUSTLE – busy movement
+BUTTER – dairy spread
+BUYING – purchasing
+CACTUS – desert plant
+CAMERA – image device
+CAMPUS – university grounds
+CANARY – small bird
+CANCEL – call off
+CANDLE – wax light
+CANOPY – covering
+CANVAS – strong fabric
+CARBON – chemical element
+CAREER – profession
+CARPET – floor covering
+CASTLE – fortified building
+CASUAL – informal
+CATTLE – cows
+CAUGHT – captured
+CENTER – middle
+CEREAL – grain food
+CHANCE – possibility
+CHANGE – become different
+CHARGE – cost/accuse
+CHOSEN – selected
+CHROME – shiny metal
+CHURCH – religious building
+CIRCLE – round shape
+CIRCUS – performance show
+CITRUS – fruit type
+CLAIMS – asserts/requests
+CLIENT – customer
+CLIMAX – highest point
+CLIQUE – exclusive group
+CLOSET – storage space
+CLUTCH – grip tightly
+COBALT – metal element
+COFFEE – beverage
+COLLAR – neck band
+COLONY – settlement/group
+COLUMN – vertical structure
+COMBAT – fighting
+COMEDY – humor
+COMING – approaching
+COMMON – usual
+COMPEL – force
+COMPLY – obey
+COPPER – metal
+CORNER – angle/edge
+COSTLY – expensive
+COTTON – plant/fabric
+COUNTY – region
+COUPLE – pair
+COURSE – path/meal/study
+COUSIN – relative
+COVERS – protects/shields
+CRADLE – baby bed
+CREATE – make
+CREDIT – trust/loan
+CRISIS – emergency
+CRUISE – voyage
+CUSTOM – tradition/order-made
+DAMAGE – harm
+DAMPEN – make wet/reduce
+DANCER – performer
+DANGER – risk
+DANGLE – hang loosely
+DARING – bold
+DARKEN – make darker
+DEADLY – fatal
+DEALER – seller
+DEBATE – discussion
+DECADE – 10 years
+DECENT – acceptable
+DECIDE – choose
+DECODE – interpret
+DEEPLY – intensely
+DEFEAT – win against
+DEFEND – protect
+DEFINE – explain meaning
+DEGREE – unit/level
+DELIVER – bring
+DEMAND – strong request
+DEMISE – death/end
+DENTAL – related to teeth
+DEPART – leave
+DEPEND – rely on
+DEPLOY – position/use
+DEPUTY – assistant
+DERIVE – come from
+DESERT – dry land/abandon
+DESIGN – plan/structure
+DESIRE – strong want
+DETAIL – small part
+DETECT – discover
+DETOUR – alternate route
+DEVICE – tool
+DEVOTE – dedicate
+DIALOG – conversation
+DIFFER – vary
+DIGEST – process food/info
+DIMMER – less bright
+DINNER – evening meal
+DIRECT – guide/straight
+DISARM – remove weapons
+DISMAL – gloomy
+DISMAY – disappointment
+DIVIDE – split
+DIVERT – redirect
+DOLLAR – currency
+DOMAIN – area
+DONATE – give
+DONKEY – animal
+DOUBLE – twofold
+DOUBT – uncertainty
+DOTING – overly loving
+DRAGON – mythical creature
+DRAWER – storage compartment
+DRIVEN – motivated
+DRIVER – operator
+DROPSY – swelling disease
+DRYER – drying machine
+DURING – in the time of
+DOZENS – many (12s)
+EARNED – obtained
+EARNER – one who earns
+EASILY – without difficulty
+EATING – consuming food
+EDITOR – text reviewer
+EFFECT – result
+EFFORT – attempt
+EIGHTH – number 8 position
+EITHER – one of two
+ELDEST – oldest
+EMERGE – come out
+EMPIRE – large kingdom
+EMPLOY – hire/use
+ENABLE – allow
+ENDING – conclusion
+ENDURE – withstand
+ENERGY – power
+ENGINE – machine
+ENOUGH – sufficient
+ENRICH – improve
+ENSURE – guarantee
+ENTIRE – whole
+ENTITY – being/thing
+EQUITY – fairness/value
+ERRAND – short task
+ESCAPE – get away
+ESTATE – property
+EVOLVE – develop
+EXCEED – go beyond
+EXCEPT – excluding
+EXCESS – extra amount
+EXCITE – thrill
+EXCUSE – reason/forgive
+EXEMPT – freed from
+EXPAND – enlarge
+EXPECT – anticipate
+EXPERT – skilled person
+EXPORT – send abroad
+EXPOSE – reveal
+EXTEND – stretch
+EXTENT – degree
+FABRIC – cloth material
+FACIAL – face-related
+FACTOR – contributing element
+FAIRLY – moderately
+FALLEN – dropped
+FAMILY – relatives
+FAMOUS – well-known
+FAMINE – extreme hunger
+FARMER – agricultural worker
+FASTEN – secure
+FATHER – male parent
+FATHOM – understand/depth measure
+FAUCET – water tap
+FAULTY – defective
+FEEBLE – weak
+FEEDER – one who feeds
+FELINE – cat-related
+FELLOW – person/companion
+FEMALE – woman/animal sex
+FENDER – protective barrier
+FERRET – animal
+FERVOR – intense passion
+FESTER – worsen
+FETISH – obsession/object of fixation
+FEUDAL – medieval system
+FIASCO – complete failure
+FIDDLE – violin/trick with
+FIERCE – intense
+FIGURE – shape/number/person
+FILLED – made full
+FILLER – material/additive
+FILTER – separator
+FINALE – final part
+FINALS – final exams/events
+FINDER – one who finds
+FINGER – hand digit
+FINISH – complete
+FISCAL – financial
+FIZZLE – fail gradually
+FLAKES – small pieces
+FLANKS – sides
+FLAVOR – taste
+FLEDGE – develop feathers
+FLEECE – wool coat
+FLIGHT – flying/travel
+FLINCH – jerk back
+FLOPPY – soft/bendy
+FLOWER – plant bloom
+FLYING – airborne
+FODDER – animal feed
+FOLDER – document holder
+FOLLOW – go after
+FONDLY – lovingly
+FORBID – prohibit
+FORCED – made to
+FOREST – wooded area
+FORGET – fail to remember
+FORMAL – official
+FORMAT – structure
+FORMER – previous
+FOSSIL – preserved remains
+FOSTER – encourage/raise
+FOUGHT – past of fight
+FOURTH – number 4 position
+FREELY – without restriction
+FREEZE – become ice
+FRENCH – related to France
+FRENZY – wild excitement
+FRIDGE – refrigerator
+FRIEND – companion
+FRIGHT – fear
+FRINGE – edge/trim
+FRISKY – playful
+FROSTY – icy
+FROZEN – solid ice
+FRUGAL – economical
+FULFIL – complete
+FUMBLE – handle clumsily
+FUNNEL – tube-shaped tool
+FUTILE – useless
+FUTURE – time ahead
+GADGET – small useful device
+GAGGED – prevented from speaking
+GAINED – obtained/increased
+GALAXY – star system
+GALLON – liquid measure
+GALLOP – horse running speed
+GAMBLE – risk for reward
+GAMING – playing games
+GANDER – male goose/look
+GARAGE – vehicle storage
+GARDEN – plant area
+GARLIC – strong-flavored plant
+GASKET – sealing ring
+GATHER – collect
+GEARED – prepared
+GENDER – sex classification
+GENIUS – extremely smart person
+GENTLE – mild
+GENTLY – softly
+GEYSER – hot water spring
+GIGGLE – light laugh
+GINGER – spice/plant
+GIVING – donating
+GLACER – glacier (ice mass)
+GLADLY – willingly
+GLANCE – quick look
+GLOBAL – worldwide
+GLOSSY – shiny
+GOLDEN – made of/like gold
+GOSPEL – religious teaching
+GOSSIP – rumor talk
+GOVERN – rule/control
+GRAVEL – small stones
+GRASSY – covered with grass
+GROOVE – channel/rhythm
+GROUND – earth/base
+GROWTH – increase
+GRUMPY – bad-tempered
+GUITAR – string instrument
+GUNNER – weapons operator
+GUTTER – drainage channel
+HALTER – strap/restraint
+HAMLET – small village
+HAMMER – striking tool
+HAMPER – hinder/basket
+HANDLE – grip/manage
+HAPPEN – occur
+HARBOR – sheltered port
+HARDEN – become firm
+HARDLY – barely
+HASSLE – trouble
+HAVENT – have not
+HAZARD – danger
+HEADED – led/going
+HEALER – one who cures
+HEALTH – well-being
+HEARTH – fireplace area
+HEATED – warmed/angry
+HEAVEN – paradise/sky
+HEIGHT – tallness
+HELMET – protective headgear
+HELPED – assisted
+HERALD – messenger/announce
+HERMIT – recluse
+HEROIC – very brave
+HINDER – obstruct
+HOARSE – rough voice
+HOLLOW – empty inside
+HONEST – truthful
+HONORS – awards/respect
+HOOKED – attached/interested
+HORROR – extreme fear
+HOSTEL – budget lodging
+HOUSED – accommodated
+HUDDLE – gather closely
+HUMBLE – modest
+HUNGER – need for food
+HUNGRY – wanting food
+HUNTER – one who hunts
+HURDLE – obstacle
+HURTLE – move fast/throw
+HUSTLE – hurry/struggle
+ICEBOX – refrigerator
+ICONIC – famous/symbolic
+IDEALS – perfect standards
+IGNITE – set on fire
+IGNORE – pay no attention
+IMMUNE – resistant
+IMPACT – effect/collision
+IMPAIR – damage
+IMPEND – about to happen
+IMPORT – bring in goods
+IMPOSE – force
+IMPURE – not pure
+INCOME – earnings
+INDEED – truly
+INDOOR – inside
+INDUCE – cause
+INFANT – baby
+INFLUX – arrival in large numbers
+INFORM – tell
+INFUSE – soak/introduce
+INJECT – insert fluid
+INJURY – harm
+INMATE – prisoner
+INSANE – mentally ill/crazy
+INSECT – small animal
+INSERT – put in
+INSIDE – inner part
+INSIST – demand firmly
+INSULT – offend
+INSURE – provide insurance
+INTACT – whole
+INTEND – plan
+INTENT – purpose
+INTERN – trainee/detain
+INVADE – enter aggressively
+INVENT – create
+INVEST – put money in
+INVOKE – call upon
+INWARD – inward direction
+ISLAND – land surrounded by water
+ITSELF – itself
+JABBER – talk rapidly
+JACKET – outer clothing
+JAGGED – rough-edged
+JARGON – specialized language
+JERSEY – shirt
+JESTER – entertainer
+JIGGLE – shake lightly
+JIGSAW – puzzle
+JINGLE – short ringing sound/song
+JOINER – connector/carpenter
+JOSTLE – push roughly
+JOVIAL – cheerful
+JOYFUL – full of joy
+JOYOUS – very happy
+JUGGLE – manage multiple objects
+JUMBLE – mix messily
+JUNGLE – dense forest
+JUNIOR – younger/less experienced
+JUSTER – more fair (rare form)
+KAYAKS – small boats
+KEEPER – caretaker/guardian
+KENNEL – dog shelter
+KERNEL – core/seed
+KETTLE – boiling pot
+KIDNEY – organ
+KILLER – one who kills
+KINDLE – ignite/inspire
+KINDLY – gently/polite
+KINDER – more kind
+KITTEN – baby cat
+KNIGHT – medieval warrior
+KNOBBY – full of knobs
+LACING – tying with strings
+LADDER – climbing frame
+LAGOON – shallow water area
+LAMBDA – Greek letter
+LANDED – arrived
+LAPPED – licked/overlapped
+LAPTOP – portable computer
+LARGER – bigger
+LARVAE – immature insects
+LATHER – foam
+LAUNCH – start/send off
+LAVISH – luxurious
+LAWFUL – legal
+LAWYER – legal professional
+LAYOUT – arrangement
+LEADER – head person
+LEAGUE – group/association
+LEARNT – learned
+LEGACY – inheritance
+LEGEND – famous story/person
+LENDER – loan provider
+LESSON – teaching
+LETTER – written message
+LICKED – touched with tongue
+LIKELY – probable
+LIMBER – flexible
+LIMPED – walked weakly
+LINEAR – straight-line
+LINGER – remain longer
+LIQUID – fluid
+LISTEN – hear attentively
+LITTER – trash/young animals
+LITTLE – small
+LIVELY – energetic
+LIVING – alive
+LOADED – filled
+LOAFER – lazy person/shoe
+LOCATE – find
+LOCKED – secured
+LOCKER – storage cabinet
+LOCKET – small pendant
+LONGER – more long
+LOOSEN – make loose
+LOVELY – beautiful
+LOVING – affectionate
+LUMBER – timber/move heavily
+LURING – attracting
+LUXURY – comfort/extravagance
+MACHIN – machine (short form)
+MAGNET – attracts metal
+MAIDEN – young woman/first
+MAINLY – mostly
+MAKEUP – cosmetics/composition
+MANAGE – control
+MANGLE – damage
+MANNER – way/style
+MANUAL – handbook/manual work
+MARBLE – stone/glass ball
+MARGIN – edge
+MARINA – boat harbor
+MARINE – sea-related
+MARKED – labeled
+MARKET – trade place
+MARVEL – wonder
+MASKED – covered
+MASTER – expert/owner
+MATTER – issue/material
+MATURE – fully developed
+MEADOW – grassy field
+MEDIUM – middle size
+MEMBER – part of group
+MEMORY – remembrance
+MENACE – threat
+MENTAL – mind-related
+MENTOR – guide
+MERELY – only
+METHOD – way
+MIDDLE – center
+MIDWAY – halfway
+MIGHTY – powerful
+MINGLE – mix socially
+MINION – servant/follower
+MINUTE – tiny/time unit
+MIRROR – reflective glass
+MISERY – suffering
+MISTER – adult man
+MITTEN – hand glove
+MOBILE – movable/phone
+MODEST – humble
+MODULE – unit
+MOLTEN – melted
+MOMENT – instant
+MONKEY – primate
+MORSEL – small piece
+MORTAL – destined to die
+MORTAR – building mix/cannon
+MOSTLY – mainly
+MOTHER – female parent
+MOTION – movement
+MOTIVE – reason
+MUFFIN – baked snack
+MUFFLE – soften sound
+MUMBLE – speak unclearly
+MUSCLE – body tissue
+MUSEUM – exhibit place
+MUSING – thinking
+MUSTER – gather
+MUTANT – changed being
+MUTTER – speak softly
+MUTUAL – shared
+MUZZLE – animal mouth cover
+MYSELF – I personally
+MYSTIC – spiritual/magical
+NAMELY – specifically
+NAPKIN – cloth/paper wipe
+NARROW – not wide
+NASTY – unpleasant
+NATION – country
+NATURE – natural world
+NEARBY – close
+NEARLY – almost
+NEATLY – tidily
+NEEDED – required
+NEEDLE – sewing tool
+NEGATE – cancel
+NEPHEW – sibling's son
+NESTLE – settle closely
+NETTLE – prickly plant
+NICELY – pleasantly
+NIMBLE – quick/agile
+NIPPLE – breast part
+NOBODY – no person
+NORMAL – usual
+NOTICE – observe/announcement
+NOTION – idea
+NOUGHT – zero
+NOVELS – books
+NOVICE – beginner
+NOZZLE – pipe opening
+NUGGET – small lump
+NUMBLY – without feeling
+NURSE – caregiver
+NUTMEG – spice
+OBLIGE – force/please
+OBTAIN – get
+OCCUPY – fill/take over
+OFFEND – insult
+OFFICE – workplace
+OFFSET – compensate
+OLDEST – most old
+ONLINE – connected to internet
+OPENER – opening device/first
+OPPOSE – resist
+OPTION – choice
+ORACLE – wise source
+ORANGE – fruit/color
+ORDEAL – difficult experience
+ORIGIN – beginning
+ORPHAN – parentless child
+OTHERS – other people
+OUTFIT – clothing set
+OUTLET – exit/store
+OUTPUT – production/result
+OUTRUN – run faster than
+OXFORD – city/university/shoe
+OXYGEN – life gas
+PACKED – full
+PADDLE – small oar
+PALACE – royal home
+PAMPER – spoil
+PANDER – indulge
+PARADE – procession
+PARCEL – package
+PARENT – father/mother
+PARROT – talking bird
+PARTLY – partially
+PASTRY – baked dough
+PATENT – legal invention right
+PATROL – guard duty
+PATRON – supporter
+PAUSED – stopped briefly
+PAVING – surface laying
+PAYING – giving money
+PAYOFF – reward/result
+PEACHY – excellent
+PEBBLE – small stone
+PEDDLE – sell/propel bike
+PENCIL – writing tool
+PEOPLE – humans
+PEPPER – spice
+PERIOD – time/grammar mark
+PERMIT – allow/license
+PERSON – individual
+PETITE – small
+PICKLE – preserved food/problem
+PICNIC – outdoor meal
+PIGEON – bird
+PILLAR – column/support
+PILLOW – cushion
+PIRATE – sea robber
+PISTOL – small gun
+PLAQUE – plaque/award
+PLANET – celestial body
+PLAYER – participant
+PLEASE – satisfy
+PLEDGE – promise
+PLENTY – abundance
+PLIERS – gripping tool
+PLUNGE – dive/drop
+POCKET – small bag
+POETRY – verse
+POISON – toxic substance
+POLICE – law enforcement
+POLICY – rule
+POLISH – shine/refine
+POLITE – courteous
+POORLY – badly/sick
+PORTAL – gateway
+POSTER – notice/image
+POTATO – vegetable
+POTENT – powerful
+POTION – liquid mixture
+POTTER – craft worker
+POULTRY – farm birds
+POWDER – fine dust
+PRAISE – admiration
+PRAYER – prayer
+PREFIX – beginning part
+PRETTY – attractive
+PRINCE – royal male
+PRISON – jail
+PROFIT – gain
+PROMPT – quick/urge
+PROPER – correct
+PROTON – atomic particle
+PROVEN – confirmed
+PUBLIC – open
+PUDDLE – small water pool
+PUMMEL – beat repeatedly
+PUNISH – penalize
+PUPPET – controlled figure
+PURELY – completely
+PURPLE – color
+PURSUE – follow
+PUSHER – one who pushes/supplies
+PUZZLE – problem/game
+QUARRY – stone mine
+QUARTZ – mineral
+QUENCH – satisfy thirst
+QUIRKY – odd
+RABBIT – small animal
+RACIAL – race-related
+RACKET – noise/sports tool
+RADISH – vegetable
+RAFFLE – lottery
+RAGGED – torn
+RAGING – furious
+RAISED – lifted
+RAISIN – dried grape
+RAMBLE – wander/speak loosely
+RANDOM – without order
+RANGER – forest officer
+RANSOM – payment for release
+RANKED – ordered
+RARELY – seldom
+RASCAL – mischievous person
+RATHER – somewhat
+RATION – fixed share
+RATTLE – shake/noise
+RAVAGE – destroy
+READER – one who reads
+REALLY – truly
+REASON – cause
+RECALL – remember
+RECENT – new
+RECIPE – cooking instructions
+RECKON – think
+RECORD – register/music
+REDUCE – make smaller
+REFORM – improve
+REFUND – money back
+REFUSE – decline/waste
+REGARD – consider
+REGIME – system/government
+REGION – area
+REGRET – feel sorry
+REHEAT – warm again
+REJECT – refuse
+RELATE – connect
+RELENT – soften
+RELICS – remains
+RELIEF – comfort
+RELISH – enjoyment
+REMAIN – stay
+REMARK – comment
+REMEDY – cure
+REMIND – cause to remember
+REMOTE – far/controlled
+REMOVE – take away
+RENDER – give/represent
+RENTAL – leasing
+REPAID – paid back
+REPAIR – fix
+REPEAL – cancel law
+REPEAT – do again
+REPLAY – play again
+REPORT – account/news
+RESCUE – save
+RESENT – feel bitterness
+RESIDE – live
+RESIGN – quit
+RESIST – oppose
+RESORT – resort/place
+RESULT – outcome
+RESUME – continue
+RETAIL – selling goods
+RETAIN – keep
+RETIRE – stop working
+RETORT – reply sharply
+RETURN – come back
+REVEAL – show
+REVIEW – examine
+REVOLT – rebellion
+REWARD – prize
+RHYTHM – beat pattern
+RIBBON – strip
+RIDDLE – puzzle
+RIDING – mounted travel
+RIFFLE – flick through
+RIPPLE – small wave
+RISING – going up
+RITUAL – ceremony
+ROBUST – strong
+ROCKET – spacecraft
+ROSTER – list
+ROTTEN – decayed
+RUBBLE – broken pieces
+RUFFLE – wrinkle/disturb
+RUGGED – rough
+RULING – decision
+RUMBLE – low noise
+RUNNER – one who runs
+RUNWAY – aircraft path
+RUSTIC – rural
+SACRED – holy
+SADDLE – horse seat
+SAFELY – without danger
+SAFETY – protection
+SAILOR – sea worker
+SALARY – pay
+SALMON – fish
+SALOON – bar/wagon
+SAMPLE – example
+SANDAL – footwear
+SAVAGE – wild
+SAVING – money stored
+SAYING – proverb
+SCARCE – rare
+SCARED – frightened
+SCENIC – beautiful view
+SCHEME – plan
+SCHOOL – learning place
+SCREEN – display/barrier
+SCRIPT – written text
+SCULPT – carve
+SEARCH – look for
+SEASON – time period
+SECOND – unit/time
+SECRET – hidden
+SECTOR – division
+SECURE – safe
+SELECT – choose
+SELLER – one who sells
+SENIOR – older
+SEQUEL – continuation
+SERIAL – series-based
+SERIES – sequence
+SERMON – religious speech
+SERVER – provider/computer
+SETTLE – resolve/live
+SEVERE – harsh
+SHADOW – shade
+SHAKEN – disturbed
+SHAMAN – healer
+SHANTY – shack/song
+SHAPED – formed
+SHIELD – protection
+SHOULD – ought to
+SHOWER – bath/rain
+SHRIMP – small seafood
+SHROUD – cover
+SHRUNK – became smaller
+SICKEN – disgust/make ill
+SIGNAL – sign
+SILENT – quiet
+SILVER – metal
+SIMMER – cook gently
+SIMPLE – easy
+SIMPLY – just
+SINGER – vocalist
+SINGLE – one only
+SISTER – female sibling
+SKETCH – drawing
+SKINNY – very thin
+SLEEVE – arm covering
+SLIGHT – small
+SLOPPY – messy
+SMOOTH – even
+SNATCH – grab
+SNIPER – marksman
+SOCIAL – society-related
+SOCKET – connector
+SOFTEN – make soft
+SOLEMN – serious
+SOLELY – only
+SOLIDS – solid substances
+SORROW – sadness
+SOURCE – origin
+SPEECH – spoken words
+SPIDER – arachnid
+SPIRAL – coiled
+SPIRIT – soul/energy
+SPLASH – splash water
+SPONGE – absorbent material
+SPORTY – athletic
+SPOUSE – husband/wife
+SPRAWL – spread out
+SPREAD – expand
+SPRING – season/jump
+SPRINT – run fast
+SQUARE – geometric shape
+SQUASH – crush
+STABLE – steady/barn
+STANCE – position
+STAPLE – basic item
+STATUS – condition
+STEADY – stable
+STEAMY – hot/moist
+STENCH – bad smell
+STEREO – sound system
+STICKY – adhesive
+STITCH – sewing join
+STOLEN – taken unlawfully
+STORMY – stormy weather
+STRAIN – pressure
+STRAND – string/beach
+STRAP – belt
+STREAK – line
+STREAM – small river/data flow
+STREET – road
+STRESS – pressure
+STRIDE – step
+STRIKE – hit
+STRING – cord
+STRIPE – line
+STRIVE – try hard
+STROKE – hit/move
+STRONG – powerful
+STRUCK – hit/past of strike
+STUDIO – workspace
+STUFFY – closed/suffocating
+STUMPY – short/thick
+STUPID – foolish
+SUBMIT – present/accept
+SUBTLE – not obvious
+SUDDEN – quick
+SUFFER – endure pain
+SUMMIT – top meeting/mountain peak
+SUMMON – call
+SUPERB – excellent
+SUPPLY – provide
+SURELY – certainly
+SURVEY – examine
+SUPPER – evening meal
+SWITCH – change device
+SYMBOL – sign
+SYNTAX – structure rules
+SYSTEM – organized set
+TABLET – pill/device
+TACKLE – handle/gear
+TAILOR – clothing maker
+TALENT – skill
+TANGLE – twist/mess
+TARGET – aim
+TARIFF – tax
+TATTOO – ink design
+TAVERN – pub
+TEAPOT – tea container
+TEMPLE – religious building
+TENANT – renter
+TENDER – soft/caring
+TENNIS – sport
+TENURE – term of holding office
+TERROR – extreme fear
+THATCH – roof covering
+THEORY – explanation idea
+THIRTY – number 30
+THIRST – desire for water
+THORNY – difficult/with thorns
+THOUGH – although
+THRILL – excitement
+THRIVE – grow well
+THRONE – royal seat
+THRUST – push
+THWART – block
+TICKET – pass
+TICKLE – light touch
+TIDBIT – small piece
+TIMBER – wood
+TIMELY – on time
+TINKER – repair casually
+TISSUE – paper/body material
+TOASTY – warm
+TODDLE – walk like baby
+TOILET – restroom fixture
+TOMATO – fruit
+TONGUE – organ/language
+TOPPLE – fall over
+TORQUE – twisting force
+TOWARD – in direction of
+TRANCE – hypnotic state
+TRAVEL – go from place to place
+TREATY – agreement
+TRIBAL – related to tribe
+TRICKS – clever acts
+TRIFLE – small thing
+TRIPLE – three times
+TROPHY – award
+TRUANT – absent without permission
+TRUDGE – walk heavily
+TRUMPS – beats
+TUMBLE – fall
+TUNNEL – underground passage
+TURKEY – bird
+TURNIP – vegetable
+TURTLE – reptile
+TWELVE – number 12
+TWENTY – number 20
+TYCOON – wealthy person
+TYPING – writing on keyboard
+TYRANT – cruel ruler
+UGLIER – more ugly
+ULTIMO – last month (legal/finance term)
+UNBORN – not yet born
+UNDONE – not finished
+UNDULY – excessively
+UNFAIR – not fair
+UNFOLD – open
+UNFURL – spread out
+UNIQUE – one of a kind
+UNITED – joined
+UNJUST – not just
+UNKIND – not kind
+UNLESS – except if
+UNLIKE – different from
+UNLOCK – open lock
+UNMASK – reveal identity
+UNPACK – remove from packing
+UNPLUG – disconnect
+UNREST – disturbance
+UNSEEN – not seen
+UNTIDY – messy
+UNTOLD – countless/unsaid
+UNUSED – not used
+UNWRAP – open package
+UPDATE – make current
+UPHOLD – support
+UPKEEP – maintenance
+UPLIFT – raise
+UPROAR – loud disturbance
+UPROOT – remove completely
+UPSHOT – result
+UPTAKE – absorption/increase
+UPTOWN – city upper area
+UPWARD – going up
+URGENT – very important
+USEFUL – helpful
+UTMOST – greatest degree
+UTOPIA – ideal place
+UTTERS – speaks
+VACANT – empty
+VACUUM – empty space
+VALLEY – low land
+VALUED – appreciated
+VANISH – disappear
+VANITY – excessive pride
+VARIED – diverse
+VELVET – soft fabric
+VENDOR – seller
+VENEER – surface layer
+VENOM – poison
+VERBAL – spoken
+VERGE – edge
+VERSUS – against
+VESSEL – container/ship
+VIABLE – workable
+VICTIM – harmed person
+VIEWER – observer
+VIGOUR – energy
+VINERY – grape farm
+VIOLET – purple flower/color
+VIRGIN – untouched
+VISION – sight/idea
+VISUAL – seen image
+VIVACE – lively (music term)
+VOLUME – amount/size/sound
+VORTEX – swirling motion
+VOTING – casting votes
+VOYAGE – journey
+VULGAR – crude
+WADING – walking in water
+WAFFLE – food/talk aimlessly
+WAILED – cried loudly
+WAITED – stayed
+WAITER – server
+WALNUT – nut
+WANDER – roam
+WANTED – desired
+WARDEN – supervisor
+WARMLY – warmly
+WARMTH – heat
+WARNED – cautioned
+WARREN – rabbit burrow
+WASHER – cleaning device
+WASTED – ruined
+WEALTH – riches
+WEAPON – tool for harm
+WEAKEN – make weak
+WEEKLY – every week
+WEIGHT – heaviness
+WHIMSY – playful fancy
+WHISKY – alcohol drink
+WICKED – evil
+WICKER – woven material
+WIELD – handle/use
+WIGGLE – move slightly
+WIDGET – small tool/software item
+WINDER – winding device
+WINDOW – opening/glass
+WINNER – victor
+WINTER – cold season
+WIRING – electrical setup
+WISDOM – knowledge
+WISHED – desired
+WISHES – desires
+WITHIN – inside
+WIZARD – magician
+WOBBLE – shake
+WONDER – curiosity/amaze
+WOODEN – made of wood
+WORKER – laborer
+WORTHY – deserving
+WRAITH – ghost
+WREATH – circular decoration
+WRENCH – tool
+WRITER – author
+YEARLY – every year
+YEOMAN – worker/servant (historical)
+YOGURT – fermented dairy
+ZIGZAG – sharp back-and-forth pattern
+ZODIAC – star sign system
+ZOMBIE – reanimated dead being
+ZONING – land-use regulation
+
+# Part 9 – longer words (en-dash batch)
+ABANDON – leave completely
+ABILITY – skill or capacity
+ABSENCE – state of being away
+ABSOLVE – free from blame
+ABSTAIN – deliberately avoid
+ACADEMY – school or institution
+ACCOUNT – record or report
+ACHIEVE – successfully reach goal
+ACQUIRE – obtain or gain
+ACROBAT – skilled performer
+ACTRESS – female actor
+ADDRESS – location / speech
+ADJOURN – pause a meeting
+ADVANCE – move forward
+ADVERSE – harmful or negative
+ADVISE – give guidance
+AEROBIC – oxygen-related exercise
+AFFABLE – friendly and pleasant
+AFFLICT – cause suffering
+AGILITY – quick movement skill
+AGONIZE – suffer mentally
+AILMENT – illness
+AIRLINE – flight company
+ALCHEMY – medieval chemistry
+ALCOHOL – intoxicating liquid
+ALGEBRA – math branch
+ALLEGED – claimed but unproven
+ALREADY – by this time
+ALUMNUS – male graduate
+AMATEUR – non-professional
+AMAZING – very surprising
+AMBIENT – surrounding environment
+AMNESTY – pardon for offenses
+AMPLIFY – increase strength
+AMPUTEE – person with limb removed
+ANCIENT – very old
+ANGRILY – with anger
+ANGULAR – having angles
+ANIMATE – bring to life
+ANNEXES – additions or attachments
+ANOTHER – one more
+ANXIETY – worry or fear
+ANXIOUS – nervous
+ANYBODY – anyone
+ANYTIME – at any time
+APPAREL – clothing
+APPLIED – put into use
+APPOINT – assign a job
+APPRISE – inform
+APPROVE – agree or accept
+ARCHIVE – stored records
+ARTICLE – written piece
+ARTISAN – skilled craft worker
+ARTWORK – creative visual work
+ASCRIBE – attribute to
+ASSAULT – attack
+ATTEMPT – try
+ATTRACT – draw in
+AUCTION – public sale
+AUDIBLE – able to be heard
+AUDITOR – examiner
+AUGMENT – increase
+AWESOME – impressive
+AWKWARD – uncomfortable
+BACKING – support
+BALANCE – equal distribution
+BALCONY – raised platform
+BALLOON – inflatable bag
+BANDAGE – wound cover
+BANKING – financial system
+BAPTIZE – religious naming ritual
+BARGAIN – deal or discount
+BARRIER – obstacle
+BASEMAN – baseball position player
+BATTERY – power source
+BEARING – direction / relation
+BECAUSE – for the reason that
+BECKONS – signals to come
+BEDDING – sheets and covers
+BEDROOM – sleeping room
+BELIEVE – accept as true
+BENEATH – under
+BENEFIT – advantage
+BETTER – improved
+BEYOND – further than
+BISHOP – chess piece / clergy
+BITTER – harsh taste
+BLANKET – covering cloth
+BLESSED – holy / fortunate
+BLOCKED – stopped
+BLOSSOM – flower
+BOULDER – large rock
+BOYCOTT – refuse participation
+BRACKET – grouping symbol
+BRAVELY – with courage
+BREADTH – width
+BREAKUP – separation
+BREATH – air intake
+BREWERY – beer-making place
+BRIEFLY – for short time
+BRIGADE – army unit
+BROTHER – male sibling
+BUILDER – construction worker
+BUCKETS – containers
+BULGING – swelling out
+BULLPEN – baseball relief area
+BUNGLED – done badly
+CABINET – storage or government body
+CALIBER – quality level
+CALLING – vocation
+CAMPING – outdoor staying
+CAPABLE – able
+CAPITAL – main city / money
+CAPTAIN – leader
+CAPTURE – seize
+CAREFUL – cautious
+CATALOG – list
+CAUTION – care / warning
+CENTRAL – middle
+CERTAIN – sure
+CHAMBER – room
+CHANNEL – passage / media outlet
+CHARITY – aid organization
+CHAPTER – section of book
+CHARITY – giving help
+CHICKEN – bird / coward
+CHRONIC – long-lasting
+CITIZEN – resident of country
+CLAIMED – asserted
+CLEANUP – cleaning action
+CLIMATE – weather pattern
+CLIENT – customer
+CLUSTER – group
+COASTAL – near sea
+COLLECT – gather
+COLLEGE – education institute
+COMFORT – ease
+COMMAND – order
+COMPARE – examine differences
+COMPLETE – finish
+CONCEPT – idea
+CONDUCT – behavior / manage
+CONFIRM – verify
+CONNECT – join
+CONSENT – agree
+CONTROL – regulate
+COUNTRY – nation
+COURAGE – bravery
+CUSTOMS – traditions / border duty
+DAMAGE – harm
+DANGER – risk
+DARING – bold
+DEBATE – discussion
+DECADE – 10 years
+DECIDE – choose
+DEMAND – strong request
+DEFEND – protect
+DELIVER – bring
+DESIRE – want strongly
+DEVICE – tool
+DEVELOP – grow / create
+DIGITAL – electronic
+DISABLE – stop functioning
+DISPUTE – disagreement
+DIVIDE – split
+DONATE – give
+DOUBLE – two times
+DRAGON – mythical creature
+DRIVE – operate vehicle
+DYNAMIC – active and changing
+EAGERLY – with enthusiasm
+ECONOMY – financial system
+EDUCATE – teach
+ELEGANT – graceful
+ELEMENT – basic part
+EMOTION – feeling
+EMPIRE – large kingdom
+ENHANCE – improve
+ENTIRE – whole
+ESCAPE – get away
+ESSENCE – core nature
+ETHICAL – morally right
+EVOLVE – develop gradually
+EXAMPLE – illustration
+EXCITED – very happy
+EXCLUDE – leave out
+EXPERIENCE – knowledge from doing
+EXPLORE – investigate
+EXTREME – very intense
+EYEBROW – hair above eye
+FABRIC – cloth material
+FAILURE – lack of success
+FAIRLY – moderately
+FAMILY – relatives
+FAMOUS – well-known
+FANTASY – imagination
+FASHION – style trend
+FATIGUE – tiredness
+FEATURE – characteristic
+FEDERAL – national government
+FEELING – emotion
+FICTION – imaginary writing
+FIGHTER – combatant
+FINANCE – money management
+FLIGHT – flying journey
+FLOWER – plant bloom
+FOREIGN – from another country
+FOREVER – always
+FORGIVE – pardon
+FORTUNE – luck / wealth
+FRESHLY – newly
+FUTURE – coming time
+GADGETS – small useful devices
+GALLANT – brave and noble
+GALLERY – art exhibition space
+GAMEDAY – day of a sports match
+GANGWAY – passage between seats/ships
+GARBAGE – waste material
+GATEWAY – entry point
+GAZETTE – official newspaper/public record
+GENERAL – widespread; military rank
+GENESIS – beginning/origin
+GENETIC – related to genes
+GENUINE – real, not fake
+GEOLOGY – study of Earth
+GESTURE – hand/body movement
+GETAWAY – escape or short vacation
+GLACIER – large ice mass
+GLAMOUR – attractive charm
+GLIMPSE – brief look
+GLORIFY – praise highly
+GODDESS – female deity
+GONDOLA – small boat / cable car
+GOODWILL – friendly intention
+GRADUAL – slow, step-by-step
+GRANITE – hard igneous rock
+GRAPHIC – visual image/explicit detail
+GRATING – harsh sound or structure
+GRAVITY – force pulling objects down
+GREATLY – very much
+GRILLED – cooked over heat
+GRINDER – crushing machine/tool
+GRISTLE – tough cartilage
+GROWING – increasing
+GROWNUP – adult person
+GUARDED – protected/defensive
+GUERDON – reward (formal)
+GULPING – swallowing quickly
+GUNFIRE – shooting of guns
+GUZZLER – heavy drinker
+HABITAT – natural living place
+HACKSAW – cutting tool
+HALFWAY – middle point
+HALLWAY – passage inside building
+HALOGEN – reactive chemical group
+HAMSTER – small pet rodent
+HANDFUL – small amount
+HANDLER – one who manages something
+HANGING – suspending down
+HAPPIER – more happy
+HAPPILY – joyfully
+HARBOUR – sheltered port
+HARMFUL – causing damage
+HARMONY – peaceful agreement
+HARNESS – equipment to control force
+HARVEST – crop gathering
+HASHISH – cannabis resin drug
+HASTILY – quickly
+HAUNTED – visited by ghosts
+HEADING – title or direction
+HEALTHY – well and strong
+HEARING – listening/legal session
+HEARTEN – encourage
+HEAVILY – with great weight
+HELPFUL – useful
+HERSELF – female reflexive pronoun
+HIGHWAY – major road
+HIMSELF – male reflexive pronoun
+HISTORY – study of past
+HOLDING – possessing
+HOLIDAY – vacation/festival
+HOLSTER – gun holder
+HONESTY – truthfulness
+HOPEFUL – optimistic
+HORIZON – line where earth meets sky
+HORRIFY – scare greatly
+HOSTILE – unfriendly
+HOSTING – providing space/service
+HOUSING – accommodation
+HOWEVER – nevertheless
+HUNDRED – 100
+HUNTING – searching for animals
+HURRIED – rushed
+HUSBAND – married man
+HYGIENE – cleanliness
+HYPNOTIC – trance-inducing
+ICEBERG – floating ice mass
+IDEALLY – perfectly
+ILLEGAL – against law
+ILLNESS – sickness
+ILLICIT – forbidden
+IMAGINE – form mental picture
+IMITATE – copy
+IMMENSE – extremely large
+IMMERSE – fully involve
+IMMORAL – unethical
+IMPARTIAL – unbiased
+IMPEACH – charge of misconduct
+IMPLIED – suggested
+IMPRESS – make strong impact
+IMPROVE – make better
+IMPULSE – sudden urge
+INCLUDE – contain
+INDEXED – listed/recorded
+INDICES – plural of index
+INDOORS – inside building
+INDULGE – allow oneself
+INFLATE – fill with air
+INFLICT – impose harm
+INHABIT – live in
+INITIAL – first
+INQUIRE – ask
+INSIGHT – deep understanding
+INSPECT – examine
+INSTALL – set up
+INSTANT – immediate moment
+INSTEAD – in place of
+INTEGER – whole number
+INTERIM – temporary
+INTENSE – very strong
+INTERNAL – inside
+INTRUDE – interrupt rudely
+INVALID – not valid
+INVADER – attacker
+INVADED – entered forcefully
+INVENT – create
+INVERSE – opposite
+INVOLVE – include
+IRONMAN – extremely strong person/athlete
+ISOLATE – separate
+ITERATE – repeat process
+JACKPOT – big prize win
+JANITOR – cleaner/maintenance worker
+JASMINE – fragrant flower
+JAVELIN – throwing spear
+JEALOUS – envious
+JEWELRY – decorative ornaments
+JOGGING – slow running
+JOURNAL – daily record/book
+JOURNEY – travel trip
+JUBILEE – celebration anniversary
+JUDGING – evaluating
+JUGGLER – performer tossing objects
+JUMPING – leaping
+JUSTICE – fairness
+JUSTIFY – prove right
+KEEPSAKE – souvenir
+KEYWORD – important word
+KICKING – striking with foot
+KILLING – causing death
+KINDEST – most gentle
+KINDRED – related group
+KINGDOM – ruled territory
+KITCHEN – cooking room
+KNEECAP – knee bone
+KNOCKER – door handle/critic
+KNOWING – aware
+LABORED – worked hard
+LACKING – missing
+LANDING – arrival surface
+LARGELY – mostly
+LASTING – durable
+LATERAL – side-to-side
+LAUNDRY – washed clothes
+LAYERED – stacked levels
+LEADING – guiding
+LEARNED – educated
+LEATHER – animal skin material
+LEAVING – departing
+LECTURE – formal talk
+LEGALLY – lawfully
+LENDING – giving temporarily
+LENGTHY – long
+LEOPARD – wild spotted cat
+LESIONS – damaged tissue areas
+LIBERTY – freedom
+LIBRARY – book collection place
+LICENSE – official permission
+LIGHTER – fire-starting tool
+LIMITED – restricted
+LINEAGE – family descent
+LITERAL – exact meaning
+LOADING – putting in
+LOCALLY – nearby
+LOBSTER – sea crustacean
+LOGICAL – reasonable
+LONGING – strong desire
+LOOKOUT – watch position
+LOTTERY – prize draw
+LOVABLE – easy to love
+LUGGAGE – travel bags
+LURKING – hiding
+LUSTFUL – strong desire
+MADNESS – insanity
+MAGICAL – supernatural
+MAGNIFY – enlarge
+MAILBOX – mail container
+MAMMOTH – huge
+MANAGED – controlled
+MANDATE – official order
+MANHOOD – adulthood (male)
+MANKIND – humanity
+MANSION – large house
+MASONRY – stone building work
+MASSAGE – body rubbing therapy
+MASSIVE – very large
+MASTERY – skill control
+MATCHED – paired
+MEANING – sense/definition
+MEASLES – viral disease
+MEASURE – quantify
+MEDICAL – health-related
+MEETING – gathering
+MELODIC – musical
+MEMENTO – keepsake
+MENTION – refer briefly
+MERCURY – chemical/planet
+MIDTERM – middle exam
+MIGRATE – move location
+MILITIA – armed group
+MILLION – 1,000,000
+MINERAL – natural solid substance
+MINIMAL – very small
+MINIMUM – least amount
+MIRACLE – extraordinary event
+MISSION – assigned task
+MISTAKE – error
+MIXTURE – combined substances
+MOBSTER – criminal gang member
+MODULAR – composed of units
+MOISTEN – make damp
+MONITOR – watch/observe
+MONSTER – scary creature
+MONTHLY – every month
+MORNING – early day time
+MOUNTED – placed/rode
+MUDSLIDE – earth flow
+MUNDANE – ordinary
+MUSICAL – music-related
+MYSTERY – unknown situation
+MYSTIFY – confuse
+NAPKIN – cloth/paper wipe
+NARRATE – tell story
+NATION – country
+NATURAL – normal/organic
+NEARING – approaching
+NEAREST – closest
+NEBULOUS – unclear
+NEEDING – requiring
+NEGLECT – ignore
+NEITHER – not one nor other
+NERVOUS – anxious
+NETWORK – connected system
+NEUTRAL – unbiased
+NEWBORN – recently born
+NOMINAL – symbolic
+NOTHING – zero
+NOURISH – feed/grow
+NOVELTY – newness
+NUCLEAR – atomic
+NULLIFY – cancel
+NURSERY – child care place
+NURSING – medical care
+NURTURE – care for growth
+OBVIOUS – clear
+OBSERVE – watch carefully
+OBSCURE – unclear
+OBJECTS – items/things
+OBLIGED – required/grateful
+OCTOBER – 10th month
+OFFICER – authority person
+ONGOING – continuing
+OPENING – start/entrance
+OPINION – belief/view
+OPTIMAL – best possible
+ORDERED – arranged/requested
+ORGANIC – natural
+OUTLINE – summary plan
+OUTLOOK – perspective
+OUTPOST – remote station
+OUTRAGE – strong anger
+OUTSIDE – exterior
+OVERALL – total
+OVERSEE – supervise
+OXYGEN – breathing gas
+PAINFUL – causing pain
+PAINTED – colored
+PALETTE – color board
+PANCAKE – flat cake
+PARKING – vehicle place
+PARTIAL – incomplete
+PARTNER – associate
+PASSAGE – corridor/text section
+PASSION – strong feeling
+PASSIVE – inactive
+PATIENT – calm/sick person
+PATRIOT – loyal citizen
+PATTERN – repeated design
+PAYMENT – money given
+PEOPLE – humans
+PERMIT – allow
+PERSON – individual
+PILOT – aircraft driver
+PLANET – space body
+PLEASED – satisfied
+POISON – toxic substance
+POLICE – law enforcement
+POPULAR – well-liked
+POWERED – supplied energy
+PREDICT – forecast
+PREPARE – get ready
+PREVENT – stop
+PRIMARY – main
+PRINTER – print device
+PRIVATE – not public
+PROBLEM – issue
+PROCESS – method
+PRODUCE – create
+PRODUCT – item
+PROJECT – planned work
+PROMISE – assure
+PROTECT – guard
+PROVIDE – supply
+PUBLIC – open to all
+PUMPKIN – squash fruit
+PURPOSE – aim
+QUALIFY – meet requirements
+QUANTUM – physics unit concept
+QUARREL – argument
+QUARTER – one-fourth
+RABBIT – small mammal
+RACIAL – ethnicity-related
+RACKET – loud noise/sport tool
+RAGGED – torn/rough
+RANDOM – without pattern
+RAPIDLY – quickly
+RATHER – somewhat
+REASON – cause
+RECEIVE – get
+RECOVER – regain health
+REFLECT – mirror/think
+REGULAR – normal
+RELEASE – free
+REPLACE – substitute
+REPORT – account/news
+RESCUE – save
+RESULTS – outcomes
+RETIRE – stop working
+RETURN – come back
+REWARD – prize
+RHYTHM – pattern of beats
+ROCKET – space vehicle
+ROUTINE – regular habit
+SACRED – holy
+SAFETY – protection
+SALARY – pay
+SAMPLE – example
+SCHOOL – learning place
+SCIENCE – study of nature
+SEARCH – look for
+SECURE – safe
+SELECT – choose
+SERVICE – help/maintenance
+SHADOW – dark shape
+SHELTER – protection place
+SILENCE – quiet
+SIMPLE – easy
+SOCIETY – community
+SPECIAL – unique
+SPIRIT – soul/energy
+SQUARE – four-sided shape
+STRONG – powerful
+STUDENT – learner
+SUCCESS – achievement
+SYSTEM – organized structure
+TABLET – small device/medicine
+TALENT – skill
+TARGET – goal
+TEACHER – instructor
+TENSION – stress
+THEORY – explanation idea
+THOUGHT – idea
+THRIVE – grow well
+TICKET – entry pass
+TOMATO – fruit vegetable
+TRAVEL – go places
+TREATY – formal agreement
+TRUST – belief/confidence
+TWIST – turn
+UNIFORM – same clothing
+UNIQUE – one of a kind
+UNION – joining
+UNUSUAL – not common
+UPGRADE – improve
+URGENT – very important
+USEFUL – helpful
+UTILITY – usefulness/service
+VACANCY – empty position
+VALID – correct/true
+VALLEY – low land
+VARIETY – diversity
+VEHICLE – transport machine
+VERSION – form
+VIBRANT – lively
+VICTORY – win
+VILLAGE – small town
+VIRTUAL – digital/imaginary
+VISIBLE – seen
+VISITOR – guest
+VITAL – essential
+VOLUME – amount/size
+VOYAGE – long journey
+WAITING – staying for something
+WALKING – moving on foot
+WARRANT – legal permission
+WARRIOR – fighter
+WEALTHY – rich
+WEBSITE – online page
+WELCOME – greeting
+WEATHER – atmospheric condition
+WEDDING – marriage ceremony
+WHISPER – soft speech
+WITNESS – observer
+WRITING – text creation
+WRITTEN – recorded in text
+YEARNED – deeply desired
+YOUNGER – less old
+ZEALOUS – very enthusiastic
+ZIPPING – moving fast / closing with zip
+
+# Part 10 – dictionary gaps (A–M batch)
+ADVISED – gave guidance or recommendation
+AIMLESS – without purpose or direction
+BASAL – basic; relating to the base or foundation
+BESIDES – in addition to; also
+BILLION – number equal to 1,000 million (10⁹)
+BISCUIT – small baked bread/cookie (varies by region)
+BLEMISH – a mark or flaw that spoils appearance
+BLOCKER – something that prevents or hinders progress
+BOASTER – person who praises themselves too much
+BOOMING – growing quickly; very successful or loud
+BOROUGH – town or district with its own local government
+BOURBON – type of American whiskey
+BREATHE – to take air in and out of lungs
+BRISTLE – stiff hair or to react angrily
+BROADEN – to make wider or more inclusive
+BROADLY – generally; in a wide sense
+BROUGHT – past tense of bring
+BROWNIE – chocolate dessert or small fairy (folklore)
+BUFFALO – large wild animal; also a city in USA
+CAMELOT – legendary castle of King Arthur
+CARAMEL – sweet brown sugar cooked product
+CARDIAC – related to the heart
+CEILING – upper inside surface of a room
+CERAMIC – material made from fired clay
+CERTIFY – to officially confirm as true
+CHARTER – official document granting rights
+CHASSIS – framework of a vehicle or machine
+CHECKED – inspected; also patterned design
+CHECKER – person or piece used in checkers game
+CHERISH – to value and care deeply
+CHIMNEY – structure that carries smoke out
+CIRCUIT – closed path for electricity or route
+CIVILIZE – to bring to a more advanced society
+CLAMBER – to climb with difficulty
+CLASSIC – typical, traditional, or of high quality
+CLINICS – small medical treatment centers
+CLOSEST – nearest in distance or relation
+CLOSING – ending or finishing
+CLOSURE – end of something; resolution
+CLUTTER – untidy collection of things
+COCKPIT – pilot's control area in aircraft
+COEXIST – exist together peacefully
+COGNATE – related by origin or language
+COINAGE – creation of new words or coins
+COLLIDE – to crash into each other
+COMBINE – to join together
+COMMENT – statement or opinion
+COMPACT – small; tightly packed
+COMPANY – business organization or group
+COMPASS – navigation instrument
+COMPETE – to take part in rivalry
+COMPILE – to gather into one collection
+COMPLEX – complicated or made of parts
+COMPOSE – to create or make up
+COMPUTE – to calculate
+CONCEAL – to hide
+CONCERN – worry or interest
+CONCISE – brief and clear
+CONDEMN – to strongly disapprove or punish
+CONFESS – to admit something
+CONFIDE – to share privately
+CONFORM – to follow rules or standards
+CONFUSE – to make unclear
+CONSIST – to be made of
+CONSULT – to seek advice
+CONSUME – to use up or eat
+CONTACT – communication or touch
+CONTAIN – to hold inside
+CONTENT – material or satisfied feeling
+CONTEST – competition
+CONTEXT – background meaning
+CONVERT – to change form or use
+CONVICT – to declare guilty
+COOLANT – substance used to reduce heat
+CORRECT – right or accurate
+CORRUPT – dishonest or morally bad
+COSTUME – special clothing outfit
+COTTAGE – small house
+COUNCIL – group that makes decisions
+COUNTER – surface for serving; or oppose
+COURTLY – polite and refined
+CREATED – made or formed
+CREATOR – person who makes something
+CRICKET – sport or insect
+CRIMSON – deep red color
+CRINKLE – small fold or wrinkle
+CRIPPLE – to severely damage or disable
+CRITTER – small creature (informal)
+CRUCIAL – extremely important
+CRUELTY – behavior that causes suffering
+CRUMBLE – to break into pieces
+CRUMPLE – to wrinkle or crush
+CRUSADE – strong campaign for a cause
+CRYSTAL – clear mineral; glass-like substance
+CUISINE – style of cooking
+CULTURE – beliefs and way of life
+CUMULUS – type of fluffy cloud
+CUNNING – clever in a sneaky way
+CURATOR – person who manages collections
+CURIOUS – eager to learn
+CURRENT – happening now; flow of water/electricity
+CUSHION – soft support object
+CUTLERY – knives, forks, spoons
+CYNICAL – distrustful of others’ motives
+DAMAGED – harmed or broken
+DASHING – stylish and attractive
+DAYCARE – care facility for children
+DEALING – handling or business transactions
+DEBACLE – complete failure
+DECIMAL – number system based on 10
+DECLARE – to announce
+DECLINE – to decrease or refuse
+DECODED – translated from code
+DECORA – decorative style (often "decora")
+DEFAULT – preset option; failure to act
+DEFENSE – protection or resistance
+DEFICIT – shortage or loss
+DEFYING – resisting or disobeying
+DENSITY – how tightly packed something is
+DEPOSIT – to place money/items; or mineral layer
+DERIVED – obtained from something
+DESCENT – downward movement; ancestry
+DESERVE – to be worthy of
+DESKTOP – computer screen/main workspace
+DESPAIR – complete loss of hope
+DESPITE – in spite of
+DESTINY – fate or predetermined outcome
+DESTROY – to completely ruin
+DETRACT – to reduce value or importance
+DEVOTED – very loyal or dedicated
+DIALECT – regional form of language
+DIAMOND – precious stone
+DIETARY – related to diet
+DIGNITY – self-respect
+DILUTED – made weaker by adding liquid
+DIPLOMA – certificate of qualification
+DISCARD – to throw away
+DISCORD – disagreement or lack of harmony
+DISCUSS – to talk about
+DISEASE – illness
+DISGUST – strong dislike
+DISPLAY – to show
+DISPOSE – to get rid of
+DISSECT – to cut apart for study
+DISSENT – disagreement with majority
+DISTANT – far away
+DISTILL – purify by heating and cooling
+DISTORT – twist out of shape
+DISTURB – to interrupt or bother
+DIVERSE – varied; different kinds
+DIVIDED – separated
+DONATED – given for charity
+DOORSTEP – step outside a door
+DORMANT – inactive or sleeping
+DOUBLED – made twice as much
+DOUBTD – doubted (questioned truth; list spelling)
+DRAINED – emptied; very tired
+DRAWING – picture or sketch
+DRESSED – wearing clothes
+DRIFTED – moved slowly without control
+DROUGHT – long period without rain
+DRUNKEN – affected by alcohol
+DUBIOUS – doubtful or suspicious
+DUSTPAN – tool for collecting dust
+EARNEST – serious and sincere
+EARTHEN – made of clay
+EASTERN – related to the east
+ECLIPSE – when one space object blocks another (sun/moon)
+EDITING – correcting or improving text
+EDITION – version of a book/publication
+ELECTED – chosen by voting
+ELEVATE – to raise up
+EMBRACE – to hug; accept fully
+EMPEROR – male ruler of an empire
+ENABLED – made possible
+ENCHANT – to delight or charm
+ENDLESS – without end
+ENFORCE – make sure rules are followed
+ENGAGED – involved; busy; or promised to marry
+ENJOYED – liked or took pleasure in
+ENQUIRE – ask (formal)
+ENRAGED – very angry
+ENSNARE – trap or catch
+ENSURED – made certain
+ENTITLE – give a right or claim
+ENTROPY – measure of disorder
+EPISODE – part of a series
+EQUALLY – in the same way or amount
+EROSION – wearing away of land
+ERRANDS – short trips to do tasks
+ERUDITE – very educated
+ESPOUSE – support an idea
+ETERNAL – forever
+EVACUEE – person moved to safety
+EVANGEL – message of religious teaching
+EVENING – late part of day
+EVIDENT – clearly seen
+EXACTLY – precisely
+EXAMINE – inspect carefully
+EXCLAIM – cry out suddenly
+EXEC – executive (informal)
+EXECUTE – carry out; or kill legally
+EXHAUST – to tire completely
+EXHIBIT – display; or object shown
+EXPENSE – cost
+EXPIRED – ended or ran out
+EXPLAIN – make clear
+EXPLOIT – use unfairly or benefit from
+EXPOSED – uncovered or revealed
+EXPUNGE – erase completely
+EXTINCT – no longer exists
+EXTRACT – remove or take out
+FACTION – small group within larger group
+FACULTY – ability or department in college
+FAIN – unwilling or reluctantly
+FAIRWAY – golf course path
+FALLACY – mistaken belief
+FALLOUT – aftermath; consequences
+FALSELY – incorrectly or wrongly
+FAMS – families (slang)
+FARO – gambling card game
+FART – release gas from body
+FATS – oily substances in food
+FAWNS – young deer; or behaves overly submissive
+FEATHER – bird covering
+FEDS – federal agents (informal)
+FEEDING – giving food
+FEES – payments
+FERTILE – able to produce life/crops
+FERVENT – very passionate
+FESTIVE – joyful and celebratory
+FIEF – land granted to a lord
+FIFTEEN – number 15
+FILL – make full
+FILLING – material inside; or satisfying food
+FILM – movie or thin layer
+FINALLY – at last
+FIND – discover
+FINDING – discovery
+FIREFLY – glowing insect
+FIRS – evergreen trees
+FISHING – catching fish
+FISSURE – crack or split
+FITNESS – physical health
+FITS – sudden seizures; or matches
+FIXTURE – permanent fitting; or scheduled event
+FLAK – criticism; or anti-aircraft fire
+FLAM – fake or nonsense
+FLAN – custard dessert
+FLANNEL – soft cloth
+FLAP – loose or swinging piece
+FLASHER – light signal; or person exposing themselves
+FLATTEN – make flat
+FLATTER – praise insincerely
+FLAVOUR – taste
+FLAX – plant used for fiber
+FLAY – strip skin; criticize harshly
+FLED – ran away
+FLEXING – showing strength
+FLICKER – flickering light
+FLORIST – flower seller
+FLOWING – moving smoothly
+FLUTTER – quick light movement
+FLUX – constant change
+FOBS – small chains/key devices
+FOCI – plural of focus
+FOCUSED – concentrated
+FOGHORN – loud ship horn
+FOGY – old-fashioned person
+FONDEST – most affectionate
+FONT – style of text
+FOOLISH – silly
+FOOTAGE – recorded video
+FORFEIT – lose by penalty
+FORMULA – set method or equation
+FORWARD – ahead
+FOSSILS – preserved remains of plants/animals
+FOUNDER – person who starts something
+FRAGILE – easily broken
+FRANTIC – very worried or panicked
+FRED – male name
+FREIGHT – transported goods
+FRETFUL – anxious or worried
+FROW – woman (old word)
+FRUG – dance style
+FULFILL – complete or achieve
+FUMBLED – handled clumsily
+FUNDING – financial support
+FUNERAL – ceremony for dead person
+FUNKY – stylish or unusual
+FURNACE – heating device
+FURR – fur covering
+FURTHER – more distant or additional
+FUTURES – financial contracts
+GABS – talks a lot
+GADS – exclamation of surprise
+GAFF – hook or trick
+GAGS – jokes or mouth restraints
+GAIN – get or increase
+GAIT – way of walking
+GALL – boldness; or irritation
+GALS – girls/women
+GAMY – gamey smell or taste
+GAPS – openings or spaces
+GAUGE – measure
+GAUNT – very thin
+GAUZE – thin fabric
+GAVEL – judge's hammer
+GAWKY – awkward
+GEED – encouraged
+GEEKY – overly technical or nerdy
+GENIE – magical spirit
+GENRE – category of art
+GIDDY – dizzy or excited
+GIVEN – provided
+GIVER – one who gives
+GIVES – provides
+GLAND – organ in body
+GLARE – strong light or angry look
+GLAZE – shiny coating
+GLEAM – soft light
+GLEAN – gather bit by bit
+GLIDE – move smoothly
+GLINT – small flash of light
+GLOAT – show self-satisfaction
+GLOBE – round earth or ball
+GLOOM – sadness or darkness
+GLORY – great honor
+GLOSS – shine or explanation
+GLUED – stuck
+GNARLY – rough or extreme
+GOING – leaving or happening
+GOLEM – mythical clay creature
+GOLLY – mild exclamation
+GOODWIL – goodwill (kindness; list spelling)
+GOODY – treat or snack
+GOOEY – sticky
+GOOSE – large bird
+GORGE – narrow valley; or overeat
+GOUGE – cut or remove
+GOURD – plant/fruit
+GRACE – elegance or kindness
+GRADE – level or score
+GRANT – give or allow
+GRAPE – fruit
+GRAPH – chart
+GRASP – hold or understand
+GRATE – shred; or irritate
+GRAVE – serious; or burial place
+GRAVY – sauce from meat juices
+GRAZE – feed lightly; or scratch skin
+GREED – strong desire for more
+GREET – welcome
+GRIEF – deep sadness
+GRILL – cook on fire
+GRIME – dirt
+GRIMY – dirty
+GRIPE – complain
+GROAN – low sound of pain
+GROIN – body area between abdomen and thigh
+GROPE – feel around blindly
+GROSS – disgusting or total amount
+GROUT – filler between tiles
+GROVE – small group of trees
+GROWL – low angry sound
+GROWN – matured
+GRUEL – thin porridge
+GRUFF – rough voice or manner
+GRUMP – grumpy person
+GRUNT – animal sound
+GUESS – estimate
+GUIDE – lead or help
+GUILD – group of professionals
+GUILT – feeling of wrongdoing
+GUISE – appearance
+GULCH – narrow valley
+GULLY – water channel
+GUMMY – sticky
+GUSTO – enthusiasm
+GUSTY – windy
+HAFT – handle of a tool or weapon
+HAGS – old women (offensive slang in some use)
+HAIRY – covered with hair; or scary situation
+HAJJ – Islamic pilgrimage to Mecca
+HALE – healthy and strong
+HALT – stop
+HALVE – divide into two
+HAMS – cured meat or overacting performers
+HANDY – useful; convenient
+HANGS – stays suspended
+HANK – coil or bundle
+HARK – listen (old/formal)
+HARSH – rough or severe
+HASP – fastening device
+HAST – old form of “have”
+HASTY – rushed
+HATCH – to come out of egg; or door
+HATH – old form of “has”
+HAUNT – frequently visit (ghosts or memories)
+HAVEN – safe place
+HAVOC – great destruction
+HAZE – mist or confusion
+HEADS – top part; or decisions in coin toss
+HEARD – past of hear
+HEAVE – lift with effort
+HECK – mild swear word
+HEEDS – pays attention to
+HEFT – weight
+HEFTY – heavy or strong
+HEHS – laughter sound
+HEIST – robbery
+HELD – past of hold
+HELLO – greeting
+HELM – steering control; leadership
+HEMS – edges of cloth
+HENCE – therefore
+HERB – edible plant
+HERBS – plants used in cooking/medicine
+HERD – group of animals
+HERDS – multiple groups
+HERE – in this place
+HERON – tall water bird
+HEWN – cut or shaped (wood/stone)
+HEWS – cuts
+HICK – unsophisticated person
+HIED – hurried (old word)
+HIES – hurries
+HILLY – full of hills
+HIMS – plural informal reference to males
+HIND – rear or back
+HINGE – joint that allows movement
+HIPPO – hippopotamus
+HIPS – body part
+HITCH – catch or problem; or attach
+HIVES – skin rash or bee nests
+HOAR – grey-white frost
+HOARD – store secretly
+HOAX – trick or fake
+HOBBY – pastime
+HOBS – stove parts
+HOCK – ankle joint or sell
+HODS – carrying containers
+HOED – dug with hoe
+HOER – person who hoes
+HOES – garden tools
+HOGS – pigs
+HOIST – lift up
+HOLLY – evergreen plant
+HOMER – home run; or Homer Simpson (name)
+HOOF – animal foot
+HOOKS – curved tools
+HOOP – ring
+HOOT – owl sound or shout
+HOPED – wished
+HOPS – jumps; or beer ingredient
+HORA – traditional dance
+HORDE – large crowd
+HORNS – pointed animal parts
+HORSE – large riding animal
+HOSE – flexible tube; stockings
+HOTEL – lodging place
+HOUND – hunting dog; or pursue
+HOUR – 60 minutes
+HOWDY – informal greeting
+HOWL – long cry
+HOWS – methods or conditions
+HUBS – central points
+HUED – colored
+HUES – shades of color
+HUFF – anger or puff of air
+HUGS – embraces
+HUMID – moist air
+HUMP – raised lump
+HUNCH – strong feeling or guess
+HUNK – large piece; attractive man
+HUNTS – searches or chases
+HURRY – move quickly
+HUSK – outer shell
+HUSKY – strong; or dog breed
+HUTCH – small cage or cabinet
+HUTS – small houses
+HYDRO – water-related
+HYENA – wild animal
+HYMNS – religious songs
+HYPE – excitement or promotion
+HYPNOTI – hypnotic (inducing trance; list spelling)
+ICED – covered with ice
+ICES – frozen water or plural ice creams
+ICKY – unpleasant or sticky
+IDIOT – foolish person (informal/offensive)
+IDLY – lazily
+IGLOO – snow house
+IMPARTL – impartial (fair, unbiased; list spelling)
+IMPLY – suggest indirectly
+INANE – silly or meaningless
+INCUR – bring upon (usually bad thing)
+INDIE – independent style or creator
+INEPT – unskilled
+INFER – conclude from evidence
+INFO – information (informal)
+INGOT – metal block
+INKS – writing fluids
+INKY – covered in ink
+INSET – small image inside main one
+INTER – bury
+INTERNA – internal (list spelling)
+INTRO – introduction
+IONIC – related to ions
+IONS – charged particles
+IRED – annoyed
+IRES – angers
+IRKS – annoys
+ISLE – small island
+ISMS – belief systems
+ITCH – urge to scratch
+IVYS – ivy plants (plural informal)
+JADE – green stone; or tire
+JAGS – sharp points or drinks (slang)
+JAKE – male name; also slang for fine/OK
+JAMB – side of doorway
+JAPE – joke
+JAVA – coffee or programming language
+JAWS – mouth parts
+JAYS – birds
+JEAN – denim fabric or name
+JELL – set like jelly; agree well
+JELLY – sweet spread
+JENNY – female donkey; name
+JERK – sudden movement; rude person
+JERKY – dried meat; or shaky movement
+JIBE – agree; or mocking remark
+JIBS – sails on boats
+JIFF – short time
+JIFFY – very quick moment
+JIGS – lively dances
+JILT – reject suddenly in love
+JIMP – neat or precise (Scottish usage)
+JINK – quick evasive movement
+JINN – spirit in Arabic folklore
+JIVE – dance or nonsense talk
+JOCK – athlete
+JOGS – runs slowly
+JOHN – male name
+JOSH – joke around
+JOTS – writes quickly
+JOUST – medieval combat with lances
+JOWL – lower cheek or jaw
+JOYS – pleasures
+JUDO – martial art
+JUGE – judge (variant in some lists)
+JUGS – containers
+JUICY – full of juice; interesting gossip
+JUMPS – leaps
+JUNK – trash
+JUROR – court jury member
+JUTE – plant fiber
+JUTS – sticks out
+KAYAK – boat that can be paddled from both ends
+KAYO – knockout (boxing slang)
+KAYS – keys (plural/slang)
+KEBAB – grilled meat dish
+KEEK – quick look (Scottish)
+KEEPSAK – keepsake (something saved for memory; list spelling)
+KEGS – small barrels
+KEMP – coarse hair or rough fibers
+KENS – knows or understands (archaic)
+KEYED – set or adjusted; locked in
+KHAN – ruler or leader (historic title)
+KIDS – children; young goats
+KILN – oven for baking or firing pottery
+KILT – traditional Scottish skirt
+KINA – type of currency (Papua New Guinea)
+KINE – cows (old plural)
+KINK – twist or bend; odd habit
+KINKY – twisted; unusual (sometimes sexual meaning)
+KINS – relatives (rare form)
+KIOSK – small shop or stand
+KIPS – sleeps (slang) or rests
+KIRK – church (Scottish)
+KITH – friends and acquaintances
+KITS – sets of tools/items
+KIWI – fruit or New Zealand bird/person
+KNAB – archaic: to snatch or bite
+KNACK – skill or talent
+KNEAD – work dough by pressing
+KNELT – past of kneel
+KNOB – rounded handle or lump
+KNOLL – small hill
+KNUR – knot or bump in wood (rare)
+KOAN – Zen Buddhist puzzle saying
+KOBS – seed heads of maize (rare)
+KOEL – type of cuckoo bird
+KOHL – eye cosmetic
+KOLA – plant/nut used in cola drinks
+KONK – hit on the head (slang)
+KOPH – Hebrew letter (also rare term usage)
+KOPS – police (slang)
+KORE – maiden (Greek mythology)
+KUDO – praise (singular of kudos)
+KUDOS – praise or credit
+KUDU – African antelope
+LABOR – work
+LABS – laboratories
+LACED – tied with lace/string
+LACY – delicate like lace
+LAGS – falls behind
+LAIR – animal's den
+LAMA – Tibetan monk or animal (llama)
+LAME – weak; injured
+LAMS – hits or beats (slang)
+LANCE – spear
+LANK – thin and tall
+LANKY – very tall and thin
+LAPS – circles or folds
+LAPSE – temporary failure or gap
+LARS – male name
+LARVA – immature insect stage
+LASE – use laser treatment
+LASER – focused light device
+LASS – girl
+LASSO – rope for catching animals
+LATCH – lock mechanism
+LATER – afterward
+LATEX – milky liquid rubber
+LATH – thin wooden strip
+LATHE – machine for shaping wood/metal
+LATTE – coffee with milk
+LAWS – rules
+LAYER – level or sheet
+LAYS – puts down; sings songs
+LEACH – drain away
+LEAFY – full of leaves
+LEAKY – letting liquid/air out
+LEAS – meadows or rented land
+LEASE – rental agreement
+LEAST – smallest amount
+LECH – sexually inappropriate interest
+LEDGE – narrow shelf (rock/wall)
+LEES – sediment at bottom of liquid
+LEFT – opposite of right; departed
+LEGAL – allowed by law
+LEGS – limbs for walking
+LEMON – citrus fruit
+LESSONS – teachings
+LETTERS – written symbols or mail
+LEVER – bar used to move things
+LEVY – tax or charge
+LIBEL – false written statement
+LIBERAL – open-minded or political ideology
+LIBS – liberals (informal)
+LIES – false statements
+LIEU – instead of
+LIKEN – compare
+LIKENED – compared
+LILAC – light purple flower/color
+LILT – cheerful rhythm in speech/music
+LILY – flower
+LIMB – arm or leg; tree branch
+LIMBO – uncertain state
+LIMP – walk weakly
+LIMY – covered with lime; British slang
+LINEN – cloth fabric
+LINER – ship, plane, or container lining
+LING – type of fish or heather plant
+LINGO – language or slang
+LINKAGE – connection
+LINKS – connections or golf course area
+LINT – soft fluff
+LITE – light version
+LITERAT – literate (educated; list spelling)
+LIVER – organ
+LOAM – fertile soil
+LOBE – rounded part of organ
+LOBS – throws gently
+LOCAL – nearby area
+LOCO – crazy (slang)
+LODE – mineral deposit
+LODGE – cabin or stay temporarily
+LOFTY – high or noble
+LOGE – seating section in theater
+LOGIC – reasoning
+LOGO – symbol or emblem
+LONER – person who prefers solitude
+LOON – wild duck or crazy person (slang)
+LOOS – toilets (British)
+LOOT – stolen goods
+LORE – traditional knowledge
+LORN – lonely or abandoned (poetic)
+LORRY – truck (British)
+LOTS – many; or land plots
+LOUR – look angry or darken
+LOUT – awkward person
+LOVER – romantic partner
+LOWER – bring down
+LOWS – low points
+LOYAL – faithful
+LUCID – clear and understandable
+LUDO – board game
+LUGE – sled sport
+LULL – brief calm period
+LUMEN – unit of light
+LUMPS – chunks
+LUMPY – uneven
+LUMS – lumps (informal plural)
+LUNCH – midday meal
+LUNGE – sudden forward movement
+LUNK – awkward person
+LURK – hide and wait
+LUSTY – full of energy or desire
+LUTE – string instrument
+LYING – not telling truth; or reclining
+LYNX – wild cat
+LYRE – musical instrument
+LYRIC – song words
+MACE – spice or weapon
+MACH – speed of sound unit
+MACHO – overly masculine
+MACRO – large-scale
+MAFIA – criminal organization
+MAGE – magician
+MAGI – wise men (biblical)
+MAGS – magazines
+MAILMAN – postal worker
+MAIM – badly injure
+MAKER – creator
+MAMBO – dance/music style
+MAMMA – mother
+MANGO – tropical fruit
+MANOR – large estate house
+MAPLE – tree type
+MAPS – geographic charts
+MARL – clay-rich soil
+MARSH – wetland
+MASON – stone worker
+MATCH – contest or fire stick
+MATH – mathematics
+MATT – non-shiny surface or name
+MAWS – mouths (especially animals)
+MAXI – long style (clothing)
+MAYBE – possibly
+MAYOR – city leader
+MAYS – produces or month (May)
+MAZE – complex path
+MEAD – honey drink (or valley)
+MEALY – powdery texture
+MEATY – full of meat or substance
+MEDIA – communication channels
+MEDIC – medical worker
+MEEK – gentle and submissive
+MEOW – cat sound
+MERCY – compassion
+MERGE – combine
+MERIT – worth or value
+MERRY – joyful
+MESSY – untidy
+META – self-referential
+METAL – hard material
+METE – measure or distribute
+METER – measuring device
+MEWL – weak cry
+MEWS – narrow street or cat sound
+MICA – shiny mineral
+MICS – microphones (informal)
+MIDI – electronic music format
+MIMIC – copy
+MINCE – chop finely
+MINI – very small
+MINK – animal/fur
+MINOR – small or underage
+MINUS – subtract or negative
+MINX – mischievous woman (old slang)
+MIRE – swamp or trap
+MIRTH – happiness
+MIRY – muddy
+MISCELL – miscellaneous (list spelling)
+MISER – very stingy person
+MISTY – foggy
+MITRE – ceremonial hat
+MITT – glove
+MOBS – crowds
+MODEM – internet device
+MODS – modifications or mods group
+MOGS – cats (slang UK)
+MOGUL – powerful person
+MOIL – work hard
+MOIST – slightly wet
+MOLAR – back tooth
+MOLD – fungus or shape
+MOLDY – covered in mold
+MOLL – gangster's girlfriend (old slang)
+MOLY – plant; also exclamation
+MONTH – 30–31 day period
+MOODY – emotional
+MOOSE – large deer-like animal
+MOOT – debatable or irrelevant
+MOPS – cleaning tools
+MOPY – gloomy
+MORAL – ethical lesson
+MORPH – change shape
+MOSS – small plant
+MOTEL – roadside hotel
+MOTIF – recurring theme
+MOTTO – slogan
+MOUND – pile
+MOUNT – climb or attach
+MOURN – grieve
+MOUSE – small rodent
+MOUTH – opening for eating/speaking
+MOVED – changed position
+MOVER – person who moves things
+MOVIE – film
+MOWED – cut grass
+MOWS – cuts grass
+MUCK – dirt
+MUCKY – dirty
+MUDDY – covered in mud
+MUDS – wet soil
+MUDSLID – mudslide (list spelling)
+MUFF – warm hand cover
+MUGGY – hot and humid
+MUGS – cups; or attacks (slang)
+MULCH – plant covering
+MULIPLE – multiple (list spelling)
+MULL – think over
+MUMM – mother (informal)
+MUMMY – preserved body; or mom (British)
+MUNG – edible bean
+MUNS – buns (slang/variant)
+MURAL – wall painting
+MURK – darkness or confusion
+MURKY – dark or unclear
+MUSHY – soft or overly emotional
+MUSK – strong smell
+MUSS – mess up
+MUSTY – stale smell
+MUTE – silent
+MUTED – softened or quiet
+MUTT – mixed-breed dog
+MYRRH – fragrant resin
+MYTHS – traditional stories
+
+# Part 11 – dictionary gaps (N–Z batch)
+NAAN – flatbread
+NADA – nothing (slang, Spanish origin)
+NAGS – annoys repeatedly; or horses
+NAIVE – innocent; inexperienced
+NAMED – given a name
+NANNY – child caregiver
+NANS – grandmothers (informal British)
+NAPPING – sleeping lightly
+NARC – informer; drug agent (slang)
+NARD – aromatic plant/oil
+NATIONS – countries
+NAVAL – related to navy
+NAVEL – belly button
+NAYS – negative votes
+NEBS – nose (old/rare)
+NEBULOU – nebulous (unclear, cloud-like; list spelling)
+NEEDS – requirements
+NEEM – medicinal tree
+NESS – headland or promontory
+NETS – catching tools
+NEVER – not at any time
+NEWLY – recently
+NEWT – small amphibian
+NIBS – small pointed parts; nibs of pen
+NICER – more pleasant
+NICHE – specific category or role
+NILL – unwilling (archaic)
+NIMBY – "not in my backyard" attitude (acronym)
+NIMH – mental health institute; fictional in "Mrs. Frisby and the Rats of NIMH"
+NINTH – position 9
+NITE – night (informal spelling)
+NITS – lice eggs
+NOBLY – in a noble manner
+NODS – head movements
+NOEL – Christmas season/song
+NOES – negative votes
+NOISY – loud
+NOMAD – wandering person
+NOOK – small corner
+NOPE – no (informal)
+NORM – standard
+NOTABLY – especially
+NOTCH – small cut/level
+NOTED – famous or recorded
+NUBS – small lumps
+NUDGE – gentle push
+NURL – knurled grip pattern (variant spelling)
+NUTTY – crazy or nut-flavored
+NYLON – synthetic fabric
+NYMPH – mythical nature spirit
+OAFS – clumsy people
+OASIS – fertile area in desert
+OAST – kiln for drying hops
+OBOE – musical wind instrument
+OCCUR – happen
+ODDER – more strange
+ODDLY – strangely
+ODES – lyrical poems
+OFFENCE – wrongdoing; anger
+OFFENSE – US spelling of offence
+OFFERED – presented
+OFFS – turns off (slang usage varies)
+OFFSIDE – sports rule violation
+OGRE – scary monster
+OHED – said "oh"
+OHMS – unit of electrical resistance
+OHOS – exclamations ("oh ho")
+OILS – greasy liquids
+OINK – pig sound
+OKRA – edible green vegetable
+OLIVE – fruit/tree
+OMEGA – last letter of Greek alphabet
+ONSET – beginning
+ONUS – responsibility
+OOHS – expressions of amazement
+OOPS – mistake expression
+OOZY – wet and sticky
+OPERA – musical drama
+OPTIC – related to vision
+OPTS – chooses
+ORBIT – path around something
+ORYX – type of antelope
+OTTER – aquatic animal
+OUGHT – should
+OUNCE – small weight unit
+OUST – remove from power
+OUTDO – do better than
+OUTED – exposed
+OUZO – Greek alcoholic drink
+OVALS – egg-shaped forms
+OVENS – cooking appliances
+OVERLAP – cover partly
+OVERT – open or obvious
+OWED – had debt
+OWING – being in debt
+OWNS – possesses
+OXES – plural of ox
+OXID – related to oxide (short form)
+OXIDE – compound of oxygen
+PACT – agreement
+PAGES – sheets of book
+PALE – light in color
+PALL – become dull or boring
+PALS – friends
+PAPS – small breasts or hills
+PARS – scores in golf; or portions
+PARSE – analyze
+PASSING – going by; temporary
+PASTY – pale and unhealthy
+PATE – head or meat spread
+PATS – gentle taps
+PAVE – cover with road material
+PAWS – animal feet
+PAYEE – person paid money
+PAYROLL – list of employees' wages
+PAYS – gives money
+PEAKS – tops or highest points
+PEAL – loud ringing sound
+PEAS – small green seeds
+PEASANT – rural farmer
+PEAT – soil fuel
+PEC – chest muscle (informal)
+PECS – chest muscles
+PED – foot or child prefix
+PEE – urinate
+PEED – urinated
+PEEK – quick look
+PEES – urinates
+PEGS – pins or supports
+PEH – letter in Hebrew alphabet
+PELT – throw hard; skin of animal
+PENAL – related to punishment
+PENALTY – punishment
+PEND – wait (rare usage)
+PENDING – waiting
+PENIS – male organ
+PENSION – retirement payment
+PEON – low-status worker
+PEP – energy
+PEPS – energies
+PERCENT – per hundred
+PERFECT – without flaw
+PERFORM – act or do
+PERHAPS – maybe
+PERI – fairy-like spirit (Persian mythology)
+PERM – permanent wave hairstyle
+PERSIST – continue firmly
+PERT – slightly rude or lively
+PES – feet (Latin plural)
+PESKY – annoying
+PEST – harmful insect; annoying person
+PETTY – small or unimportant
+PHANTOM – ghost or illusion
+PHASE – stage
+PHONE – telephone
+PICKS – selects
+PIED – multicolored
+PIER – structure extending into water
+PIETY – religious devotion
+PIGGY – pig-like; child term
+PIKE – fish or spear
+PILGRIM – religious traveler
+PIMP – manages sex workers (offensive/legal context)
+PINES – pine trees; longs for
+PING – quick signal or sound
+PINTS – liquid measure
+PION – subatomic particle
+PIONEER – early explorer
+PIP – small seed or dot
+PIPER – flute player
+PIPES – tubes or instruments
+PIPS – seeds or small spots
+PIQUE – irritation; interest
+PIS – Latin/archaic prefix (rare)
+PISS – urinate (informal/offensive)
+PITA – flatbread
+PITH – soft center; essence
+PIU – more (Italian musical term)
+PIVOTAL – very important
+PIX – pictures (slang)
+PLACE – position
+PLACING – putting
+PLAID – patterned cloth
+PLAIN – simple or flat land
+PLANK – wooden board
+PLASMID – DNA molecule in bacteria
+PLASTIC – synthetic material
+PLAT – plot of land; dish
+PLATEAU – flat elevated land
+PLAYA – coastal plain; slang for player
+PLAYFUL – full of fun
+PLEAD – beg or argue in court
+PLEAS – requests
+PLEAT – fold in fabric
+PLED – promised
+PLEDGED – promised formally
+PLIED – worked repeatedly
+PLIER – tool for gripping
+PLODS – walks heavily
+PLOP – drop sound
+PLOPS – drops
+PLOTS – plans or storylines
+PLOW – farm tool
+PLOY – trick
+PLOYS – tricks
+PLUCK – courage; pull out
+PLUGS – stops holes; promotes
+PLUMB – perfectly vertical; to measure depth
+PLUMBER – pipe fixer
+PLUME – feather
+PLUMMET – fall quickly
+PLUMP – full or round
+PLUMS – fruits
+PLUNK – drop heavily
+PLUSH – soft and luxurious
+PLUTO – dwarf planet
+POACH – illegally hunt or cook gently
+POCK – small scar
+PODGY – slightly fat
+PODS – seed cases
+POEMS – poems
+POETS – writers of poetry
+POGO – jumping stick game
+POH – expression of dismissal
+POI – Hawaiian food; point (acronym)
+POINT – tip; idea
+POINTED – sharp or direct
+POIS – peas (French)
+POISE – balance
+POKER – card game
+POKY – slow or cramped
+POL – politician (short form)
+POLAR – related to poles
+POLITIC – wise or strategic
+POLKA – dance/music style
+POLLS – voting places or surveys
+POLLUTE – contaminate
+POLS – politicians (slang)
+POLYP – growth on tissue
+POM – apple (Australian slang)
+POMP – showy display
+PONE – corn bread
+POOCH – dog (informal)
+POOH – exclamation (dismissive)
+POOLS – collections of water or money
+POOR – lacking money
+POPE – head of Catholic Church
+POPPY – flower
+POPS – fathers; or pop music
+PORCH – covered entrance
+PORTION – part
+POSED – sat or acted
+POSER – difficult question or show-off
+POSH – luxurious
+POSIT – state or assert
+POSSE – group of people
+POSSESS – own or control
+POSTAGE – mail fee
+POSTURE – body position
+POSY – small bouquet
+POTENCY – strength
+POTTERY – ceramic items
+POUCH – small bag
+POULT – young bird
+POUND – unit of weight or money
+POUT – push lips outward
+POVERTY – lack of money
+POW – sound of impact
+POWER – energy or authority
+POX – disease or marks
+PRAM – baby stroller
+PRANK – joke trick
+PRAWN – shrimp
+PRECEDE – come before
+PRECISE – exact
+PREEN – groom oneself
+PREFACE – introduction
+PREMIER – first or leader
+PREMIUM – high quality or cost
+PREP – preparation
+PRESENT – gift or now
+PRESS – push or media
+PRICE – cost
+PRIG – self-righteous person
+PRIM – proper
+PRIMA – first (Italian)
+PRIOR – earlier
+PRISM – light-splitting object
+PRIVACY – secrecy
+PRIVY – private or toilet
+PROBATE – legal process after death
+PROCEED – continue
+PRODS – pushes
+PROF – professor (informal)
+PROFILE – description or outline
+PROG – program (short form)
+PROGRAM – plan or software
+PROLONG – extend
+PROM – formal dance
+PROMOTE – support or advance
+PRONE – likely or lying face down
+PRONG – sharp point
+PROPHET – religious messenger
+PROS – professionals or advantages
+PROSE – ordinary writing
+PROSPER – succeed
+PROTEIN – body nutrient
+PROTEST – objection
+PROVOKE – cause reaction
+PROW – front of a ship
+PRUDE – overly modest person
+PRUDENT – careful
+PRUNE – dried plum; trim
+PRYS – opens forcefully
+PSALM – religious song
+PUBIC – related to pubic area
+PUBLISH – make public
+PUCE – dark reddish-brown color
+PUD – dessert (British slang)
+PUDGY – slightly fat
+PUDS – desserts (informal)
+PUFF – small burst of air
+PUG – small dog breed
+PUGS – small dogs
+PUKE – vomit
+PUL – flour made from lentils (South Asian term)
+PULSE – heartbeat
+PUMA – wild cat
+PUNA – high plateau (Andes)
+PUNG – boat or cart (regional)
+PUNK – music style or rebel
+PUNY – weak or small
+PUPA – insect stage
+PUPIL – student; eye part
+PUPS – puppies
+PUR – purring sound
+PUREE – mashed food
+PURGE – remove completely
+PURSUED – chased
+PURSUIT – chase or goal
+PUS – infected fluid
+PUSHY – overly aggressive
+PUTT – golf stroke
+PUTZ – foolish person (slang)
+PYA – currency unit (rare)
+PYE – pie (old spelling)
+PYRAMID – triangular structure
+PYRE – funeral fire
+PYRO – fire-related person or device
+PYX – container for sacred items
+QATS – oats (variant spelling, rare)
+QUAFF – drink quickly and deeply
+QUALM – feeling of doubt or unease
+QUASI – partly; resembling
+QUIETLY – in a silent manner
+QUILL – feather pen
+QUINTET – group of five
+QUIRK – strange habit or feature
+QUOD – prison (British slang/old usage)
+RACER – competitor in races
+RACY – slightly sexual or exciting
+RAD – cool or excellent (slang)
+RADICAL – extreme or fundamental
+RADON – radioactive gas
+RAGS – old cloth pieces
+RAH – cheer sound
+RAI – type of music (North Africa); historical Japanese coin
+RAMS – male sheep
+RAND – South African currency
+RANG – sounded (bell); past of ring
+RAPS – knocks; also music style
+RARER – less common
+RAS – informal abbreviation or dialect form (context)
+RASP – harsh sound or tool
+RATS – rodents; or exclamation
+RATTLED – shaken or disturbed
+RAX – stretch out (old/rare)
+RAYON – synthetic fabric
+REACT – respond
+READING – interpretation or study
+READS – looks at text; interprets
+REALITY – real world
+REALIZE – understand or make real
+REAM – large quantity of paper
+REB – rebel
+REC – recreation or recording
+RECAP – summary
+RECEIPT – proof of payment
+RECITAL – performance
+RECLAIM – recover or restore
+RECRUIT – new member/employee
+REDO – do again
+REDUCED – made smaller
+REE – exclamation (Scottish/NZ slang)
+REEK – strong unpleasant smell
+REF – referee; reference
+REFER – mention or direct
+REFORMS – changes for improvement
+REFRESH – renew
+REFS – referees or references
+REFUGEE – person fleeing danger
+REFUSAL – act of saying no
+REG – registration; regular
+REGIMEN – planned routine (health)
+REI – Japanese honorific "Mr."; brand name (context)
+REIGN – rule as king/queen
+RELATED – connected
+RELAX – rest
+RELAY – pass on or race event
+RELIC – ancient object
+REM – sleep stage
+REMAINS – what is left
+REMIT – send money or reduce
+REMOVAL – taking away
+REMOVED – taken away
+RENAL – related to kidneys
+REND – tear apart
+RENEW – make new again
+RENEWAL – act of renewing
+REP – representative or repetition
+REPAY – return money
+REPEL – push away
+REPLICA – copy
+REPO – repossession
+REPORTS – accounts or news
+REPRISE – repeat performance
+REPS – representatives or repetitions
+REQUEST – ask for
+REQUIRE – need
+RES – residences or resources
+RESERVE – keep aside
+RESIN – sticky natural substance
+RESOLVE – decide; solve
+RESPECT – admiration
+RESPOND – reply
+RESTORE – bring back
+RET – retired (short form)
+RETAINS – keeps
+RETIRED – stopped working
+RETREAT – move back
+RETRO – old-fashioned style
+RETRY – try again
+RETURNS – comes back
+REV – revolution or engine speed
+REVEALS – shows
+REVENGE – retaliation
+REVENUE – income
+REVERSE – opposite direction
+REVIVAL – bringing back to life
+REVOLVE – rotate
+REVS – engine speeds
+REX – king (Latin)
+RHO – Greek letter
+RIA – coastal inlet
+RIB – bone in chest
+RIBS – chest bones
+RIDER – person who rides
+RIDGE – raised line of land
+RIDS – removes
+RIF – dismissal (military slang)
+RIFE – widespread
+RIFF – short musical phrase
+RIFLE – gun
+RIGHT – correct or direction
+RIGID – stiff
+RILL – small stream
+RIME – frost
+RIMS – edges
+RIMY – frosty
+RIN – Japanese suffix (less common usage)
+RIND – outer skin
+RINSE – wash lightly
+RISE – go up
+RISEN – gone up
+RISKY – dangerous
+RIVAL – competitor
+RIVET – fastener; attract attention
+ROACH – insect or type of fish
+ROADS – paths
+ROAST – cook with heat; criticize
+ROBBERY – theft
+ROBIN – bird
+ROBS – steals
+ROC – giant mythical bird
+ROCKY – full of rocks; rough
+RODEO – cowboy competition
+ROE – fish eggs
+ROES – plural roe
+ROGUE – dishonest person
+ROIL – disturb or stir up
+ROM – memory storage
+ROMAN – ancient Rome related
+ROOD – old unit of land
+ROOK – chess piece; trick
+ROOMY – spacious
+ROOST – bird resting place
+ROOTS – origins
+ROPY – stringy or poor quality
+ROSY – pink or optimistic
+ROT – decay
+ROUGE – red makeup
+ROVER – wandering person/vehicle
+ROWDY – noisy and rough
+ROYALTY – kings, queens, or payment rights
+RUBBING – friction action
+RUBBISH – trash
+RUBE – unsophisticated person
+RUCK – crowd; fold
+RUE – regret
+RUED – regretted
+RUES – regrets
+RUFF – bird; collar
+RUGBY – sport
+RUGS – floor coverings
+RUINS – remains of buildings
+RULED – governed
+RULER – measuring tool or leader
+RUM – alcohol
+RUMBA – dance
+RUMOR – unconfirmed news
+RUMS – types of rum
+RUNE – ancient symbol
+RUNNING – moving fast; operating
+RURAL – countryside
+RUSHING – moving quickly
+RUSK – dry biscuit/bread
+RUSTLE – soft crackling sound
+RUSTY – covered with rust; unpracticed
+RUT – fixed habit or groove
+RUTHLES – ruthless (cruel; list spelling)
+RUTS – grooves or habits
+RYA – handwoven rug
+RYAS – plural of rya rugs
+RYE – grain
+RYES – rye varieties/plural
+SAB – sabotage (informal) or soldier (South Asian usage)
+SAC – bag or pouch
+SADLY – in a sad manner
+SADNESS – feeling of sorrow
+SAE – Society of Automotive Engineers (abbr.)
+SAFER – more secure
+SAGA – long story
+SAGO – starch from palm
+SAGS – sinks or droops
+SAINT – holy person
+SAKE – purpose or Japanese drink
+SAL – salt (chemistry abbreviation)
+SALVAGE – save from loss
+SALVE – healing ointment
+SALVO – burst of gunfire or speech
+SANCTUM – sacred place
+SANDY – covered with sand
+SANER – more rational
+SANK – went down
+SASS – attitude or disrespect
+SATE – satisfy fully
+SATISFY – fulfill need
+SAU – sauce (abbreviation/variant)
+SAUCE – liquid seasoning
+SAUCY – bold or cheeky
+SAUNA – hot steam room
+SAVINGS – money saved
+SAVOR – enjoy taste
+SAVVY – knowledgeable
+SAWS – cutting tools
+SAX – saxophone
+SAYS – speaks
+SCAD – large number
+SCALD – burn with hot liquid
+SCALP – skin of head; resell tickets
+SCAM – fraud
+SCANDAL – public disgrace
+SCANT – barely enough
+SCARE – frighten
+SCARF – neck cloth; eat quickly
+SCARY – frightening
+SCAT – jazz style; move away (slang)
+SCATTER – spread around
+SCENERY – landscape
+SCENT – smell
+SCHOLAR – educated person
+SCOFF – mock
+SCOLD – reprimand
+SCONE – baked snack
+SCOPE – range or telescope
+SCORN – contempt
+SCOWL – angry look
+SCRAM – leave quickly (slang)
+SCRATCH – scrape
+SCREW – fastener or twist
+SCRUB – clean hard
+SEALANT – sealing material
+SEAM – joint line
+SEAR – burn surface
+SEAS – oceans
+SEC – second; securities commission
+SECTION – part
+SECURED – made safe
+SEDAN – car type
+SEER – prophet
+SEES – looks
+SEG – segment (short form)
+SEGMENT – part
+SEI – whale species or Japanese "yes" (context dependent)
+SEIZE – grab
+SEL – self (short form/rare)
+SELFISH – caring only for oneself
+SELLING – giving in exchange for money
+SEMI – half; trailer truck
+SEN – senator or student union (context)
+SEPT – September or seven (Latin root)
+SER – series or serve (abbr.)
+SERE – dry and withered
+SERF – medieval worker
+SERIOUS – important or not joking
+SERUM – liquid in biology
+SERVE – give or provide
+SESSION – meeting period
+SETS – groups or places
+SETTING – environment
+SETTLED – decided or calm
+SEVEN – number 7
+SEVENTH – position 7
+SEVER – cut off
+SEVERAL – more than a few
+SEWS – stitches
+SEXY – sexually attractive
+SHA – Islamic king title (some usage); or SHA hash
+SHADE – shadow
+SHADY – suspicious or shaded
+SHAFT – long rod or tunnel
+SHAKE – tremble
+SHAKY – unsteady
+SHALL – will (formal)
+SHALLOW – not deep
+SHAME – embarrassment
+SHAPE – form
+SHARD – broken piece
+SHARE – divide
+SHARK – fish
+SHAVE – remove hair
+SHAW – woodland or thicket (old word)
+SHAWL – cloth wrap
+SHEAR – cut wool or break
+SHEEN – shine
+SHEEP – farm animal
+SHEER – pure or very steep
+SHELF – storage surface
+SHELL – hard outer covering
+SHERIFF – law officer
+SHH – be quiet
+SHIFTED – moved
+SHIM – thin spacer
+SHINY – bright
+SHIRK – avoid duty
+SHIRT – clothing
+SHIV – knife (slang)
+SHMO – foolish person (slang, Yiddish-derived)
+SHONE – shined
+SHOO – go away (exclamation)
+SHOOT – fire or film
+SHORE – land by sea
+SHORTLY – soon
+SHOUT – yell
+SHOVE – push
+SHOWING – display
+SHOWMAN – entertainer
+SHOWN – displayed
+SHOWY – flashy
+SHRED – tear into pieces
+SHRUB – small bush
+SHRUG – raise shoulders
+SHUL – synagogue (Yiddish)
+SHUNT – divert
+SHUTTLE – transport vehicle
+SIB – sibling (informal)
+SIC – mark meaning "thus in original"
+SIDEBAR – side discussion
+SIFT – filter
+SIGHT – vision
+SIGMA – Greek letter
+SILICONE – synthetic compound
+SIM – simulation or SIM card
+SIMI – short form/place/name (context varies)
+SIMILAR – alike
+SIMP – overly attentive admirer (slang)
+SIMPLER – easier
+SINCE – from a past time
+SINCERE – genuine
+SINGING – vocal music
+SINS – wrongdoings
+SIPS – small drinks
+SIREN – alarm sound
+SIRS – formal address
+SIS – sister
+SISSY – weak or timid person (often insulting)
+SITS – sits down
+SIXTEEN – number 16
+SIXTH – position 6
+SIXTY – number 60
+SIZED – having size
+SKA – music genre
+SKAG – slang for drug/heroin or insult (context varies)
+SKAT – card game
+SKATE – glide on ice/wheels
+SKEG – boat fin
+SKEW – slant
+SKID – slide
+SKIER – person who skis
+SKILL – ability
+SKILLED – trained
+SKIM – read quickly
+SKIMP – use less than needed
+SKINNED – peeled skin
+SKIRT – clothing; go around
+SKIT – short comedy
+SKULL – head bone
+SKUNK – animal; bad smell or defeat
+SLACK – loose or lazy
+SLAG – waste material or insult
+SLAIN – killed
+SLANDER – spoken false accusation
+SLANG – informal language
+SLANT – tilt
+SLASH – cut sharply
+SLATE – rock; schedule
+SLAVE – forced worker
+SLAVERY – system of forced labor
+SLAW – cabbage salad
+SLEEK – smooth
+SLEEPER – sleeper train/person sleeping
+SLEET – rain-snow mix
+SLENDER – thin
+SLICE – cut piece
+SLICING – cutting
+SLIDE – move smoothly
+SLIME – sticky substance
+SLIMY – slippery
+SLING – throw or carry
+SLINK – move stealthily
+SLIT – narrow cut
+SLOB – messy person
+SLOE – fruit
+SLOG – work hard
+SLOP – spill liquid; sloppy food
+SLOPE – incline
+SLOPING – angled
+SLOTH – slow animal; laziness
+SLUB – uneven thread
+SLUE – turn or rotate (variant slough)
+SLUMP – fall or decline
+SLUNG – threw
+SLUNK – crept away
+SLURP – noisy drinking
+SLUT – offensive term for promiscuous woman
+SMALL – not big
+SMART – intelligent
+SMASH – break forcefully
+SMEAR – spread messily
+SMELL – odor
+SMELT – melted metal or fish
+SMIRK – smug smile
+SMIT – struck (archaic)
+SMITE – strike
+SMITH – metal worker
+SMOCK – loose garment
+SMOKE – burning vapor
+SMOKING – inhaling smoke
+SMOKY – filled with smoke
+SMUG – self-satisfied
+SNACK – small meal
+SNAG – obstacle
+SNAIL – slow shell animal
+SNARE – trap
+SNEAK – move secretly
+SNEER – mocking expression
+SNIDE – insulting
+SNIFF – inhale through nose
+SNIT – bad mood
+SNORE – sleep sound
+SNORT – sharp nasal sound
+SNOT – nasal mucus (informal)
+SNOUT – animal nose
+SNOWY – covered in snow
+SOAPY – covered with soap or sentimental
+SOB – cry
+SOBER – not drunk
+SOBS – cries
+SOD – turf; insult (UK slang)
+SODS – pieces of turf
+SOL – sun (Latin)
+SOLDIER – military person
+SOLID – firm
+SOLO – alone performance
+SOLVE – find answer
+SOM – some (short form)
+SOMEHOW – in some way
+SONIC – sound-related
+SONS – male children
+SOPRANO – high female voice
+SORRY – apologetic
+SOS – distress signal
+SOT – drunkard
+SOU – old coin
+SOUP – liquid food
+SOUTH – direction
+SOWS – plants seeds; female pigs
+SOX – socks (US slang)
+SPAN – stretch of time/space
+SPARE – extra
+SPARK – small fire/light
+SPAS – health resorts
+SPAWN – eggs or create
+SPEAK – talk
+SPEAKER – person/device that speaks
+SPEAR – long weapon
+SPECIES – biological group
+SPECIFY – state clearly
+SPECK – tiny spot
+SPEND – use money/time
+SPENT – used up
+SPICY – hot flavored
+SPIED – saw secretly
+SPIKE – sharp point
+SPILL – pour accidentally
+SPINE – backbone
+SPITE – malice
+SPLAT – splashing sound
+SPLIT – divide
+SPOKE – talked or wheel rod
+SPONSOR – supporter
+SPOOF – parody
+SPOOK – ghost or scare
+SPOOL – cylinder for thread
+SPOON – utensil
+SPOTS – marks
+SPOTTED – marked
+SPOUT – pipe outlet
+SPRAY – fine liquid mist
+SPREE – wild enjoyment
+SPRIG – small branch
+SPRY – lively and active
+SPUD – potato
+SPUNK – courage or spirit
+SQUAD – team
+SQUAT – sit low or crouch
+SQUEEZE – compress
+SQUID – sea animal
+STACK – pile
+STADIUM – sports arena
+STAFF – employees or stick
+STAGE – performance area
+STAIN – mark
+STAIR – step
+STAKE – bet or post
+STALE – not fresh
+STALK – stem or follow secretly
+STALL – stop or booth
+STAMP – mark or postage
+STAND – position or resist
+STANDBY – ready state
+STANK – smelled bad
+STARE – look fixedly
+START – begin
+STARTED – began
+STARTUP – new business
+STATE – condition or region
+STATION – place or stop
+STATUTE – law
+STAVE – wooden stick
+STAYS – remains
+STEAK – meat cut
+STEAL – take illegally
+STEALTH – secrecy
+STEAM – hot vapor
+STEEL – strong metal
+STEEP – sharply rising
+STEER – guide
+STERN – strict or back of ship
+STEW – slow-cooked food
+STICK – rod or attach
+STIFF – rigid
+STILL – quiet or not moving
+STING – sharp pain
+STINK – bad smell
+STINT – limited period/work
+STOCK – inventory or shares
+STOIC – calm and unemotional
+STOKE – feed fire or excite
+STOLE – past of steal
+STOMP – heavy step
+STOOD – past of stand
+STOOL – seat or feces
+STOOP – bend down
+STOPS – ends
+STORAGE – keeping place
+STORE – shop
+STORK – large bird
+STOUT – strong or beer
+STOVE – cooking appliance
+STRANGE – unusual
+STRAW – dried stems
+STRAY – wander
+STREETS – roads
+STRETCH – extend
+STRIP – remove or narrow piece
+STRUM – play guitar
+STRUT – walk proudly
+STUCK – trapped
+STUDIES – academic work
+STUDY – learn
+STUFF – material
+STUMBLE – trip while walking
+STUMP – tree base; puzzle
+STUNG – past of sting
+STUNK – smelled bad
+STUNT – trick or act
+STY – pig pen
+STYLE – manner
+SUAVE – smooth and charming
+SUB – substitute
+SUBJECT – topic
+SUBLIME – excellent
+SUBS – substitutes
+SUCCEED – achieve success
+SUCK – draw in or be bad (slang)
+SUE – take legal action
+SUED – taken to court
+SUES – takes legal action
+SUFFICE – be enough
+SUGGEST – propose
+SUITE – set of rooms
+SULKY – moody
+SUM – total
+SUMMARY – short version
+SUMMONS – legal call
+SUMO – Japanese wrestling
+SUMP – pit for liquid
+SUNK – went down
+SUNNY – bright
+SUNRISE – dawn
+SUP – drink or eat (informal)
+SUPE – superintendent (short form)
+SUPPORT – help
+SUPREME – highest
+SUQ – market (Arabic term souk)
+SURE – certain
+SURFACE – outer layer
+SURGE – sudden rise
+SURGEON – doctor
+SURGERY – medical operation
+SURPLUS – extra amount
+SURVIVE – continue living
+SUSHI – Japanese food
+SUSPECT – think guilty
+SUSPEND – stop temporarily
+SUSTAIN – maintain
+SWAMP – wet land
+SWAN – bird
+SWARM – large group
+SWATH – broad strip
+SWEAR – use oath or curse
+SWEAT – perspiration
+SWEATER – warm clothing
+SWEEP – clean or move quickly
+SWELL – expand or excellent
+SWEPT – past of sweep
+SWIFT – fast
+SWING – move back and forth
+SWIPE – quick hit or drag
+SWIRL – circular movement
+SWOOP – dive down
+SWORD – weapon
+SWORE – past of swear
+SWORN – formally promised
+SWUNG – past of swing
+SYMPTOM – sign of illness
+SYNC – synchronize
+SYNERGY – combined effect greater than parts
+SYRUP – thick sweet liquid
+TABLOID – small newspaper with sensational news
+TABS – labels or bills; also tabs of medicine
+TACIT – understood without saying
+TACO – Mexican folded tortilla food
+TACTICS – methods or strategies
+TAD – a small amount
+TAE – martial arts prefix (taekwondo)
+TAFFY – chewy candy
+TAG – label; or touch game
+TAINT – spoil or contaminate
+TAJ – crown (as in Taj Mahal name origin)
+TAKEN – captured or accepted
+TAKER – person who takes
+TALE – story
+TALON – bird claw
+TAM – Scottish cap
+TAMER – one who tames
+TAMP – pack down tightly
+TANG – sharp taste or smell
+TANGY – strong sharp flavor
+TANS – browns skin by sun
+TAO – way/path (Chinese philosophy)
+TAPER – gradually reduce
+TAPIR – forest animal
+TAPS – bugle call; light hits
+TARDY – late
+TARP – waterproof sheet
+TARS – sailors (old slang)
+TASTY – delicious
+TAT – small tattoo; cheap items
+TAU – Greek letter
+TAUNT – tease cruelly
+TAUT – tightly stretched
+TAV – tavern (short form)
+TEARFUL – crying
+TEASE – mock or joke
+TEAT – nipple of animal
+TEDIOUS – boring
+TEEM – be full of
+TEPID – lukewarm
+TERMS – conditions or words
+TERRA – earth/land
+TERRAIN – land surface
+TEXTILE – fabric
+THEATER – performance place (US spelling)
+THEATRE – performance place (UK spelling)
+THEE – you (old English)
+THEFT – stealing
+THEME – main idea
+THERAPY – treatment
+THERE – in that place
+THERMAL – heat-related
+THESE – plural of this
+THICK – dense or dumb (slang)
+THICKEN – become thicker
+THICKET – dense group of bushes
+THING – object
+THINKER – person who thinks
+THIRD – number 3
+THIRSTY – needing water
+THORN – sharp plant point
+THOSE – plural of that
+THOU – you (old English)
+THROW – toss
+THUS – therefore
+THY – your (old English)
+THYROID – neck gland
+TIARA – crown
+TIDAL – related to tides
+TIED – bound
+TIES – connections or neckwear
+TIFF – small argument
+TIGHT – firm or close
+TIGHTEN – make tight
+TIKE – small child (informal)
+TILL – until
+TILT – lean
+TIMID – shy
+TINS – metal containers
+TIPS – advice or gratuities
+TIPSY – slightly drunk
+TIRED – exhausted
+TITAN – giant; powerful being
+TOBACCO – smoking plant
+TOCK – clock sound
+TOD – dead animal (old word)
+TOFU – soy food
+TOGA – Roman robe
+TOKEN – symbol or small item
+TOMB – burial place
+TOME – large book
+TONER – printer liquid/powder
+TONGS – gripping tool
+TONIGHT – this night
+TOOLS – instruments
+TOPAZ – gemstone
+TOPMOST – highest
+TORCH – flame light
+TORMENT – severe suffering
+TOTAL – complete amount
+TOTE – carry bag
+TOUCH – contact
+TOURISM – travel industry
+TOWEL – drying cloth
+TOWER – tall structure
+TOXIC – poisonous
+TRACK – path or follow
+TRADE – exchange
+TRAFFIC – vehicles movement
+TRAGEDY – sad disaster
+TRAIL – path
+TRAINER – coach or shoe
+TRAIT – characteristic
+TRAMP – wanderer
+TRANSIT – transport system
+TRASH – waste
+TRAWL – fish with net
+TREAD – step
+TREAT – gift or care
+TREND – direction of change
+TRIAL – test or court case
+TRIBE – social group
+TRICKLE – slow flow
+TRIGGER – cause action
+TRIUMPH – victory
+TROOP – group of soldiers
+TROUBLE – difficulty
+TROUT – fish
+TRUCE – peace agreement
+TRUCK – large vehicle
+TRUNK – main body or storage box
+TRUSTED – reliable
+TUBER – plant root
+TURBINE – rotating machine
+TURMOIL – chaos
+TURNING – rotating or bend
+TUTU – ballet skirt
+TUX – tuxedo
+TWANG – sharp sound
+TWEAK – adjust slightly
+TWEED – rough wool fabric
+TWICE – two times
+TWIG – small branch
+TWILL – fabric pattern
+TWINE – string
+TWIRL – spin
+TWISTED – bent or distorted
+TYPED – written on keyboard
+TYPICAL – usual
+TYPO – typing mistake
+TYRANNY – cruel rule
+UNDERGO – experience
+UNDID – reversed
+UNHAPPY – sad
+UNITIZE – organize into units
+UNITY – togetherness
+UNKNOWN – not known
+UNLEASH – release
+UPPER – higher
+UPSCALE – high class
+URGENCY – importance
+USUALLY – normally
+UTTERED – spoken
+VAGRANT – homeless wanderer
+VAGUE – unclear
+VALET – attendant who parks cars
+VANILLA – flavor; plain
+VAR – video assistant referee
+VASE – container for flowers
+VATS – large containers
+VEG – vegetables
+VERSE – lines of poetry
+VEST – sleeveless garment
+VETERAN – experienced person
+VICIOUS – cruel
+VIOLA – musical instrument
+VIOLENT – forceful or aggressive
+VIPER – venomous snake
+VISTA – scenic view
+VITAMIN – nutrient
+VIVID – bright or clear
+VOCAL – related to voice
+VODKA – alcoholic drink
+VOLCANO – erupting mountain
+VOLT – unit of electricity
+VOLTAGE – electrical force
+VOLUMES – books or amounts
+VOUCH – confirm
+VOWED – promised
+VOYAGER – traveler
+VULTURE – scavenger bird
+VULVA – female external anatomy
+WACKY – crazy or funny
+WAGER – bet
+WAGON – vehicle
+WAIVE – give up a right
+WARY – cautious
+WATCH – observe or clock
+WAX – sticky substance
+WEBS – spider nets or online pages
+WEDGE – triangular object
+WEEP – cry
+WEIGH – measure weight
+WEIRD – strange
+WELFARE – well-being support
+WELT – raised mark on skin
+WESTERN – related to west
+WHALE – large sea animal
+WHEAT – grain
+WHIRL – spin
+WHISK – quick sweep
+WHISTLE – blowing sound
+WHOSE – belonging to whom
+WIDTH – measurement across
+WILLFUL – stubborn
+WILLING – ready
+WINDY – breezy
+WIPE – clean
+WISDOM – knowledge
+WITCH – magic woman
+WOODS – forest
+WOOF – dog sound
+WORRIED – anxious
+WORST – most bad
+WORTH – value
+WRATH – anger
+WRECKED – destroyed
+WRIST – hand joint
+YEARS – 12-month periods
+YEAST – rising agent in baking
+YELP – sharp cry
+YET – still or however
+YOGA – physical/spiritual practice
+YOK – joke or slang (rare)
+YON – that far place (old English)
+YOUTH – young people
+YOWL – long cry
+YURT – round tent
+ZAX – tool for roofing/slate work
+ZIG – sharp turn
+ZING – energetic sound or excitement
+ZIT – pimple
+ZLOTY – Polish currency
+ZOOM – move quickly or video call
+
+# Part 12 – remaining dictionary gaps
+GEES – informal expression of surprise; exclamation
+GITS – fools or stupid people (British slang)
+HAPS – events; happenings (archaic)
+HAWS – fruits of hawthorn plant
+OXIDIZE – combine with oxygen; cause rust or chemical change
+TAGS – labels; identifiers
+TAMS – Scottish caps
+TAS – tablelands (Australian region abbrev.); informal plural usage
+TAW – glass marble; to throw marble (game)
+TEASPOO – teaspoon (truncated form; list spelling)
+TED – past of tend; also a name
+TEED – prepared (sports, e.g. golf teed up)
+TEES – golf starting points; T-shirts
+TEG – sheep in second year (rare)
+TEMP – temperature or temporary worker
+TEMPEST – violent storm
+TENS – plural of ten; ten times units
+TENTH – position 10
+TET – Vietnamese New Year festival
+TEW – toil or work hard (old dialect)
+THEREBY – by that means
+THEW – muscle; strength (old word)
+THO – though (informal spelling)
+THREW – past of throw
+THRUM – hum or vibrate
+THUMB – digit on hand
+THUMP – heavy hit
+TIC – small involuntary movement
+TICS – repeated involuntary movements
+TIMES – occurrences; multiplication
+TING – light ringing sound
+TIS – it is (old form)
+TIT – small bird; informal insult
+TOED – having toes; stepped
+TOES – foot digits
+TOFF – well-dressed person (British slang)
+TOG – clothing; dress (slang)
+TOGS – clothes (informal)
+TOM – male cat
+TOMBS – burial places
+TONY – stylish or wealthy (old slang)
+TOPSOIL – upper soil layer
+TORE – past of tear
+TORT – civil wrong (law)
+TOTALLY – completely
+TOUCHED – emotionally affected or contacted
+TOURIST – traveler
+TOUT – advertise aggressively; promoter
+TOW – pull a vehicle
+TOWARDS – in direction of
+TOXIN – poison
+TRACT – area of land; pamphlet
+TRADING – buying and selling
+TRAPPED – caught
+TRAVAIL – hard work or suffering
+TRAWLER – fishing boat
+TRIED – tested or attempted
+TRILL – musical vibration sound
+TRIMS – cuts or decorations
+TRIPE – stomach lining; nonsense
+TRITE – overused; not original
+TROD – stepped (past of tread)
+TROLL – internet provoker or myth creature
+TROTH – truth or promise
+TRULY – sincerely
+TRUMP – win a trick in cards; also a name
+TSK – clicking sound of disapproval
+TUBS – containers; baths
+TUI – bird (New Zealand)
+TUMBLED – fell over
+TUMOR – abnormal growth
+TUN – large cask or barrel
+TUNER – device to adjust frequency
+TUP – male sheep (ram)
+TUT – sound of disapproval
+TWA – two (old Scottish English)
+TWAS – it was (old English)
+TYE – tie or bond (archaic)
+TYING – fastening
+UDO – Japanese edible plant
+UDS – units (abbr. plural)
+UKE – ukulele (informal)
+ULE – resin-producing tree (South American)
+ULTRA – extreme or beyond normal
+ULU – Inuit knife
+UMM – hesitation sound
+UNAWARE – not knowing
+UNDYING – eternal
+UNFAITH – unfaithfulness (short form)
+UNIQUEL – uniquely (truncated form; list spelling)
+UNPIN – remove a pin
+UNS – unknown people (informal plural)
+UNTIL – up to a time
+UPO – upon (archaic form)
+UPTIGHT – nervous; tense
+URB – urban (abbr.)
+URD – destiny (Norse myth)
+URP – vomit sound
+UTS – useless things; slang abbreviation
+VAC – vacuum or vacation
+VALIDLY – in a valid way
+VANS – vehicles; also shoe brand (context)
+VAS – blood vessels (abbr.)
+VAU – Hebrew letter
+VAV – Hebrew letter
+VAW – Hebrew letter
+VEE – letter V
+VETS – veterinarians or veterans
+VID – video (short form)
+VIE – compete
+VIES – competes
+VIG – interest on illegal loan (slang)
+VIM – energy
+VINTAGE – old but valuable
+VINYL – plastic material; records
+VIS – strength (Latin root)
+VISOR – protective face shield
+VOILA – there it is (French interjection; list spelling)
+VOLE – small rodent
+WAB – wobble (dialect or abbr.)
+WADER – water bird or waterproof boot
+WADS – lumps or bundles
+WAE – sorrow (Scottish)
+WAFER – thin biscuit
+WAGS – jokes or playful remarks
+WAN – pale or weak
+WAP – slang movement or sound (context varies)
+WAT – Scottish or archaic what
+WAVER – hesitate
+WAVERED – hesitated
+WAW – cry or lament (Scottish)
+WAXEN – wax-like
+WAXY – like wax
+WEDS – marries; Wednesdays (abbr.)
+WEE – small (Scottish)
+WEEDY – full of weeds or weak-looking
+WEEKDAY – working day
+WEEKEND – Saturday and Sunday
+WEN – benign skin growth
+WEND – go or proceed
+WETS – moistens; wet people (slang, political usage)
+WHA – what (Scottish)
+WHERE – at what place
+WHETHER – if; which of two
+WHEY – liquid from milk
+WHICH – asking choice
+WHIG – political group (historical)
+WHIM – sudden idea
+WHINE – complain
+WHIZ – expert; fast movement sound
+WHOEVER – any person who
+WIG – hairpiece
+WIGS – plural hairpieces
+WILT – droop
+WILY – cunning
+WIMP – weak person (slang)
+WINGS – flying limbs or side sections
+WINS – victories
+WIRY – thin but strong
+WIS – to know (archaic; Germanic root)
+WISP – small thin piece
+WITHOUT – lacking
+WITS – intelligence
+WIZ – wizard (slang)
+WOES – troubles
+WOKS – cooking pans
+WOO – court romantically
+WOODY – covered with wood; forest-like
+WOP – ethnic slur (offensive; historical usage)
+WORSE – more bad
+WORSHIP – religious devotion
+WORT – herb plant
+WOS – was (dialect)
+WOT – what (dialect)
+WOULD – conditional verb form
+WOUND – injury; past of wind (clock, etc.)
+WREAK – inflict damage
+WRING – twist to squeeze
+WROTE – past of write
+WUSS – coward (slang)
+YAH – yes or shout (slang)
+YAKS – large cattle-like animals
+YAMS – root vegetables
+YAPS – barks or talks loudly
+YAWS – nautical movements; tropical disease
+YAY – cheer
+YEAS – votes of yes
+YEH – yeah
+YENS – cravings
+YEP – yes
+YEPS – multiple yes responses
+YERK – jerk; pull sharply
+YEW – evergreen tree
+YEWS – plural yew trees
+YID – Jewish person (offensive in some contexts)
+YIN – feminine principle (Chinese philosophy)
+YIP – sharp cry
+YIPS – nervous shaking (sports)
+YOB – rude person (British slang)
+YOBS – plural rude people
+YOD – Hebrew letter
+YOGI – yoga practitioner
+YOM – day (Hebrew)
+YOURS – belonging to you
+YOW – cry (old dialect)
+YOWS – plural cries
+YUK – laughter or disgust sound
+YUKS – laughs
+YUP – yes (slang)
+ZEDS – plural of Z (British English)
+ZEE – Z (American English name for the letter)
+ZEES – plural Zs
+ZEK – prisoner (Soviet slang)
+ZEP – Zeppelin (short form)
+ZETA – Greek letter
+ZIN – zinc (abbr.); zinfandel wine (slang)
+ZOA – living beings; animal groups (plural, biology)

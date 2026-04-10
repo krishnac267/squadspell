@@ -1,0 +1,50 @@
+{
+  "name": "squadspell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Squad Spell — pass-and-play and LAN party word game",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishnac267/squadspell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krishnac267/squadspell/issues"
+  },
+  "homepage": "https://github.com/krishnac267/squadspell#readme",
+  "main": "server.cjs",
+  "bin": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "build:exe": "pkg . --compress GZip -o dist/SquadSpell.exe && node scripts/after-build.cjs",
+    "build:fallbacks": "node scripts/build-word-meaning-fallbacks.cjs",
+    "extension:sync": "node scripts/sync-chrome-extension.cjs",
+    "android:sync": "node scripts/sync-android-www.cjs && npx cap sync android",
+    "android:build": "npm run android:sync && node scripts/android-build.cjs assembleDebug",
+    "android:bundle": "npm run android:sync && node scripts/android-build.cjs bundleRelease",
+    "build": "npm run build:exe",
+    "android:open": "npx cap open android",
+    "package:portable": "node scripts/package-portable.cjs",
+    "package:release": "npm run build:exe && node scripts/package-portable.cjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "pkg": "^5.8.1"
+  },
+  "pkg": {
+    "assets": [
+      "index.html",
+      "dictionary.js",
+      "word-meaning-fallbacks.js",
+      "assets/squadspell-logo.png"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ]
+  }
+}

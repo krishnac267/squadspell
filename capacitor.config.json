@@ -1,0 +1,11 @@
+{
+  "appId": "com.squadspell.app",
+  "appName": "SquadSpell",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "http"
+  }
+}

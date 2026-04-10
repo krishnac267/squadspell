@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "SquadSpell",
+  "version": "1.0.0",
+  "description": "Open SquadSpell in its own window. Defaults to local word list (no Google Fonts). Optional web dictionary if you enable it in-game.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "SquadSpell",
+    "default_icon": {
+      "16": "assets/squadspell-logo.png",
+      "32": "assets/squadspell-logo.png",
+      "48": "assets/squadspell-logo.png",
+      "128": "assets/squadspell-logo.png"
+    }
+  },
+  "icons": {
+    "16": "assets/squadspell-logo.png",
+    "48": "assets/squadspell-logo.png",
+    "128": "assets/squadspell-logo.png"
+  },
+  "permissions": ["windows"],
+  "host_permissions": [
+    "https://api.dictionaryapi.dev/*",
+    "http://127.0.0.1/*",
+    "http://localhost/*"
+  ],
+  "content_security_policy": {
+    "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval'; child-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://api.dictionaryapi.dev http://127.0.0.1:* http://localhost:* ws://127.0.0.1:* ws://localhost:*"
+  },
+  "sandbox": {
+    "pages": ["game.html"]
+  }
+}

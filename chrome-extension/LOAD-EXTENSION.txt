@@ -1,0 +1,21 @@
+SquadSpell Chrome extension — load unpacked
+
+Easiest for sharing: run "npm run package:release" (or "package:portable") on the dev PC, then zip the folder:
+  dist/SquadSpell-Portable/
+It contains SquadSpell.exe + this chrome-extension folder + README.
+
+---
+
+1) From the SquadSpell project folder, run:
+   npm run extension:sync
+   (Copies index.html → game.html, dictionary.js, and assets/ into this folder.)
+
+2) Open Chrome → chrome://extensions
+
+3) Turn on "Developer mode"
+
+4) Click "Load unpacked" and choose this "chrome-extension" folder
+
+5) Pin SquadSpell on the toolbar. Click the icon → "Start game" opens the game in a window.
+
+Portable package: double-click SquadSpell-Launch.bat (or SquadSpell.exe). The server starts; Chrome opens to chrome://extensions/ and a tab with setup steps (folder path to load unpacked). Wi‑Fi / host mode uses the same server as "npm start", port 3331. No Node.js install needed for end users.

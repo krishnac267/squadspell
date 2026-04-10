@@ -1,0 +1,497 @@
+PACKED full
+PADDLE small oar
+PALACE royal home
+PAMPER spoil
+PANDER indulge
+PARADE procession
+PARCEL package
+PARENT father/mother
+PARROT talking bird
+PARTLY partially
+PASTRY baked dough
+PATENT legal invention right
+PATROL guard duty
+PATRON supporter
+PAUSED stopped briefly
+PAVING surface laying
+PAYING giving money
+PAYOFF reward/result
+PEACHY excellent
+PEBBLE small stone
+PEDDLE sell/propel bike
+PENCIL writing tool
+PEOPLE humans
+PEPPER spice
+PERIOD time/grammar mark
+PERMIT allow/license
+PERSON individual
+PETITE small
+PICKLE preserved food/problem
+PICNIC outdoor meal
+PIGEON bird
+PILLAR column/support
+PILLOW cushion
+PIRATE sea robber
+PISTOL small gun
+PLAQUE plaque/award
+PLANET celestial body
+PLAYER participant
+PLEASE satisfy
+PLEDGE promise
+PLENTY abundance
+PLIERS gripping tool
+PLUNGE dive/drop
+POCKET small bag
+POETRY verse
+POISON toxic substance
+POLICE law enforcement
+POLICY rule
+POLISH shine/refine
+POLITE courteous
+POORLY badly/sick
+PORTAL gateway
+POSTER notice/image
+POTATO vegetable
+POTENT powerful
+POTION liquid mixture
+POTTER craft worker
+POULTRY farm birds
+POWDER fine dust
+PRAISE admiration
+PRAYER prayer
+PREFIX beginning part
+PRETTY attractive
+PRINCE royal male
+PRISON jail
+PROFIT gain
+PROMPT quick/urge
+PROPER correct
+PROTON atomic particle
+PROVEN confirmed
+PUBLIC open
+PUDDLE small water pool
+PUMMEL beat repeatedly
+PUNISH penalize
+PUPPET controlled figure
+PURELY completely
+PURPLE color
+PURSUE follow
+PUSHER one who pushes/supplies
+PUZZLE problem/game
+QUARRY stone mine
+QUARTZ mineral
+QUENCH satisfy thirst
+QUIRKY odd
+RABBIT small animal
+RACIAL race-related
+RACKET noise/sports tool
+RADISH vegetable
+RAFFLE lottery
+RAGGED torn
+RAGING furious
+RAISED lifted
+RAISIN dried grape
+RAMBLE wander/speak loosely
+RANDOM without order
+RANGER forest officer
+RANSOM payment for release
+RANKED ordered
+RARELY seldom
+RASCAL mischievous person
+RATHER somewhat
+RATION fixed share
+RATTLE shake/noise
+RAVAGE destroy
+READER one who reads
+REALLY truly
+REASON cause
+RECALL remember
+RECENT new
+RECIPE cooking instructions
+RECKON think
+RECORD register/music
+REDUCE make smaller
+REFORM improve
+REFUND money back
+REFUSE decline/waste
+REGARD consider
+REGIME system/government
+REGION area
+REGRET feel sorry
+REHEAT warm again
+REJECT refuse
+RELATE connect
+RELENT soften
+RELICS remains
+RELIEF comfort
+RELISH enjoyment
+REMAIN stay
+REMARK comment
+REMEDY cure
+REMIND cause to remember
+REMOTE far/controlled
+REMOVE take away
+RENDER give/represent
+RENTAL leasing
+REPAID paid back
+REPAIR fix
+REPEAL cancel law
+REPEAT do again
+REPLAY play again
+REPORT account/news
+RESCUE save
+RESENT feel bitterness
+RESIDE live
+RESIGN quit
+RESIST oppose
+RESORT resort/place
+RESULT outcome
+RESUME continue
+RETAIL selling goods
+RETAIN keep
+RETIRE stop working
+RETORT reply sharply
+RETURN come back
+REVEAL show
+REVIEW examine
+REVOLT rebellion
+REWARD prize
+RHYTHM beat pattern
+RIBBON strip
+RIDDLE puzzle
+RIDING mounted travel
+RIFFLE flick through
+RIPPLE small wave
+RISING going up
+RITUAL ceremony
+ROBUST strong
+ROCKET spacecraft
+ROSTER list
+ROTTEN decayed
+RUBBLE broken pieces
+RUFFLE wrinkle/disturb
+RUGGED rough
+RULING decision
+RUMBLE low noise
+RUNNER one who runs
+RUNWAY aircraft path
+RUSTIC rural
+SACRED holy
+SADDLE horse seat
+SAFELY without danger
+SAFETY protection
+SAILOR sea worker
+SALARY pay
+SALMON fish
+SALOON bar/wagon
+SAMPLE example
+SANDAL footwear
+SAVAGE wild
+SAVING money stored
+SAYING proverb
+SCARCE rare
+SCARED frightened
+SCENIC beautiful view
+SCHEME plan
+SCHOOL learning place
+SCREEN display/barrier
+SCRIPT written text
+SCULPT carve
+SEARCH look for
+SEASON time period
+SECOND unit/time
+SECRET hidden
+SECTOR division
+SECURE safe
+SELECT choose
+SELLER one who sells
+SENIOR older
+SEQUEL continuation
+SERIAL series-based
+SERIES sequence
+SERMON religious speech
+SERVER provider/computer
+SETTLE resolve/live
+SEVERE harsh
+SHADOW shade
+SHAKEN disturbed
+SHAMAN healer
+SHANTY shack/song
+SHAPED formed
+SHIELD protection
+SHOULD ought to
+SHOWER bath/rain
+SHRIMP small seafood
+SHROUD cover
+SHRUNK became smaller
+SICKEN disgust/make ill
+SIGNAL sign
+SILENT quiet
+SILVER metal
+SIMMER cook gently
+SIMPLE easy
+SIMPLY just
+SINGER vocalist
+SINGLE one only
+SISTER female sibling
+SKETCH drawing
+SKINNY very thin
+SLEEVE arm covering
+SLIGHT small
+SLOPPY messy
+SMOOTH even
+SNATCH grab
+SNIPER marksman
+SOCIAL society-related
+SOCKET connector
+SOFTEN make soft
+SOLEMN serious
+SOLELY only
+SOLIDS solid substances
+SORROW sadness
+SOURCE origin
+SPEECH spoken words
+SPIDER arachnid
+SPIRAL coiled
+SPIRIT soul/energy
+SPLASH splash water
+SPONGE absorbent material
+SPORTY athletic
+SPOUSE husband/wife
+SPRAWL spread out
+SPREAD expand
+SPRING season/jump
+SPRINT run fast
+SQUARE geometric shape
+SQUASH crush
+STABLE steady/barn
+STANCE position
+STAPLE basic item
+STATUS condition
+STEADY stable
+STEAMY hot/moist
+STENCH bad smell
+STEREO sound system
+STICKY adhesive
+STITCH sewing join
+STOLEN taken unlawfully
+STORMY stormy weather
+STRAIN pressure
+STRAND string/beach
+STRAP belt
+STREAK line
+STREAM small river/data flow
+STREET road
+STRESS pressure
+STRIDE step
+STRIKE hit
+STRING cord
+STRIPE line
+STRIVE try hard
+STROKE hit/move
+STRONG powerful
+STRUCK hit/past of strike
+STUDIO workspace
+STUFFY closed/suffocating
+STUMPY short/thick
+STUPID foolish
+SUBMIT present/accept
+SUBTLE not obvious
+SUDDEN quick
+SUFFER endure pain
+SUMMIT top meeting/mountain peak
+SUMMON call
+SUPERB excellent
+SUPPLY provide
+SURELY certainly
+SURVEY examine
+SUPPER evening meal
+SWITCH change device
+SYMBOL sign
+SYNTAX structure rules
+SYSTEM organized set
+TABLET pill/device
+TACKLE handle/gear
+TAILOR clothing maker
+TALENT skill
+TANGLE twist/mess
+TARGET aim
+TARIFF tax
+TATTOO ink design
+TAVERN pub
+TEAPOT tea container
+TEMPLE religious building
+TENANT renter
+TENDER soft/caring
+TENNIS sport
+TENURE term of holding office
+TERROR extreme fear
+THATCH roof covering
+THEORY explanation idea
+THIRTY number 30
+THIRST desire for water
+THORNY difficult/with thorns
+THOUGH although
+THRILL excitement
+THRIVE grow well
+THRONE royal seat
+THRUST push
+THWART block
+TICKET pass
+TICKLE light touch
+TIDBIT small piece
+TIMBER wood
+TIMELY on time
+TINKER repair casually
+TISSUE paper/body material
+TOASTY warm
+TODDLE walk like baby
+TOILET restroom fixture
+TOMATO fruit
+TONGUE organ/language
+TOPPLE fall over
+TORQUE twisting force
+TOWARD in direction of
+TRANCE hypnotic state
+TRAVEL go from place to place
+TREATY agreement
+TRIBAL related to tribe
+TRICKS clever acts
+TRIFLE small thing
+TRIPLE three times
+TROPHY award
+TRUANT absent without permission
+TRUDGE walk heavily
+TRUMPS beats
+TUMBLE fall
+TUNNEL underground passage
+TURKEY bird
+TURNIP vegetable
+TURTLE reptile
+TWELVE number 12
+TWENTY number 20
+TYCOON wealthy person
+TYPING writing on keyboard
+TYRANT cruel ruler
+UGLIER more ugly
+ULTIMO last month (legal/finance term)
+UNBORN not yet born
+UNDONE not finished
+UNDULY excessively
+UNFAIR not fair
+UNFOLD open
+UNFURL spread out
+UNIQUE one of a kind
+UNITED joined
+UNJUST not just
+UNKIND not kind
+UNLESS except if
+UNLIKE different from
+UNLOCK open lock
+UNMASK reveal identity
+UNPACK remove from packing
+UNPLUG disconnect
+UNREST disturbance
+UNSEEN not seen
+UNTIDY messy
+UNTOLD countless/unsaid
+UNUSED not used
+UNWRAP open package
+UPDATE make current
+UPHOLD support
+UPKEEP maintenance
+UPLIFT raise
+UPROAR loud disturbance
+UPROOT remove completely
+UPSHOT result
+UPTAKE absorption/increase
+UPTOWN city upper area
+UPWARD going up
+URGENT very important
+USEFUL helpful
+UTMOST greatest degree
+UTOPIA ideal place
+UTTERS speaks
+VACANT empty
+VACUUM empty space
+VALLEY low land
+VALUED appreciated
+VANISH disappear
+VANITY excessive pride
+VARIED diverse
+VELVET soft fabric
+VENDOR seller
+VENEER surface layer
+VENOM poison
+VERBAL spoken
+VERGE edge
+VERSUS against
+VESSEL container/ship
+VIABLE workable
+VICTIM harmed person
+VIEWER observer
+VIGOUR energy
+VINERY grape farm
+VIOLET purple flower/color
+VIRGIN untouched
+VISION sight/idea
+VISUAL seen image
+VIVACE lively (music term)
+VOLUME amount/size/sound
+VORTEX swirling motion
+VOTING casting votes
+VOYAGE journey
+VULGAR crude
+WADING walking in water
+WAFFLE food/talk aimlessly
+WAILED cried loudly
+WAITED stayed
+WAITER server
+WALNUT nut
+WANDER roam
+WANTED desired
+WARDEN supervisor
+WARMLY warmly
+WARMTH heat
+WARNED cautioned
+WARREN rabbit burrow
+WASHER cleaning device
+WASTED ruined
+WEALTH riches
+WEAPON tool for harm
+WEAKEN make weak
+WEEKLY every week
+WEIGHT heaviness
+WHIMSY playful fancy
+WHISKY alcohol drink
+WICKED evil
+WICKER woven material
+WIELD handle/use
+WIGGLE move slightly
+WIDGET small tool/software item
+WINDER winding device
+WINDOW opening/glass
+WINNER victor
+WINTER cold season
+WIRING electrical setup
+WISDOM knowledge
+WISHED desired
+WISHES desires
+WITHIN inside
+WIZARD magician
+WOBBLE shake
+WONDER curiosity/amaze
+WOODEN made of wood
+WORKER laborer
+WORTHY deserving
+WRAITH ghost
+WREATH circular decoration
+WRENCH tool
+WRITER author
+YEARLY every year
+YEOMAN worker/servant (historical)
+YOGURT fermented dairy
+ZIGZAG sharp back-and-forth pattern
+ZODIAC star sign system
+ZOMBIE reanimated dead being
+ZONING land-use regulation
